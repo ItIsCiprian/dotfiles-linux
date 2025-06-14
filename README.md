@@ -1,4 +1,4 @@
-# My Dev Environment Files for MacOS using .stow 🚀
+# My Dev Environment Files for Linux using .stow 🚀
 
 # Dotfiles symlinked on my machine
 

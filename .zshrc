@@ -133,11 +133,7 @@ alias cd="z"
 alias reload-zsh="source ~/.zshrc"
 alias edit-zsh="nvim ~/.zshrc"
 
-# Productivity tools (using notify-send for Linux notifications)
-alias work="sleep 3600 && notify-send 'Pomodoro' 'Work Timer is up! Take a Break 😊'"
-alias rest="sleep 600 && notify-send 'Pomodoro' 'Break is over! Get back to work 😬'"
-
-# File browsing and editing
+# File browsing and editing Aliases
 alias vim="nvim"
 alias ls="eza --color=always --long --git --no-filesize --icons=always --no-time --no-user --no-permissions"
 
@@ -146,3 +142,23 @@ alias ls="eza --color=always --long --git --no-filesize --icons=always --no-time
 # -----------------------------------------------------------------------------
 # Source ~/.profile for additional environment settings if present
 [ -f "$HOME/.profile" ] && source "$HOME/.profile"
+
+# -----------------------------------------------------------------------------
+# 10. Pomodoro Work and rest timer
+# -----------------------------------------------------------------------------
+#🍅 Pomodoro-style timer functions
+
+work() {
+  echo "▶️  Starting 60-minute work timer..."
+  timer 60m
+  notify-send -i "$HOME/Pictures/tomato.png" "Pomodoro 🍅" "✅ Work timer is up! Take a break 😊"
+  play -q /usr/share/sounds/freedesktop/stereo/complete.oga
+}
+
+rest() {
+  echo "☕  Starting 10-minute break..."
+  timer 10m
+  notify-send -i "$HOME/Pictures/tomato.png" "Pomodoro 🍅" "⏰ Break is over! Get back to work 😬"
+  play -q /usr/share/sounds/freedesktop/stereo/complete.oga
+}
+

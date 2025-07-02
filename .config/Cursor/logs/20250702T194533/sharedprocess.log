@@ -1,0 +1,264 @@
+2025-07-02 19:46:17.306 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/christian-kohler.path-intellisense-2.10.0/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/christian-kohler.path-intellisense-2.10.0/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:17.309 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/mhutchie.git-graph-1.30.0/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/mhutchie.git-graph-1.30.0/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:17.312 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/tyriar.sort-lines-1.12.0/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/tyriar.sort-lines-1.12.0/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:17.324 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/ms-azuretools.vscode-containers-2.0.3/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/ms-azuretools.vscode-containers-2.0.3/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:17.330 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/ms-python.isort-2025.0.0/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/ms-python.isort-2025.0.0/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:17.331 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.9/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:17.332 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/ms-vscode.vscode-typescript-next-5.9.20250701/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/ms-vscode.vscode-typescript-next-5.9.20250701/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:17.333 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/dsznajder.es7-react-js-snippets-4.4.3/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/dsznajder.es7-react-js-snippets-4.4.3/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:17.334 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/naumovs.color-highlight-2.8.0/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/naumovs.color-highlight-2.8.0/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:17.335 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/ms-python.debugpy-2025.8.0-linux-x64/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/ms-python.debugpy-2025.8.0-linux-x64/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:17.338 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/vscode-icons-team.vscode-icons-12.13.0/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/vscode-icons-team.vscode-icons-12.13.0/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:17.339 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/ritwickdey.liveserver-5.7.9/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/ritwickdey.liveserver-5.7.9/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:17.341 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/tonybaloney.vscode-pets-1.32.0/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/tonybaloney.vscode-pets-1.32.0/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:17.342 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/ms-vscode.powershell-2025.2.0/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/ms-vscode.powershell-2025.2.0/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:17.343 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/redhat.java-1.43.1-linux-x64/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/redhat.java-1.43.1-linux-x64/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:17.344 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:17.345 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/googlecloudtools.cloudcode-2.31.1/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/googlecloudtools.cloudcode-2.31.1/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:17.345 [error] Error: Unable to read file '/home/ionutcipriananescu/.cursor/extensions/google.geminicodeassist-2.38.0/package.json' (Error: Unable to resolve nonexistent file '/home/ionutcipriananescu/.cursor/extensions/google.geminicodeassist-2.38.0/package.json')
+    at mu.G (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:7066)
+    at mu.F (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6891)
+    at async mu.D (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:92:6263)
+    at async ja.t (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:44878)
+    at async ja.scanExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:43385)
+    at async jf.scanExistingExtension (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:35539)
+    at async fu.scanUserExtensionAtLocation (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:69125)
+    at async uu.Db (file:///tmp/.mount_cursorBtbfhj/usr/share/cursor/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:87:67329)
+2025-07-02 19:46:18.734 [info] Getting Manifest... anysphere.remote-wsl
+2025-07-02 19:46:18.735 [info] Getting Manifest... anysphere.remote-containers
+2025-07-02 19:46:18.952 [info] Getting Manifest... anysphere.cursorpyright
+2025-07-02 19:46:19.647 [info] Installing extension: anysphere.remote-wsl {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json","path":"/home/ionutcipriananescu/.cursor/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.2.0","date":"2025-07-01T19:54:35.986Z","vscodeVersion":"1.99.3"}}
+2025-07-02 19:46:19.650 [info] Installing extension: anysphere.remote-containers {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json","path":"/home/ionutcipriananescu/.cursor/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.2.0","date":"2025-07-01T19:54:35.986Z","vscodeVersion":"1.99.3"}}
+2025-07-02 19:46:19.698 [info] Started downloading extension: anysphere.remote-wsl 1.0.4 file:///home/ionutcipriananescu/.config/Cursor/CachedExtensionVSIXs/anysphere.remote-wsl-1.0.4
+2025-07-02 19:46:19.700 [info] Started downloading extension: anysphere.remote-containers 1.0.8 file:///home/ionutcipriananescu/.config/Cursor/CachedExtensionVSIXs/anysphere.remote-containers-1.0.8
+2025-07-02 19:46:19.804 [info] Installing extension: anysphere.cursorpyright {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json","path":"/home/ionutcipriananescu/.cursor/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.2.0","date":"2025-07-01T19:54:35.986Z","vscodeVersion":"1.99.3"}}
+2025-07-02 19:46:20.054 [info] Getting Manifest... ms-python.python
+2025-07-02 19:46:20.247 [info] Extracted extension to file:///home/ionutcipriananescu/.cursor/extensions/anysphere.remote-wsl-1.0.4: anysphere.remote-wsl
+2025-07-02 19:46:20.253 [info] Renamed to /home/ionutcipriananescu/.cursor/extensions/anysphere.remote-wsl-1.0.4
+2025-07-02 19:46:20.270 [info] Extension installed successfully: anysphere.remote-wsl vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:20.573 [info] Extracted extension to file:///home/ionutcipriananescu/.cursor/extensions/anysphere.remote-containers-1.0.8: anysphere.remote-containers
+2025-07-02 19:46:20.578 [info] Renamed to /home/ionutcipriananescu/.cursor/extensions/anysphere.remote-containers-1.0.8
+2025-07-02 19:46:20.584 [info] Getting Manifest... ms-python.debugpy
+2025-07-02 19:46:20.596 [info] Extension installed successfully: anysphere.remote-containers vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:21.205 [info] Installing extension: ms-python.python {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json","path":"/home/ionutcipriananescu/.cursor/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.2.0","date":"2025-07-01T19:54:35.986Z","vscodeVersion":"1.99.3"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-07-02 19:46:21.205 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json","path":"/home/ionutcipriananescu/.cursor/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.2.0","date":"2025-07-01T19:54:35.986Z","vscodeVersion":"1.99.3"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-07-02 19:46:21.213 [info] Started downloading extension: anysphere.cursorpyright 1.0.5 file:///home/ionutcipriananescu/.config/Cursor/CachedExtensionVSIXs/anysphere.cursorpyright-1.0.5
+2025-07-02 19:46:21.215 [info] Started downloading extension: ms-python.python 2025.6.1 file:///home/ionutcipriananescu/.config/Cursor/CachedExtensionVSIXs/ms-python.python-2025.6.1-linux-x64
+2025-07-02 19:46:21.216 [info] Started downloading extension: ms-python.debugpy 2025.6.0 file:///home/ionutcipriananescu/.config/Cursor/CachedExtensionVSIXs/ms-python.debugpy-2025.6.0-linux-x64
+2025-07-02 19:46:21.537 [info] Getting Manifest... ms-python.python
+2025-07-02 19:46:21.816 [info] Extension is already requested to install ms-python.python vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:22.614 [info] Extracted extension to file:///home/ionutcipriananescu/.cursor/extensions/ms-python.debugpy-2025.6.0-linux-x64: ms-python.debugpy
+2025-07-02 19:46:22.629 [info] Renamed to /home/ionutcipriananescu/.cursor/extensions/ms-python.debugpy-2025.6.0-linux-x64
+2025-07-02 19:46:24.992 [info] Extracted extension to file:///home/ionutcipriananescu/.cursor/extensions/ms-python.python-2025.6.1-linux-x64: ms-python.python
+2025-07-02 19:46:25.055 [info] Renamed to /home/ionutcipriananescu/.cursor/extensions/ms-python.python-2025.6.1-linux-x64
+2025-07-02 19:46:26.645 [info] Extracted extension to file:///home/ionutcipriananescu/.cursor/extensions/anysphere.cursorpyright-1.0.5: anysphere.cursorpyright
+2025-07-02 19:46:26.779 [info] Renamed to /home/ionutcipriananescu/.cursor/extensions/anysphere.cursorpyright-1.0.5
+2025-07-02 19:46:26.799 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:26.799 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:26.799 [info] Extension installed successfully: anysphere.cursorpyright vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.026 [info] Extensions added from another source aaron-bond.better-comments vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.026 [info] Extensions added from another source aflo.kanagawa-glass vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.027 [info] Extensions added from another source alefragnani.project-manager vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.027 [info] Extensions added from another source benjaminbenais.copilot-theme vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.027 [info] Extensions added from another source catppuccin.catppuccin-vsc vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.028 [info] Extensions added from another source christian-kohler.path-intellisense vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.028 [info] Extensions added from another source chrsolr.rose-pine-nvchad-theme vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.029 [info] Extensions added from another source dbaeumer.vscode-eslint vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.029 [info] Extensions added from another source docker.docker vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.029 [info] Extensions added from another source dsznajder.es7-react-js-snippets vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.030 [info] Extensions added from another source eamodio.gitlens vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.030 [info] Extensions added from another source enkia.tokyo-night vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.031 [info] Extensions added from another source esbenp.prettier-vscode vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.031 [info] Extensions added from another source figma.figma-vscode-extension vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.031 [info] Extensions added from another source firefox-devtools.vscode-firefox-debug vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.032 [info] Extensions added from another source formulahendry.auto-close-tag vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.032 [info] Extensions added from another source formulahendry.auto-rename-tag vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.033 [info] Extensions added from another source github.github-vscode-theme vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.033 [info] Extensions added from another source golang.go vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.033 [info] Extensions added from another source google.geminicodeassist vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.033 [info] Extensions added from another source googlecloudtools.cloudcode vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.034 [info] Extensions added from another source hoovercj.vscode-power-mode vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.034 [info] Extensions added from another source jdinhlife.gruvbox vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.034 [info] Extensions added from another source kamikillerto.vscode-colorize vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.034 [info] Extensions added from another source mattpocock.ts-error-translator vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.034 [info] Extensions added from another source mgmcdermott.vscode-language-babel vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.035 [info] Extensions added from another source mhutchie.git-graph vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.035 [info] Extensions added from another source mikestead.dotenv vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.035 [info] Extensions added from another source morgan-codes.morgan-codes-vscode-theme vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.035 [info] Extensions added from another source ms-azuretools.vscode-containers vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.036 [info] Extensions added from another source ms-azuretools.vscode-docker vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.036 [info] Extensions added from another source ms-edgedevtools.vscode-edge-devtools vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.036 [info] Extensions added from another source ms-kubernetes-tools.vscode-kubernetes-tools vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.036 [info] Extensions added from another source ms-python.debugpy vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.036 [info] Extensions added from another source ms-python.isort vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.037 [info] Extensions added from another source ms-python.python vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.037 [info] Extensions added from another source ms-toolsai.jupyter-keymap vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.037 [info] Extensions added from another source ms-vscode.live-server vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.037 [info] Extensions added from another source ms-vscode.powershell vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.037 [info] Extensions added from another source ms-vscode.vscode-typescript-next vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.038 [info] Extensions added from another source naumovs.color-highlight vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.038 [info] Extensions added from another source orta.vscode-twoslash-queries vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.038 [info] Extensions added from another source qufiwefefwoyn.kanagawa vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.038 [info] Extensions added from another source redhat.java vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.038 [info] Extensions added from another source redhat.vscode-yaml vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.038 [info] Extensions added from another source ritwickdey.liveserver vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.039 [info] Extensions added from another source rocketseat.theme-omni vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.039 [info] Extensions added from another source rodrigovallades.es7-react-js-snippets vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.039 [info] Extensions added from another source sdras.night-owl vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.039 [info] Extensions added from another source tonybaloney.vscode-pets vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.040 [info] Extensions added from another source tyriar.sort-lines vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.040 [info] Extensions added from another source visualstudioexptteam.intellicode-api-usage-examples vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.040 [info] Extensions added from another source visualstudioexptteam.vscodeintellicode vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.040 [info] Extensions added from another source vscjava.vscode-gradle vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.040 [info] Extensions added from another source vscjava.vscode-java-debug vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.040 [info] Extensions added from another source vscjava.vscode-java-dependency vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.041 [info] Extensions added from another source vscjava.vscode-java-pack vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.041 [info] Extensions added from another source vscjava.vscode-java-test vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.041 [info] Extensions added from another source vscjava.vscode-maven vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.041 [info] Extensions added from another source vscode-icons-team.vscode-icons vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.041 [info] Extensions added from another source vscodevim.vim vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.042 [info] Extensions added from another source wix.vscode-import-cost vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.042 [info] Extensions added from another source yoavbls.pretty-ts-errors vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json
+2025-07-02 19:46:27.086 [info] Getting Manifest... ms-python.python
+2025-07-02 19:46:27.374 [info] Installing extension: ms-python.python {"donotVerifySignature":true,"pinned":false,"productVersion":{"version":"1.2.0","date":"2025-07-01T19:54:35.986Z","vscodeVersion":"1.99.3"},"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json","path":"/home/ionutcipriananescu/.cursor/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-07-02 19:46:27.780 [info] Getting Manifest... anysphere.cursorpyright
+2025-07-02 19:46:28.377 [info] Getting Manifest... ms-python.debugpy
+2025-07-02 19:46:28.951 [info] Started downloading extension: ms-python.python 2025.6.1 file:///home/ionutcipriananescu/.config/Cursor/CachedExtensionVSIXs/ms-python.python-2025.6.1-linux-x64
+2025-07-02 19:46:29.950 [info] Marked extension as removed ms-python.python-2025.8.0-linux-x64
+2025-07-02 19:46:29.958 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json

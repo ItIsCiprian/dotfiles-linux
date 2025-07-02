@@ -1,0 +1,427 @@
+2025-07-02 20:01:28.214 [info] Extension host with pid 7794 started
+2025-07-02 20:01:28.214 [info] Skipping acquiring lock for /home/ionutcipriananescu/.config/Cursor/User/workspaceStorage/79c9b1d05a2ab39c4602a01626566294.
+2025-07-02 20:01:28.321 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-02 20:01:28.333 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-07-02 20:01:28.351 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2025-07-02 20:01:28.353 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2025-07-02 20:01:28.389 [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: true, activationEvent: '*'
+2025-07-02 20:01:28.431 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2025-07-02 20:01:28.610 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-02 20:01:28.665 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-02 20:01:28.930 [info] Eager extensions activated
+2025-07-02 20:01:29.110 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:29.358 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:29.413 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:29.443 [info] Extension host with pid 7954 started
+2025-07-02 20:01:29.443 [info] Skipping acquiring lock for /home/ionutcipriananescu/.config/Cursor/User/workspaceStorage/79c9b1d05a2ab39c4602a01626566294.
+2025-07-02 20:01:29.443 [info] Eager extensions activated
+2025-07-02 20:01:29.451 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:29.689 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:29.767 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:29.931 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:29.937 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:29.954 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:29.957 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:29.968 [info] ExtensionService#_doActivateExtension anysphere.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:29.991 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:29.996 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:30.024 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:30.467 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:30.570 [error] Error: ENOENT: no such file or directory, open '/home/ionutcipriananescu/.config/Cursor/User/globalStorage/vscodevim.vim/.registers'
+2025-07-02 20:01:30.610 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:30.666 [info] ExtensionService#_doActivateExtension figma.figma-vscode-extension, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:31.513 [info] ExtensionService#_doActivateExtension google.geminicodeassist, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:32.284 [info] ExtensionService#_doActivateExtension hoovercj.vscode-power-mode, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:32.293 [info] ExtensionService#_doActivateExtension ms-edgedevtools.vscode-edge-devtools, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:32.404 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:32.410 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:32.413 [info] ExtensionService#_doActivateExtension tonybaloney.vscode-pets, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:32.420 [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:32.839 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-02 20:01:32.990 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-07-02 20:01:34.003 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2025-07-02 20:01:39.677 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2025-07-02 20:01:39.732 [info] ExtensionService#_doActivateExtension mattpocock.ts-error-translator, startup: false, activationEvent: 'onLanguage:javascript'
+2025-07-02 20:01:39.901 [info] ExtensionService#_doActivateExtension mgmcdermott.vscode-language-babel, startup: false, activationEvent: 'onLanguage:javascript'
+2025-07-02 20:01:39.903 [info] ExtensionService#_doActivateExtension Orta.vscode-twoslash-queries, startup: false, activationEvent: 'onLanguage:javascript'
+2025-07-02 20:01:39.906 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.intellicode-api-usage-examples, startup: false, activationEvent: 'onLanguage:javascript'
+2025-07-02 20:01:40.098 [info] ExtensionService#_doActivateExtension VisualStudioExptTeam.vscodeintellicode, startup: false, activationEvent: 'onLanguage:javascript'
+2025-07-02 20:01:40.141 [info] ExtensionService#_doActivateExtension wix.vscode-import-cost, startup: false, activationEvent: 'onLanguage:javascript'
+2025-07-02 20:01:41.386 [info] ExtensionService#_doActivateExtension YoavBls.pretty-ts-errors, startup: false, activationEvent: 'onLanguage:javascript'
+2025-07-02 20:02:05.608 [warning] TextEditor is closed/disposed
+2025-07-02 20:08:55.505 [warning] TextEditor is closed/disposed
+2025-07-02 20:08:55.659 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-02 20:08:55.682 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-02 20:08:56.567 [error] TypeError: Cannot read properties of undefined (reading 'filter')
+    at updateDiagnostics (/home/ionutcipriananescu/.cursor/extensions/mattpocock.ts-error-translator-0.10.1/out/extension.js:61730:36)
+    at /home/ionutcipriananescu/.cursor/extensions/mattpocock.ts-error-translator-0.10.1/out/extension.js:61747:15
+    at OV.value (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:196:29596)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.C (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2459)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2676)
+    at OV.value (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:195:74856)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2607)
+    at Srt.acceptDocumentsAndEditorsDelta (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:11774)
+    at Srt.$acceptDocumentsAndEditorsDelta (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:141:10230)
+    at dct.S (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116953)
+    at dct.Q (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116733)
+    at dct.M (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:115821)
+    at dct.L (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:114926)
+    at OV.value (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113720)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2607)
+    at lo.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:9500)
+    at OV.value (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:3958)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2607)
+    at lo.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:9500)
+    at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2241)
+    at MessagePortMain.emit (node:events:524:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.topLevelDomainCallback (node:domain:161:15)
+    at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+2025-07-02 20:09:25.175 [error] TypeError: Cannot read properties of undefined (reading 'filter')
+    at updateDiagnostics (/home/ionutcipriananescu/.cursor/extensions/mattpocock.ts-error-translator-0.10.1/out/extension.js:61730:36)
+    at /home/ionutcipriananescu/.cursor/extensions/mattpocock.ts-error-translator-0.10.1/out/extension.js:61751:13
+    at OV.value (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:196:29596)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.C (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2459)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2676)
+    at Ive.$acceptModelChanged (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1434720)
+    at dct.S (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116953)
+    at dct.Q (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116733)
+    at dct.M (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:115821)
+    at dct.L (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:114926)
+    at OV.value (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113720)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2607)
+    at lo.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:9500)
+    at OV.value (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:3958)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2607)
+    at lo.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:9500)
+    at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2241)
+    at MessagePortMain.emit (node:events:524:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.topLevelDomainCallback (node:domain:161:15)
+    at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+2025-07-02 20:09:25.184 [error] TypeError: Cannot read properties of undefined (reading 'filter')
+    at updateDiagnostics (/home/ionutcipriananescu/.cursor/extensions/mattpocock.ts-error-translator-0.10.1/out/extension.js:61730:36)
+    at /home/ionutcipriananescu/.cursor/extensions/mattpocock.ts-error-translator-0.10.1/out/extension.js:61751:13
+    at OV.value (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:196:29596)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.C (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2459)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2676)
+    at Ive.$acceptDirtyStateChanged (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1434251)
+    at dct.S (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116953)
+    at dct.Q (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116733)
+    at dct.M (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:115821)
+    at dct.L (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:114926)
+    at OV.value (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113720)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2607)
+    at lo.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:9500)
+    at OV.value (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:3958)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2607)
+    at lo.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:9500)
+    at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2241)
+    at MessagePortMain.emit (node:events:524:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.topLevelDomainCallback (node:domain:161:15)
+    at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+2025-07-02 20:09:26.211 [error] TypeError: Cannot read properties of undefined (reading 'filter')
+    at updateDiagnostics (/home/ionutcipriananescu/.cursor/extensions/mattpocock.ts-error-translator-0.10.1/out/extension.js:61730:36)
+    at /home/ionutcipriananescu/.cursor/extensions/mattpocock.ts-error-translator-0.10.1/out/extension.js:61751:13
+    at OV.value (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:196:29596)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.C (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2459)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2676)
+    at Ive.$acceptDirtyStateChanged (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1434251)
+    at dct.S (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116953)
+    at dct.Q (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116733)
+    at dct.M (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:115821)
+    at dct.L (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:114926)
+    at OV.value (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113720)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2607)
+    at lo.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:9500)
+    at OV.value (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:3958)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2607)
+    at lo.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:9500)
+    at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2241)
+    at MessagePortMain.emit (node:events:524:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.topLevelDomainCallback (node:domain:161:15)
+    at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+2025-07-02 20:09:26.223 [error] TypeError: Cannot read properties of undefined (reading 'filter')
+    at updateDiagnostics (/home/ionutcipriananescu/.cursor/extensions/mattpocock.ts-error-translator-0.10.1/out/extension.js:61730:36)
+    at /home/ionutcipriananescu/.cursor/extensions/mattpocock.ts-error-translator-0.10.1/out/extension.js:61751:13
+    at OV.value (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:196:29596)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.C (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2459)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2676)
+    at Ive.$acceptDirtyStateChanged (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1434251)
+    at Ive.$acceptModelSaved (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1434053)
+    at dct.S (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116953)
+    at dct.Q (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116733)
+    at dct.M (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:115821)
+    at dct.L (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:114926)
+    at OV.value (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113720)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2607)
+    at lo.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:9500)
+    at OV.value (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:3958)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2607)
+    at lo.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:9500)
+    at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2241)
+    at MessagePortMain.emit (node:events:524:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.topLevelDomainCallback (node:domain:161:15)
+    at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+2025-07-02 20:09:26.623 [error] TypeError: Cannot read properties of undefined (reading 'filter')
+    at updateDiagnostics (/home/ionutcipriananescu/.cursor/extensions/mattpocock.ts-error-translator-0.10.1/out/extension.js:61730:36)
+    at /home/ionutcipriananescu/.cursor/extensions/mattpocock.ts-error-translator-0.10.1/out/extension.js:61804:15
+    at OV.value (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:196:29596)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.C (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2459)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2676)
+    at u8t.$acceptConfigurationChanged (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:3170)
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:2715
+2025-07-02 20:10:37.639 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-02 20:10:37.642 [error] Error: ENOENT: no such file or directory, open '/home/ionutcipriananescu/.config/Cursor/User/globalStorage/vscodevim.vim/.registers'
+2025-07-02 20:10:37.642 [info] Extension host with pid 7954 exiting with code 0
+2025-07-02 20:10:37.646 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-02 20:10:37.688 [error] An error occurred when disposing the subscriptions for extension 'eamodio.gitlens':
+2025-07-02 20:10:37.699 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+    at Object.dispose (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:158:1448643)
+    at cst.<anonymous> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:129:9055)
+    at cst.dispose (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:129:9151)
+    at Object.dispose (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:489:29281)
+    at /home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:766:16142
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:766:16124)
+    at tn (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:704)
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:15465
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1016
+    at Object.dispose (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:711)
+    at pTe.eb (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:12245)
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10198
+    at Array.map (<anonymous>)
+    at pTe.$ (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10186)
+    at pTe.terminate (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10429)
+    at LJt.terminate (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+    at rr (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+    at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+    at MessagePortMain.emit (node:events:524:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.topLevelDomainCallback (node:domain:161:15)
+    at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+2025-07-02 20:10:37.715 [warning] Canceled
+2025-07-02 20:10:37.726 [error] Canceled: Canceled
+    at new EBt (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:112347)
+    at dct.U (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116990)
+    at Proxy.r.<computed>.a.charCodeAt.r.<computed> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:114482)
+    at Vnt.g (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:41371)
+    at Vnt.executeCommand (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40875)
+    at e.registerCommand.description (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40205)
+    at Vnt.h (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:41892)
+    at Vnt.g (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40968)
+    at Vnt.executeCommand (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40875)
+    at Object.executeCommand (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:196:35730)
+    at OV.N [as value] (/tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:515468)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.C (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2459)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2676)
+    at Object.f [as dispose] (/tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:538127)
+    at /tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:544445
+    at Array.forEach (<anonymous>)
+    at C.dispose (/tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:544431)
+    at cst.<anonymous> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:129:9055)
+    at cst.dispose (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:129:9151)
+    at cst.<anonymous> (/tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:517952)
+    at cst.dispose (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:129:9151)
+    at tn (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:704)
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:15465
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1016
+    at Object.dispose (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:711)
+    at pTe.eb (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:12245)
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10198
+    at Array.map (<anonymous>)
+    at pTe.$ (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10186)
+    at pTe.terminate (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10429)
+    at LJt.terminate (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+    at rr (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+    at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+    at MessagePortMain.emit (node:events:524:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.topLevelDomainCallback (node:domain:161:15)
+    at Object.callbackTrampoline (node:internal/async_hooks:128:24) setContext undefined
+2025-07-02 20:10:37.728 [error] Canceled: Canceled
+    at new EBt (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:112347)
+    at dct.U (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116990)
+    at Proxy.r.<computed>.a.charCodeAt.r.<computed> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:114482)
+    at Vnt.g (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:41371)
+    at Vnt.executeCommand (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40875)
+    at e.registerCommand.description (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40205)
+    at Vnt.h (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:41892)
+    at Vnt.g (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40968)
+    at Vnt.executeCommand (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40875)
+    at Object.executeCommand (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:196:35730)
+    at t.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/extensions/github/dist/extension.js:2:217805)
+    at /tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/extensions/github/dist/extension.js:2:218764
+    at OV.value (/tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:640601)
+    at x.B (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2389)
+    at x.C (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2459)
+    at x.fire (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:2676)
+    at Object.f [as dispose] (/tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:538127)
+    at /tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:544445
+    at Array.forEach (<anonymous>)
+    at C.dispose (/tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:544431)
+    at cst.<anonymous> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:129:9055)
+    at cst.dispose (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:129:9151)
+    at cst.<anonymous> (/tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/extensions/git/dist/main.js:2:517952)
+    at cst.dispose (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:129:9151)
+    at tn (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:704)
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:15465
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1016
+    at Object.dispose (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:711)
+    at pTe.eb (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:12245)
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10198
+    at Array.map (<anonymous>)
+    at pTe.$ (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10186)
+    at pTe.terminate (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10429)
+    at LJt.terminate (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+    at rr (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+    at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+    at MessagePortMain.emit (node:events:524:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.topLevelDomainCallback (node:domain:161:15)
+    at Object.callbackTrampoline (node:internal/async_hooks:128:24) setContext undefined
+2025-07-02 20:10:37.729 [error] Canceled: Canceled
+    at new EBt (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:112347)
+    at dct.U (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116990)
+    at Proxy.r.<computed>.a.charCodeAt.r.<computed> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:114482)
+    at Vnt.g (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:41371)
+    at Vnt.executeCommand (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40875)
+    at e.registerCommand.description (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40205)
+    at Vnt.h (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:41892)
+    at Vnt.g (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40968)
+    at Vnt.executeCommand (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40875)
+    at Object.executeCommand (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:196:35730)
+    at w (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:32:9119)
+    at c (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2024:32473)
+    at ActionRunners._updateContextKeys (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2029:3862)
+    at s (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2029:2306)
+    at RegisteredActionRunner.unregister (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2029:2449)
+    at RegisteredActionRunner.dispose (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2029:1109)
+    at Object.dispose (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2029:2543)
+    at tn (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:704)
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:15465
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1016
+    at Object.dispose (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:711)
+    at pTe.eb (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:12245)
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10198
+    at Array.map (<anonymous>)
+    at pTe.$ (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10186)
+    at pTe.terminate (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10429)
+    at LJt.terminate (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+    at rr (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+    at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+    at MessagePortMain.emit (node:events:524:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.topLevelDomainCallback (node:domain:161:15)
+    at Object.callbackTrampoline (node:internal/async_hooks:128:24) setContext undefined
+2025-07-02 20:10:37.730 [error] Canceled: Canceled
+    at new EBt (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:112347)
+    at dct.U (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116990)
+    at Proxy.r.<computed>.a.charCodeAt.r.<computed> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:114482)
+    at Vnt.g (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:41371)
+    at Vnt.executeCommand (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40875)
+    at e.registerCommand.description (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40205)
+    at Vnt.h (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:41892)
+    at Vnt.g (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40968)
+    at Vnt.executeCommand (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40875)
+    at Object.executeCommand (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:196:35730)
+    at w (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:32:9119)
+    at c (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2024:32473)
+    at ActionRunners._updateContextKeys (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2029:3862)
+    at s (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2029:2306)
+    at RegisteredActionRunner.unregister (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2029:2449)
+    at RegisteredActionRunner.dispose (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2029:1109)
+    at Object.dispose (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2029:2543)
+    at tn (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:704)
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:15465
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1016
+    at Object.dispose (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:711)
+    at pTe.eb (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:12245)
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10198
+    at Array.map (<anonymous>)
+    at pTe.$ (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10186)
+    at pTe.terminate (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10429)
+    at LJt.terminate (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+    at rr (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+    at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+    at MessagePortMain.emit (node:events:524:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.topLevelDomainCallback (node:domain:161:15)
+    at Object.callbackTrampoline (node:internal/async_hooks:128:24) setContext undefined
+2025-07-02 20:10:37.731 [error] Canceled: Canceled
+    at new EBt (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:112347)
+    at dct.U (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:116990)
+    at Proxy.r.<computed>.a.charCodeAt.r.<computed> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:114482)
+    at Vnt.g (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:41371)
+    at Vnt.executeCommand (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40875)
+    at e.registerCommand.description (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40205)
+    at Vnt.h (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:41892)
+    at Vnt.g (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40968)
+    at Vnt.executeCommand (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:134:40875)
+    at Object.executeCommand (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:196:35730)
+    at w (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:32:9119)
+    at c (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2024:32473)
+    at ActionRunners._updateContextKeys (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2029:3862)
+    at s (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2029:2306)
+    at RegisteredActionRunner.unregister (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2029:2449)
+    at RegisteredActionRunner.dispose (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2029:1109)
+    at Object.dispose (/home/ionutcipriananescu/.cursor/extensions/eamodio.gitlens-17.2.1/dist/gitlens.js:2029:2543)
+    at tn (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:704)
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:15465
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:1016
+    at Object.dispose (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:10:711)
+    at pTe.eb (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:12245)
+    at file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10198
+    at Array.map (<anonymous>)
+    at pTe.$ (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10186)
+    at pTe.terminate (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10429)
+    at LJt.terminate (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+    at rr (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+    at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+    at MessagePortMain.emit (node:events:524:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+    at Object.topLevelDomainCallback (node:domain:161:15)
+    at Object.callbackTrampoline (node:internal/async_hooks:128:24) setContext undefined
+2025-07-02 20:10:37.742 [error] Error: Channel has been closed
+    at r (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:2439)
+    at Object.appendLine (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:2578)
+    at c (/tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:1816886)
+    at t.deactivate (/tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:1818542)
+    at /tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:321199
+    at Object.t.deactivate (/tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:321258)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async Promise.all (index 1)
+    at pTe.$ (file:///tmp/.mount_cursorE4g2Uz/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10212)
+2025-07-02 20:10:37.762 [info] Extension host with pid 7794 exiting with code 0

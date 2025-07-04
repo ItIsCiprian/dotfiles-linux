@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # Ignore all VSCode extensions
 .vscode/extensions/
+=======
+config/.config/Code/CachedExtensionVSIXs/
+>>>>>>> b2525b9 (Ignore VS Code extension caches)

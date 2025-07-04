@@ -1,14 +1,19 @@
-theme = catppuccin-macchiato 
-#theme = rose-pine
-# theme = GruvboxDarkHard
-font-family = JetBrainsMono Nerd Font
+
+theme = "catppuccin-macchiato"
+font-family = "JetBrainsMono Nerd Font"
 font-size = 10
-mouse-hide-while-typing = true
-#background-opacity = 0.8
+
 #background = "#000000"
+#background-opacity = 0.85  # slightly more opaque = less glassy
+
 window-decoration = true
+mouse-hide-while-typing = true
 mouse-scroll-multiplier = 0.5
-shell-integration-features = no-cursor
-cursor-style = block
+cursor-style = "block"
+shell-integration-features = "no-cursor"
+
 window-padding-x = 5
 window-padding-y = 5
+
+# Optional: blur hinting (might need compositor support)
+blur = false

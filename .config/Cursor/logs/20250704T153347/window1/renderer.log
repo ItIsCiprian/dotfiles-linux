@@ -1,0 +1,39 @@
+2025-07-04 15:34:24.667 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:34:24.668 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:34:24.669 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:34:24.670 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:34:24.670 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:34:24.671 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:34:24.672 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:34:24.673 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:34:24.674 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 15:34:24.793 [warning] Missing property "modes" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 15:34:24.794 [warning] Missing property "modes2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 15:34:24.795 [warning] Missing property "modes3" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 15:34:24.797 [warning] Missing property "explicitEnableOrDisable" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 15:34:24.797 [warning] Missing property "lastBackgroundBugbotAt" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 15:34:24.798 [warning] Missing property "repositoryIndexingError" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 15:34:24.799 [warning] Missing property "repositoryIndexingStatus" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 15:34:24.800 [warning] Missing property "repositoryLastSyncedTime" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 15:34:24.800 [warning] Missing property "repositoryIndexingJobs" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 15:34:24.802 [warning] Missing property "mainLocalRepositoryProgress" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 15:34:26.318 [info] Started local extension host with pid 117565.
+2025-07-04 15:34:47.249 [info] [perf] Render performance baseline is 24ms
+2025-07-04 15:35:14.711 [error] Error fetching user privacy mode: [unauthenticated] Error
+2025-07-04 15:35:15.418 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4757:224502)
+    at async Object.getUserPrivacyMode (vscode-file://vscode-app/tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:207939)
+    at async lVi.fetchUserPrivacyMode (vscode-file://vscode-app/tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:491:49224)
+    at async lVi.refreshPrivacyMode (vscode-file://vscode-app/tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:491:48964) [unauthenticated] Error
+2025-07-04 15:35:15.639 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4757:224502)
+    at async Object.getTeams (vscode-file://vscode-app/tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:207939)
+    at async lVi.getTeams (vscode-file://vscode-app/tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:491:67231)
+    at async lVi.refreshMembershipType (vscode-file://vscode-app/tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:491:57669)
+    at async lVi.refreshAuthentication (vscode-file://vscode-app/tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:491:70384) [unauthenticated] Error
+2025-07-04 15:35:22.838 [error] [unauthenticated] Error: ConnectError: [unauthenticated] Error
+    at t (vscode-file://vscode-app/tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4757:224502)
+    at async Object.availableDocs (vscode-file://vscode-app/tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:207939)
+    at async yin.availableDocs (vscode-file://vscode-app/tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:1376:20242)
+    at async Object.fn (vscode-file://vscode-app/tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4235:106789) [unauthenticated] Error
+2025-07-04 15:35:24.316 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.closeStorage

@@ -1,5 +1,0 @@
-2025-07-02 20:10:56.386 [info] [2025-07-02 17:10:55.679] [        126ms] [/home/ionutcipriananescu/Developer] git rev-parse --show-toplevel • FAILED
-2025-07-02 20:10:56.386 [info] 
-Error: fatal: not a git repository (or any parent up to mount point /)
-Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
-

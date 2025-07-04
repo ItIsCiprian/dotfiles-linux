@@ -1,0 +1,29 @@
+2025-07-04 18:39:38.980 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 18:39:38.992 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 18:39:38.992 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 18:39:39.493 [info] Started local extension host with pid 187317.
+2025-07-04 18:39:39.655 [info] ComputeTargetPlatform: linux-x64
+2025-07-04 18:39:40.191 [error] Extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 18:39:40.300 [info] [google.geminicodeassist]: Command `geminicodeassist.sdlcagents.agentBoard` already registered by Gemini Code Assist (google.geminicodeassist)
+2025-07-04 18:39:40.324 [info] [googlecloudtools.cloudcode]: Menu item references the same command as default and alt-command
+2025-07-04 18:39:40.324 [info] [googlecloudtools.cloudcode]: Menu item references the same command as default and alt-command
+2025-07-04 18:39:40.340 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2025-07-04 18:39:41.396 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 18:39:41.396 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 18:39:41.397 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 18:39:41.398 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 18:39:41.399 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 18:39:41.399 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 18:39:41.400 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 18:39:41.401 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 18:39:42.543 [error] [Extension Host] (node:187317) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-07-04 18:39:43.370 [info] [perf] Render performance baseline is 21ms
+2025-07-04 18:39:45.775 [info] Extension host (LocalProcess pid: 187317) is unresponsive.
+2025-07-04 18:39:47.034 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-04 18:39:47.999 [info] Extension host (LocalProcess pid: 187317) is responsive.
+2025-07-04 18:39:47.999 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-04 18:39:48.050 [info] Settings Sync: Token updated for the account ItIsCiprian
+2025-07-04 18:39:48.054 [info] Settings Sync: Account status changed from uninitialized to available
+2025-07-04 18:39:48.396 [warning] UNRESPONSIVE extension host: 'google.geminicodeassist' took 48.555158186024734% of 469.894ms, saved PROFILE here: 'file:///tmp/exthost-3970c2.cpuprofile'
+2025-07-04 18:39:49.625 [error] An unknown error occurred. Please consult the log for more details.

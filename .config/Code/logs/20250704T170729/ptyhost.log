@@ -1,0 +1,1 @@
+2025-07-04 17:07:32.103 [error] Failed to set sticky bit on /tmp/ionutcipriananescu-code-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/ionutcipriananescu-code-zsh'

@@ -1,0 +1,320 @@
+2025-07-04 15:34:58.148 [info] Extension host with pid 119627 started
+2025-07-04 15:34:58.395 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-04 15:34:58.432 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-04 15:34:58.525 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-04 15:34:58.723 [info] Eager extensions activated
+2025-07-04 15:34:58.750 [info] ExtensionService#_doActivateExtension anysphere.cursor-always-local, startup: false, activationEvent: 'onStartupFinished'
+2025-07-04 15:34:59.252 [info] ExtensionService#_doActivateExtension anysphere.cursor-deeplink, startup: false, activationEvent: 'onStartupFinished'
+2025-07-04 15:34:59.340 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-07-04 15:34:59.869 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-07-04 15:34:59.998 [info] ExtensionService#_doActivateExtension anysphere.cursor-tokenize, startup: false, activationEvent: 'onStartupFinished'
+2025-07-04 15:35:00.450 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-04 15:35:00.470 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-04 15:35:20.518 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-04 15:35:20.643 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.643 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.643 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.644 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.645 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.645 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.645 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.645 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.654 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.654 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.655 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.655 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.655 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.655 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.655 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.655 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.655 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.655 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.655 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.655 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.655 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.656 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.656 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.656 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.656 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.656 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:20.656 [error] ProxyResolver#resolveProxy undefined Canceled: Canceled
+	at hm (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:9:1223)
+	at file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113827
+	at Array.forEach (<anonymous>)
+	at dct.dispose (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:44:113767)
+	at pTe.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10406)
+	at LJt.terminate (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:139:1447)
+	at rr (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:5755)
+	at MessagePortMain.<anonymous> (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:2281)
+	at MessagePortMain.emit (node:events:524:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949) 
+2025-07-04 15:35:21.290 [error] Error: Channel has been closed
+	at r (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:2439)
+	at Object.appendLine (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:140:2578)
+	at c (/tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:1816886)
+	at t.deactivate (/tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:1818542)
+	at /tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:321199
+	at t.deactivate (/tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/extensions/cursor-always-local/dist/main.js:2:321258)
+	at async Promise.all (index 0)
+	at async pTe.$ (file:///tmp/.mount_cursorLeVjQ4/usr/share/cursor/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:10212)
+2025-07-04 15:35:21.290 [info] Extension host with pid 119627 exiting with code 0

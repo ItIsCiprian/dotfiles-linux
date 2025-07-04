@@ -1,0 +1,31 @@
+2025-07-04 17:38:46.400 [info] Session updated: ItIsCiprian (github) (service=true)
+2025-07-04 17:38:46.400 [info] Session token updated: ItIsCiprian (github)
+2025-07-04 17:38:46.544 [info] Other tunnel running, attaching...
+2025-07-04 17:38:46.615 [info] Running tunnel CLI
+
+2025-07-04 17:38:46.616 [info] tunnel Spawning: /opt/visual-studio-code/bin/code-tunnel tunnel --accept-server-license-terms --log info --name cerebellum --parent-process-id 159743
+
+2025-07-04 17:38:46.631 [info] *
+
+2025-07-04 17:38:46.631 [info] * Visual Studio Code Server
+
+2025-07-04 17:38:46.631 [info] *
+
+2025-07-04 17:38:46.632 [info] * By using the software, you agree to
+
+2025-07-04 17:38:46.632 [info] * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+
+2025-07-04 17:38:46.632 [info] * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+
+2025-07-04 17:38:46.632 [info] *
+
+2025-07-04 17:38:46.635 [info] [2025-07-04 17:38:46] warn Command-line options will not be applied until the existing tunnel exits.
+
+2025-07-04 17:38:46.635 [info] Connected to an existing tunnel process running on this machine.
+
+2025-07-04 17:38:46.635 [info] 
+
+2025-07-04 17:38:46.636 [info] Open this link in your browser https://vscode.dev/tunnel/cerebellum
+
+2025-07-04 17:38:46.636 [info] 
+

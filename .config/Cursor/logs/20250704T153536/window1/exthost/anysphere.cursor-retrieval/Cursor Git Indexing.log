@@ -1,0 +1,137 @@
+2025-07-04 15:35:41.575 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-07-04 15:35:41.575 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-07-04 15:36:05.869 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-07-04 15:36:05.869 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-07-04 15:36:06.001 [warning] No repository found: /home/ionutcipriananescu/Developer (candidates: /home/ionutcipriananescu/Developer/Web-Development-Bootcamp)
+2025-07-04 15:36:06.047 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 15:41:06.002 [info] doUpdate: Disposing completed index job...
+2025-07-04 15:41:06.002 [info] MultiBranchIndexJob dispose
+2025-07-04 15:41:06.002 [info] Aborting multi-branch indexing job.
+2025-07-04 15:41:06.004 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 15:46:06.001 [info] doUpdate: Disposing completed index job...
+2025-07-04 15:46:06.001 [info] MultiBranchIndexJob dispose
+2025-07-04 15:46:06.001 [info] Aborting multi-branch indexing job.
+2025-07-04 15:46:06.002 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 15:51:06.002 [info] doUpdate: Disposing completed index job...
+2025-07-04 15:51:06.002 [info] MultiBranchIndexJob dispose
+2025-07-04 15:51:06.002 [info] Aborting multi-branch indexing job.
+2025-07-04 15:51:06.003 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 15:56:06.003 [info] doUpdate: Disposing completed index job...
+2025-07-04 15:56:06.003 [info] MultiBranchIndexJob dispose
+2025-07-04 15:56:06.003 [info] Aborting multi-branch indexing job.
+2025-07-04 15:56:06.004 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 16:01:06.003 [info] doUpdate: Disposing completed index job...
+2025-07-04 16:01:06.003 [info] MultiBranchIndexJob dispose
+2025-07-04 16:01:06.003 [info] Aborting multi-branch indexing job.
+2025-07-04 16:01:06.004 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 16:06:06.003 [info] doUpdate: Disposing completed index job...
+2025-07-04 16:06:06.003 [info] MultiBranchIndexJob dispose
+2025-07-04 16:06:06.003 [info] Aborting multi-branch indexing job.
+2025-07-04 16:06:06.004 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 16:11:06.003 [info] doUpdate: Disposing completed index job...
+2025-07-04 16:11:06.003 [info] MultiBranchIndexJob dispose
+2025-07-04 16:11:06.003 [info] Aborting multi-branch indexing job.
+2025-07-04 16:11:06.005 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 16:16:06.003 [info] doUpdate: Disposing completed index job...
+2025-07-04 16:16:06.003 [info] MultiBranchIndexJob dispose
+2025-07-04 16:16:06.003 [info] Aborting multi-branch indexing job.
+2025-07-04 16:16:06.005 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 16:21:06.005 [info] doUpdate: Disposing completed index job...
+2025-07-04 16:21:06.005 [info] MultiBranchIndexJob dispose
+2025-07-04 16:21:06.005 [info] Aborting multi-branch indexing job.
+2025-07-04 16:21:06.006 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 16:26:06.006 [info] doUpdate: Disposing completed index job...
+2025-07-04 16:26:06.006 [info] MultiBranchIndexJob dispose
+2025-07-04 16:26:06.006 [info] Aborting multi-branch indexing job.
+2025-07-04 16:26:06.008 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 16:31:06.007 [info] doUpdate: Disposing completed index job...
+2025-07-04 16:31:06.007 [info] MultiBranchIndexJob dispose
+2025-07-04 16:31:06.007 [info] Aborting multi-branch indexing job.
+2025-07-04 16:31:06.009 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 16:36:06.007 [info] doUpdate: Disposing completed index job...
+2025-07-04 16:36:06.008 [info] MultiBranchIndexJob dispose
+2025-07-04 16:36:06.008 [info] Aborting multi-branch indexing job.
+2025-07-04 16:36:06.008 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 16:41:06.008 [info] doUpdate: Disposing completed index job...
+2025-07-04 16:41:06.008 [info] MultiBranchIndexJob dispose
+2025-07-04 16:41:06.008 [info] Aborting multi-branch indexing job.
+2025-07-04 16:41:06.009 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 16:46:06.007 [info] doUpdate: Disposing completed index job...
+2025-07-04 16:46:06.008 [info] MultiBranchIndexJob dispose
+2025-07-04 16:46:06.008 [info] Aborting multi-branch indexing job.
+2025-07-04 16:46:06.010 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 16:51:06.008 [info] doUpdate: Disposing completed index job...
+2025-07-04 16:51:06.008 [info] MultiBranchIndexJob dispose
+2025-07-04 16:51:06.008 [info] Aborting multi-branch indexing job.
+2025-07-04 16:51:06.010 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 16:56:06.009 [info] doUpdate: Disposing completed index job...
+2025-07-04 16:56:06.009 [info] MultiBranchIndexJob dispose
+2025-07-04 16:56:06.009 [info] Aborting multi-branch indexing job.
+2025-07-04 16:56:06.011 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 17:01:06.009 [info] doUpdate: Disposing completed index job...
+2025-07-04 17:01:06.009 [info] MultiBranchIndexJob dispose
+2025-07-04 17:01:06.009 [info] Aborting multi-branch indexing job.
+2025-07-04 17:01:06.037 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 17:06:06.009 [info] doUpdate: Disposing completed index job...
+2025-07-04 17:06:06.010 [info] MultiBranchIndexJob dispose
+2025-07-04 17:06:06.010 [info] Aborting multi-branch indexing job.
+2025-07-04 17:06:06.011 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
+
+Caused by:
+    Missing HEAD at '.git/HEAD'
+2025-07-04 17:07:22.478 [info] MultiBranchIndexJob dispose
+2025-07-04 17:07:22.478 [info] Aborting multi-branch indexing job.

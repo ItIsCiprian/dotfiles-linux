@@ -1,0 +1,20 @@
+2025-07-04 17:26:48.164 [info] [2025-07-04 14:26:47.028] [*      2190ms] [/home/ionutcipriananescu/Developer] git rev-parse --show-toplevel (slow) • FAILED
+2025-07-04 17:26:48.164 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+
+2025-07-04 17:26:53.359 [info] [2025-07-04 14:26:53.359] [         30ms] [/home/ionutcipriananescu/Developer/Web-Development-Bootcamp] git for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(upstream)%1D%(upstream:track)%1D%(objectname)%1D%(committerdate:iso8601)%1D%(worktreepath)%1D refs/heads/ refs/remotes/ • FAILED
+2025-07-04 17:26:53.359 [info] 
+Canceled: Operation cancelled; command=/usr/bin/git -c core.quotepath=false -c color.ui=false for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(upstream)%1D%(upstream:track)%1D%(objectname)%1D%(committerdate:iso8601)%1D%(worktreepath)%1D refs/heads/ refs/remotes/
+
+2025-07-04 17:26:53.429 [info] [2025-07-04 14:26:53.429] [         69ms] [/home/ionutcipriananescu/Developer/Web-Development-Bootcamp] git for-each-ref --format=%1E%(refname)%1D%(objectname)%1D%(*objectname)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D refs/tags/ • FAILED
+2025-07-04 17:26:53.429 [info] 
+Canceled: Operation cancelled; command=/usr/bin/git -c core.quotepath=false -c color.ui=false for-each-ref --format=%1E%(refname)%1D%(objectname)%1D%(*objectname)%1D%(creatordate:iso8601)%1D%(authordate:iso8601)%1D%(subject)%1D refs/tags/
+
+2025-07-04 17:26:53.430 [info] [2025-07-04 14:26:53.430] [         31ms] [/home/ionutcipriananescu/Developer/Web-Development-Bootcamp] git for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(upstream)%1D%(upstream:track)%1D%(objectname)%1D%(committerdate:iso8601)%1D%(worktreepath)%1D refs/heads/ refs/remotes/ • FAILED
+2025-07-04 17:26:53.430 [info] 
+Canceled: Operation cancelled; command=/usr/bin/git -c core.quotepath=false -c color.ui=false for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(upstream)%1D%(upstream:track)%1D%(objectname)%1D%(committerdate:iso8601)%1D%(worktreepath)%1D refs/heads/ refs/remotes/
+
+2025-07-04 17:26:53.505 [info] [2025-07-04 14:26:53.505] [         33ms] [/home/ionutcipriananescu/Developer/Web-Development-Bootcamp] git for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(upstream)%1D%(upstream:track)%1D%(objectname)%1D%(committerdate:iso8601)%1D%(worktreepath)%1D refs/heads/ refs/remotes/ • FAILED
+2025-07-04 17:26:53.505 [info] 
+Canceled: Operation cancelled; command=/usr/bin/git -c core.quotepath=false -c color.ui=false for-each-ref --format=%1E%(HEAD)%1D%(refname)%1D%(upstream)%1D%(upstream:track)%1D%(objectname)%1D%(committerdate:iso8601)%1D%(worktreepath)%1D refs/heads/ refs/remotes/
+

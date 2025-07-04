@@ -1,0 +1,79 @@
+2025-07-04 17:07:43.389 [info] [main] Log level: Info
+2025-07-04 17:07:43.389 [info] [main] Validating found git in: "git"
+2025-07-04 17:07:43.389 [info] [main] Using git "2.50.0" from "git"
+2025-07-04 17:07:43.389 [info] [Model][doInitialScan] Initial repository scan started
+2025-07-04 17:07:43.389 [info] > git rev-parse --show-toplevel [21ms]
+2025-07-04 17:07:43.389 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-04 17:07:43.389 [info] > git rev-parse --show-toplevel [332ms]
+2025-07-04 17:07:43.510 [info] > git rev-parse --git-dir --git-common-dir [536ms]
+2025-07-04 17:07:43.555 [info] [Model][openRepository] Opened repository (path): /home/ionutcipriananescu/Developer/Web-Development-Bootcamp
+2025-07-04 17:07:43.555 [info] [Model][openRepository] Opened repository (real path): /home/ionutcipriananescu/Developer/Web-Development-Bootcamp
+2025-07-04 17:07:43.557 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-07-04 17:07:43.797 [info] > git config --get commit.template [66ms]
+2025-07-04 17:07:44.148 [info] > git fetch [593ms]
+2025-07-04 17:07:44.198 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [111ms]
+2025-07-04 17:07:44.352 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ionutcipriananescu/Developer/Web-Development-Bootcamp/.git/refs/remotes/origin/main'
+2025-07-04 17:07:44.382 [info] > git show --textconv :Section 24: Express.js with Node.js/3.4 Middleware/index1.js [92ms]
+2025-07-04 17:07:44.383 [info] > git ls-files --stage -- Section 24: Express.js with Node.js/3.4 Middleware/index1.js [60ms]
+2025-07-04 17:07:44.419 [info] > git config --get commit.template [228ms]
+2025-07-04 17:07:44.497 [info] > git check-ignore -v -z --stdin [45ms]
+2025-07-04 17:07:44.499 [info] > git cat-file -s abcc666ab10e184635152e572fffc6d851d9b2e4 [81ms]
+2025-07-04 17:07:44.499 [info] > git rev-parse refs/remotes/origin/main [147ms]
+2025-07-04 17:07:44.814 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [275ms]
+2025-07-04 17:07:44.863 [info] > git config --get --local branch.main.vscode-merge-base [15ms]
+2025-07-04 17:07:44.890 [info] > git config --get commit.template [95ms]
+2025-07-04 17:07:44.890 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [132ms]
+2025-07-04 17:07:45.300 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ionutcipriananescu/Developer/Web-Development-Bootcamp/.git/refs/remotes/origin/main'
+2025-07-04 17:07:45.301 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [412ms]
+2025-07-04 17:07:45.490 [info] > git merge-base refs/heads/main refs/remotes/origin/main [162ms]
+2025-07-04 17:07:45.527 [info] > git rev-parse refs/remotes/origin/main [227ms]
+2025-07-04 17:07:45.612 [info] > git merge-base refs/heads/main refs/remotes/origin/main [51ms]
+2025-07-04 17:07:45.647 [info] > git diff --name-status -z --diff-filter=ADMR ba47c2770f9449be2b3eff23cfe45507c8570422...refs/remotes/origin/main [120ms]
+2025-07-04 17:07:45.648 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [194ms]
+2025-07-04 17:07:46.914 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ionutcipriananescu/Developer/Web-Development-Bootcamp/.git/refs/remotes/origin/main'
+2025-07-04 17:07:46.920 [info] > git diff --name-status -z --diff-filter=ADMR ba47c2770f9449be2b3eff23cfe45507c8570422...refs/remotes/origin/main [1273ms]
+2025-07-04 17:07:46.921 [info] > git ls-files --stage -- Section 24: Express.js with Node.js/3.4 Middleware/index1.js [1315ms]
+2025-07-04 17:07:47.192 [info] > git cat-file -s abcc666ab10e184635152e572fffc6d851d9b2e4 [234ms]
+2025-07-04 17:07:47.193 [info] > git rev-parse refs/remotes/origin/main [279ms]
+2025-07-04 17:07:47.273 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [9ms]
+2025-07-04 17:07:47.355 [info] > git show --textconv :Section 24: Express.js with Node.js/3.4 Middleware/index1.js [12ms]
+2025-07-04 17:07:47.623 [info] > git status -z -uall [397ms]
+2025-07-04 17:07:47.673 [info] > git config --get commit.template [3ms]
+2025-07-04 17:07:47.717 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2025-07-04 17:07:47.744 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ionutcipriananescu/Developer/Web-Development-Bootcamp/.git/refs/remotes/origin/main'
+2025-07-04 17:07:47.748 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-07-04 17:07:47.819 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-07-04 17:07:48.177 [info] > git status -z -uall [401ms]
+2025-07-04 17:11:07.674 [info] > git fetch [435ms]
+2025-07-04 17:11:07.757 [info] > git config --get commit.template [41ms]
+2025-07-04 17:11:07.758 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-07-04 17:11:07.799 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ionutcipriananescu/Developer/Web-Development-Bootcamp/.git/refs/remotes/origin/main'
+2025-07-04 17:11:07.801 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-07-04 17:11:07.887 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-07-04 17:11:08.277 [info] > git status -z -uall [435ms]
+2025-07-04 17:11:08.951 [info] > git ls-files --stage -- Section 24: Express.js with Node.js/3.4 Middleware/index1.js [4ms]
+2025-07-04 17:11:09.004 [info] > git cat-file -s abcc666ab10e184635152e572fffc6d851d9b2e4 [4ms]
+2025-07-04 17:11:09.049 [info] > git show --textconv :Section 24: Express.js with Node.js/3.4 Middleware/index1.js [4ms]
+2025-07-04 17:18:15.163 [info] > git fetch [464ms]
+2025-07-04 17:18:15.207 [info] > git config --get commit.template [1ms]
+2025-07-04 17:18:15.245 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-04 17:18:15.284 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ionutcipriananescu/Developer/Web-Development-Bootcamp/.git/refs/remotes/origin/main'
+2025-07-04 17:18:15.285 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-07-04 17:18:15.364 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-07-04 17:18:15.705 [info] > git status -z -uall [383ms]
+2025-07-04 17:18:15.861 [info] > git show --textconv :Section 24: Express.js with Node.js/3.4 Middleware/index1.js [44ms]
+2025-07-04 17:18:15.862 [info] > git ls-files --stage -- Section 24: Express.js with Node.js/3.4 Middleware/index1.js [12ms]
+2025-07-04 17:18:15.924 [info] > git cat-file -s abcc666ab10e184635152e572fffc6d851d9b2e4 [22ms]
+2025-07-04 17:18:16.533 [info] > git ls-files --stage -- Section 24: Express.js with Node.js/3.4 Middleware/index1.js [3ms]
+2025-07-04 17:18:16.585 [info] > git cat-file -s abcc666ab10e184635152e572fffc6d851d9b2e4 [1ms]
+2025-07-04 17:18:16.636 [info] > git show --textconv :Section 24: Express.js with Node.js/3.4 Middleware/index1.js [6ms]
+2025-07-04 17:24:23.655 [info] > git fetch [543ms]
+2025-07-04 17:24:23.692 [info] > git config --get commit.template [2ms]
+2025-07-04 17:24:23.739 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-07-04 17:24:23.767 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ionutcipriananescu/Developer/Web-Development-Bootcamp/.git/refs/remotes/origin/main'
+2025-07-04 17:24:23.767 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2025-07-04 17:24:23.826 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-07-04 17:24:24.137 [info] > git status -z -uall [342ms]
+2025-07-04 17:24:26.902 [info] > git check-ignore -v -z --stdin [3ms]
+2025-07-04 17:26:20.389 [info] > git rev-parse --show-toplevel [5ms]
+2025-07-04 17:26:20.390 [info] fatal: not a git repository (or any of the parent directories): .git

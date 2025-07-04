@@ -1,0 +1,217 @@
+{
+  "version": 3,
+  "requesterUsername": "ItIsCiprian",
+  "requesterAvatarIconUri": {
+    "$mid": 1,
+    "path": "/u/11977292",
+    "scheme": "https",
+    "authority": "avatars.githubusercontent.com",
+    "query": "v=4"
+  },
+  "responderUsername": "GitHub Copilot",
+  "responderAvatarIconUri": {
+    "id": "copilot"
+  },
+  "initialLocation": "panel",
+  "requests": [
+    {
+      "requestId": "request_15523a8e-1a49-4671-bce2-a92f1b37aee4",
+      "message": {
+        "parts": [
+          {
+            "range": {
+              "start": 0,
+              "endExclusive": 15
+            },
+            "editorRange": {
+              "startLineNumber": 1,
+              "startColumn": 1,
+              "endLineNumber": 1,
+              "endColumn": 16
+            },
+            "text": "Set up Copilot.",
+            "kind": "text"
+          }
+        ],
+        "text": "Set up Copilot."
+      },
+      "variableData": {
+        "variables": []
+      },
+      "response": [
+        {
+          "kind": "progressMessage",
+          "content": {
+            "value": "Signing in to GitHub.",
+            "isTrusted": false,
+            "supportThemeIcons": false,
+            "supportHtml": false
+          }
+        },
+        {
+          "kind": "progressMessage",
+          "content": {
+            "value": "Signing in to GitHub.",
+            "isTrusted": false,
+            "supportThemeIcons": false,
+            "supportHtml": false
+          }
+        },
+        {
+          "kind": "progressMessage",
+          "content": {
+            "value": "Getting Copilot ready.",
+            "isTrusted": false,
+            "supportThemeIcons": false,
+            "supportHtml": false
+          }
+        },
+        {
+          "value": "Copilot setup finished successfully.",
+          "isTrusted": false,
+          "supportThemeIcons": false,
+          "supportHtml": false
+        }
+      ],
+      "responseId": "response_76fdfef8-d1fa-4d50-925f-c9acfdb42195",
+      "result": {},
+      "followups": [],
+      "isCanceled": false,
+      "agent": {
+        "id": "setup.agent",
+        "name": "GitHub Copilot",
+        "isDefault": true,
+        "isCore": true,
+        "modes": [
+          "agent"
+        ],
+        "when": "config.chat.agent.enabled && !chatAgentModeDisallowed && !previewFeaturesDisabled",
+        "slashCommands": [],
+        "disambiguation": [],
+        "locations": [
+          "panel"
+        ],
+        "metadata": {
+          "helpTextPrefix": {
+            "value": "You need to set up Copilot and be signed in to use Chat.",
+            "isTrusted": false,
+            "supportThemeIcons": false,
+            "supportHtml": false
+          },
+          "themeIcon": {
+            "id": "tools"
+          }
+        },
+        "description": "Edit files in your workspace in agent mode",
+        "extensionId": {
+          "value": "nullExtensionDescription",
+          "_lower": "nullextensiondescription"
+        },
+        "extensionDisplayName": "Null Extension Description",
+        "extensionPublisherId": "vscode"
+      },
+      "contentReferences": [],
+      "codeCitations": [],
+      "timestamp": 1751624623493
+    },
+    {
+      "requestId": "request_b332da74-14ab-47ac-b0bd-e9a570252eed",
+      "message": {
+        "parts": [
+          {
+            "range": {
+              "start": 0,
+              "endExclusive": 15
+            },
+            "editorRange": {
+              "startLineNumber": 1,
+              "startColumn": 1,
+              "endLineNumber": 1,
+              "endColumn": 16
+            },
+            "text": "Set up Copilot.",
+            "kind": "text"
+          }
+        ],
+        "text": "Set up Copilot."
+      },
+      "variableData": {
+        "variables": []
+      },
+      "response": [
+        {
+          "value": "To set up GitHub Copilot in VS Code, you need to install the GitHub Copilot extension from the VS Code Marketplace. Would you like me to guide you through the installation process or provide instructions for a different editor? Let me know your preference!",
+          "supportThemeIcons": false,
+          "supportHtml": false
+        }
+      ],
+      "responseId": "response_206142f7-47ee-47ad-8a08-451785d058d4",
+      "result": {
+        "timings": {
+          "firstProgress": 1170,
+          "totalElapsed": 1467
+        },
+        "metadata": {
+          "codeBlocks": [],
+          "renderedUserMessage": [
+            {
+              "type": 1,
+              "text": "<context>\nThe current date is July 4, 2025.\n</context>\n<reminder>\nYou are an agent - you must keep going until the user's query is completely resolved, before ending your turn and yielding back to the user. ONLY terminate your turn when you are sure that the problem is solved, or you absolutely cannot continue.\nYou take action when possible- the user is expecting YOU to take action and go to work for them. Don't ask unnecessary questions about the details if you can simply DO something useful instead.\nWhen using the insert_edit_into_file tool, avoid repeating existing code, instead use a line comment with \\`...existing code...\\` to represent regions of unchanged code.\n</reminder>\n<userRequest>\nSet up Copilot.\n</userRequest>\n"
+            },
+            {
+              "type": 3,
+              "cacheType": "ephemeral"
+            }
+          ],
+          "modelMessageId": "d82795c9-89d9-4549-a848-729fd8752475",
+          "responseId": "9144fbc5-947f-46c8-8bf8-849c3384f90a",
+          "sessionId": "f71fa8ef-fb1e-45cd-9e17-6d671ec8fb77",
+          "agentId": "github.copilot.editsAgent"
+        }
+      },
+      "followups": [],
+      "isCanceled": false,
+      "agent": {
+        "extensionId": {
+          "value": "GitHub.copilot-chat",
+          "_lower": "github.copilot-chat"
+        },
+        "publisherDisplayName": "GitHub",
+        "extensionPublisherId": "GitHub",
+        "extensionDisplayName": "GitHub Copilot Chat",
+        "id": "github.copilot.editsAgent",
+        "description": "Edit files in your workspace in agent mode",
+        "when": "config.chat.agent.enabled && !chatAgentModeDisallowed",
+        "metadata": {
+          "themeIcon": {
+            "id": "tools"
+          },
+          "hasFollowups": false,
+          "supportIssueReporting": false
+        },
+        "name": "agent",
+        "fullName": "GitHub Copilot",
+        "isDefault": true,
+        "locations": [
+          "panel"
+        ],
+        "modes": [
+          "agent"
+        ],
+        "slashCommands": [
+          {
+            "name": "list"
+          }
+        ],
+        "disambiguation": []
+      },
+      "contentReferences": [],
+      "codeCitations": [],
+      "timestamp": 1751624680558
+    }
+  ],
+  "sessionId": "2f3d7ea4-d68a-4680-9455-029304241c6b",
+  "creationDate": 1751624623408,
+  "isImported": false,
+  "lastMessageDate": 1751624680558
+}

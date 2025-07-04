@@ -8,14 +8,14 @@
       <monitor>
         <monitorspec>
           <connector>eDP-1</connector>
-          <vendor>CMN</vendor>
-          <product>0x15f4</product>
+          <vendor>SHP</vendor>
+          <product>LQ156M1JW16</product>
           <serial>0x00000000</serial>
         </monitorspec>
         <mode>
           <width>1920</width>
           <height>1080</height>
-          <rate>120.003</rate>
+          <rate>240.000</rate>
         </mode>
       </monitor>
     </logicalmonitor>
@@ -26,7 +26,7 @@
       <primary>yes</primary>
       <monitor>
         <monitorspec>
-          <connector>HDMI-1</connector>
+          <connector>DP-1</connector>
           <vendor>DEL</vendor>
           <product>DELL S3222DGM</product>
           <serial>1MXJT63</serial>
@@ -34,7 +34,7 @@
         <mode>
           <width>2560</width>
           <height>1440</height>
-          <rate>59.951</rate>
+          <rate>165.080</rate>
         </mode>
       </monitor>
     </logicalmonitor>

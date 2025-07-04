@@ -1,0 +1,3 @@
+[filesystem "Arch Linux|21.0.7|/dev/nvme1n1p2"]
+	timestampResolution = 7382 nanoseconds
+	minRacyThreshold = 0 nanoseconds

@@ -1,0 +1,14 @@
+2025-07-04 18:03:36.795 [info] Using the Electron fetcher.
+2025-07-04 18:03:36.795 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-07-04 18:03:36.795 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-07-04 18:03:36.795 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-07-04 18:03:36.795 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-07-04 18:03:37.583 [info] Logged in as ItIsCiprian
+2025-07-04 18:03:38.354 [info] Got Copilot token for ItIsCiprian
+2025-07-04 18:03:38.366 [info] activationBlocker from 'languageModelAccess' took for 1715ms
+2025-07-04 18:03:38.431 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-07-04 18:03:38.431 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-07-04 18:03:38.435 [info] Registering default platform agent...
+2025-07-04 18:03:38.435 [info] activationBlocker from 'conversationFeature' took for 1789ms
+2025-07-04 18:03:38.444 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-07-04 18:03:38.898 [info] Fetched model metadata in 533ms dbc5fe16-a46d-4c34-86c4-fe612bf88676

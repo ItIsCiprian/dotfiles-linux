@@ -1,6 +1,6 @@
+
 "$schema" = 'https://starship.rs/config-schema.json'
 
-# 🎨 Set your preferred theme (options: catppuccin_mocha, gruvbox_dark)
 palette = 'catppuccin_mocha'
 
 format = """
@@ -25,22 +25,13 @@ $python\
 [](fg:teal bg:blue)\
 $docker_context\
 [](fg:blue bg:purple)\
+$memory_usage\
+$cmd_duration\
+$battery\
 $time\
 [ ](fg:purple)\
 $line_break$character"""
 
-# 🎨 Gruvbox Dark Theme
-[palettes.gruvbox_dark]
-fg = '#fbf1c7'
-bg = '#282828'
-peach = '#fabd2f'
-green = '#98971a'
-teal = '#689d6a'
-blue = '#458588'
-purple = '#b16286'
-surface0 = '#3c3836'
-
-# 🎨 Catppuccin Mocha Theme
 [palettes.catppuccin_mocha]
 fg = "#cdd6f4"
 bg = "#1e1e2e"
@@ -82,7 +73,6 @@ format = '[ $symbol $branch ]($style)'
 style = "fg:bg bg:green"
 format = '[($all_status$ahead_behind )]($style)'
 
-# Programming Languages (Grouped for Consistency)
 [nodejs]
 symbol = ""
 style = "fg:bg bg:teal"
@@ -148,3 +138,21 @@ success_symbol = '[](bold fg:green)'
 error_symbol = '[](bold fg:red)'
 vimcmd_symbol = '[](bold fg:green)'
 vimcmd_visual_symbol = '[](bold fg:lavender)'
+
+[memory_usage]
+disabled = false
+threshold = 70
+symbol = ""
+style = "bg:blue fg:fg"
+format = "[ $symbol $ram_pct ]($style)"
+
+[cmd_duration]
+min_time = 2000
+format = "[  $duration ](fg:fg bg:blue)"
+style = "bg:blue fg:fg"
+
+[battery]
+disabled = false
+full_symbol = "🔋"
+charging_symbol = "⚡️"
+discharging_symbol = "💀"

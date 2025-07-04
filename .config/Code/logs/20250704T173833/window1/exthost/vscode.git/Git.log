@@ -1,0 +1,76 @@
+2025-07-04 17:38:37.234 [info] [main] Log level: Info
+2025-07-04 17:38:37.234 [info] [main] Validating found git in: "git"
+2025-07-04 17:38:37.234 [info] [main] Using git "2.50.0" from "git"
+2025-07-04 17:38:37.234 [info] [Model][doInitialScan] Initial repository scan started
+2025-07-04 17:38:37.234 [info] > git rev-parse --show-toplevel [5ms]
+2025-07-04 17:38:37.234 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-04 17:38:37.234 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-04 17:38:37.234 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-07-04 17:38:37.234 [info] [Model][openRepository] Opened repository (path): /home/ionutcipriananescu/Developer/Web-Development-Bootcamp
+2025-07-04 17:38:37.234 [info] [Model][openRepository] Opened repository (real path): /home/ionutcipriananescu/Developer/Web-Development-Bootcamp
+2025-07-04 17:38:37.234 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-07-04 17:38:37.234 [info] > git config --get commit.template [82ms]
+2025-07-04 17:38:37.234 [info] > git rev-parse --show-toplevel [57ms]
+2025-07-04 17:38:37.234 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-04 17:38:37.260 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [27ms]
+2025-07-04 17:38:43.385 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ionutcipriananescu/Developer/Web-Development-Bootcamp/.git/refs/remotes/origin/main'
+2025-07-04 17:38:43.390 [info] > git fetch [6272ms]
+2025-07-04 17:38:44.081 [info] > git check-ignore -v -z --stdin [660ms]
+2025-07-04 17:38:44.148 [info] > git rev-parse refs/remotes/origin/main [763ms]
+2025-07-04 17:38:44.535 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [356ms]
+2025-07-04 17:38:44.563 [info] > git rev-parse --show-toplevel [551ms]
+2025-07-04 17:38:44.563 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-04 17:38:44.563 [info] > git config --get commit.template [608ms]
+2025-07-04 17:38:44.738 [info] > git config --get --local branch.main.vscode-merge-base [178ms]
+2025-07-04 17:38:44.769 [info] > git config --get commit.template [281ms]
+2025-07-04 17:38:45.040 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [271ms]
+2025-07-04 17:38:45.065 [info] > git rev-parse --show-toplevel [335ms]
+2025-07-04 17:38:45.065 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-04 17:38:45.149 [info] > git merge-base refs/heads/main refs/remotes/origin/main [84ms]
+2025-07-04 17:38:45.189 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [364ms]
+2025-07-04 17:38:45.247 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ionutcipriananescu/Developer/Web-Development-Bootcamp/.git/refs/remotes/origin/main'
+2025-07-04 17:38:45.303 [info] > git diff --name-status -z --diff-filter=ADMR ba47c2770f9449be2b3eff23cfe45507c8570422...refs/remotes/origin/main [115ms]
+2025-07-04 17:38:45.304 [info] > git rev-parse --show-toplevel [164ms]
+2025-07-04 17:38:45.304 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-04 17:38:45.304 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [203ms]
+2025-07-04 17:38:45.380 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ionutcipriananescu/Developer/Web-Development-Bootcamp/.git/refs/remotes/origin/main'
+2025-07-04 17:38:45.417 [info] > git rev-parse refs/remotes/origin/main [170ms]
+2025-07-04 17:38:45.465 [info] > git rev-parse refs/remotes/origin/main [85ms]
+2025-07-04 17:38:45.627 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [92ms]
+2025-07-04 17:38:46.013 [info] > git status -z -uall [514ms]
+2025-07-04 17:38:46.402 [info] > git config --get commit.template [4ms]
+2025-07-04 17:38:46.484 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2025-07-04 17:38:46.518 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ionutcipriananescu/Developer/Web-Development-Bootcamp/.git/refs/remotes/origin/main'
+2025-07-04 17:38:46.565 [info] > git rev-parse refs/remotes/origin/main [47ms]
+2025-07-04 17:38:46.624 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-07-04 17:38:47.038 [info] > git status -z -uall [444ms]
+2025-07-04 17:42:49.929 [info] > git fetch [433ms]
+2025-07-04 17:42:49.973 [info] > git config --get commit.template [2ms]
+2025-07-04 17:42:50.020 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-04 17:42:50.062 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ionutcipriananescu/Developer/Web-Development-Bootcamp/.git/refs/remotes/origin/main'
+2025-07-04 17:42:50.064 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-07-04 17:42:50.126 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-04 17:42:50.459 [info] > git status -z -uall [366ms]
+2025-07-04 17:46:25.041 [info] > git fetch [439ms]
+2025-07-04 17:46:25.114 [info] > git config --get commit.template [36ms]
+2025-07-04 17:46:25.114 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-04 17:46:25.143 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ionutcipriananescu/Developer/Web-Development-Bootcamp/.git/refs/remotes/origin/main'
+2025-07-04 17:46:25.145 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-07-04 17:46:25.211 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-07-04 17:46:25.523 [info] > git status -z -uall [351ms]
+2025-07-04 17:59:52.308 [info] > git fetch [438ms]
+2025-07-04 17:59:52.361 [info] > git config --get commit.template [1ms]
+2025-07-04 17:59:52.414 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-07-04 17:59:52.450 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ionutcipriananescu/Developer/Web-Development-Bootcamp/.git/refs/remotes/origin/main'
+2025-07-04 17:59:52.451 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-07-04 17:59:52.503 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-07-04 17:59:52.820 [info] > git status -z -uall [344ms]
+2025-07-04 18:02:58.576 [info] > git fetch [425ms]
+2025-07-04 18:02:58.662 [info] > git config --get commit.template [42ms]
+2025-07-04 18:02:58.663 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-07-04 18:02:58.689 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ionutcipriananescu/Developer/Web-Development-Bootcamp/.git/refs/remotes/origin/main'
+2025-07-04 18:02:58.690 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-07-04 18:02:58.755 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-07-04 18:02:59.068 [info] > git status -z -uall [351ms]
+2025-07-04 18:03:16.607 [info] > git rev-parse --show-toplevel [3ms]
+2025-07-04 18:03:16.607 [info] fatal: not a git repository (or any of the parent directories): .git

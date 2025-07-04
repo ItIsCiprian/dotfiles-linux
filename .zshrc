@@ -126,3 +126,4 @@ rest() {
   paplay /usr/share/sounds/freedesktop/stereo/complete.oga
 }
 
+export PATH="$HOME/bin:$PATH"

@@ -1,0 +1,40 @@
+2025-07-04 14:52:10.308 [info] [main] Log level: Info
+2025-07-04 14:52:10.308 [info] [main] Validating found git in: "git"
+2025-07-04 14:52:10.308 [info] [main] Using git "2.50.0" from "git"
+2025-07-04 14:52:10.308 [info] [Model][doInitialScan] Initial repository scan started
+2025-07-04 14:52:10.308 [info] > git rev-parse --show-toplevel [11ms]
+2025-07-04 14:52:10.308 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-04 14:52:10.308 [info] > git rev-parse --show-toplevel [231ms]
+2025-07-04 14:52:10.320 [info] > git rev-parse --git-dir --git-common-dir [66ms]
+2025-07-04 14:52:10.349 [info] [Model][openRepository] Opened repository: /home/ionutcipriananescu/Developer/Web-Development-Bootcamp
+2025-07-04 14:52:10.356 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-07-04 14:52:10.538 [info] > git rev-parse --show-toplevel [38ms]
+2025-07-04 14:52:10.538 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-04 14:52:10.539 [info] > git config --get commit.template [65ms]
+2025-07-04 14:52:10.619 [info] > git rev-parse --show-toplevel [35ms]
+2025-07-04 14:52:10.619 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-04 14:52:10.639 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [28ms]
+2025-07-04 14:52:10.674 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ionutcipriananescu/Developer/Web-Development-Bootcamp/.git/refs/remotes/origin/main'
+2025-07-04 14:52:10.689 [info] > git rev-parse refs/remotes/origin/main [15ms]
+2025-07-04 14:52:10.773 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [24ms]
+2025-07-04 14:52:10.870 [info] > git show --textconv :Section 24: Express.js with Node.js/3.4 Middleware/index1.js [40ms]
+2025-07-04 14:52:10.876 [info] > git ls-files --stage -- Section 24: Express.js with Node.js/3.4 Middleware/index1.js [12ms]
+2025-07-04 14:52:10.912 [info] > git cat-file -s abcc666ab10e184635152e572fffc6d851d9b2e4 [11ms]
+2025-07-04 14:52:11.111 [info] > git check-ignore -v -z --stdin [37ms]
+2025-07-04 14:52:12.484 [info] > git status -z -uall [1761ms]
+2025-07-04 14:52:12.762 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [234ms]
+2025-07-04 14:52:12.905 [info] > git config --get --local branch.main.vscode-merge-base [48ms]
+2025-07-04 14:52:12.972 [info] > git config --get commit.template [412ms]
+2025-07-04 14:52:13.050 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [79ms]
+2025-07-04 14:52:13.188 [info] > git merge-base refs/heads/main refs/remotes/origin/main [107ms]
+2025-07-04 14:52:13.292 [info] > git diff --name-status -z --diff-filter=ADMR ba47c2770f9449be2b3eff23cfe45507c8570422...refs/remotes/origin/main [68ms]
+2025-07-04 14:52:13.293 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [107ms]
+2025-07-04 14:52:13.320 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ionutcipriananescu/Developer/Web-Development-Bootcamp/.git/refs/remotes/origin/main'
+2025-07-04 14:52:13.321 [info] > git rev-parse --show-toplevel [29ms]
+2025-07-04 14:52:13.321 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-04 14:52:13.327 [info] > git rev-parse refs/remotes/origin/main [7ms]
+2025-07-04 14:52:13.390 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2025-07-04 14:52:14.927 [info] > git status -z -uall [1575ms]
+2025-07-04 14:52:17.698 [info] > git config --global user.name [4ms]
+2025-07-04 14:52:17.735 [info] > git config --global user.email [7ms]
+2025-07-04 14:52:17.735 [info] [main] Stored git author name in global state:  <>

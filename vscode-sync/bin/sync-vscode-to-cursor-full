@@ -1,0 +1,50 @@
+#!/bin/bash
+
+# -----------------------------------
+# FULL SYNC: VS Code → Cursor (extensions + settings)
+# -----------------------------------
+
+if ! command -v cursor &> /dev/null; then
+  echo "❌ Cursor is not installed or not in PATH."
+  exit 1
+fi
+
+if ! command -v code &> /dev/null; then
+  echo "❌ VS Code (code) is not installed or not in PATH."
+  exit 1
+fi
+
+if ! pgrep -x cursor > /dev/null; then
+  echo "⚠️ Please launch Cursor manually before running this script."
+  exit 1
+fi
+
+BACKUP_DIR="$HOME/.dotfiles/vscode-backup"
+mkdir -p "$BACKUP_DIR"
+
+echo "📦 Reading installed VS Code extensions..."
+code --list-extensions | sort > "$BACKUP_DIR/vscode-extensions.txt"
+
+echo "📦 Reading installed Cursor extensions..."
+cursor --list-extensions | sort > "$BACKUP_DIR/cursor-extensions.txt"
+
+echo "🧹 Removing extra extensions from Cursor..."
+comm -23 "$BACKUP_DIR/cursor-extensions.txt" "$BACKUP_DIR/vscode-extensions.txt" | while read ext; do
+  echo "➖ Uninstalling: $ext"
+  timeout 10s cursor --uninstall-extension "$ext" >/dev/null 2>&1
+  sleep 1
+done
+
+echo "📥 Installing missing extensions into Cursor..."
+comm -13 "$BACKUP_DIR/cursor-extensions.txt" "$BACKUP_DIR/vscode-extensions.txt" | while read ext; do
+  echo "➕ Installing: $ext"
+  timeout 10s cursor --install-extension "$ext" >/dev/null 2>&1
+  sleep 1
+done
+
+echo "📝 Syncing settings and keybindings..."
+mkdir -p ~/.config/Cursor/User
+cp ~/.config/Code/User/settings.json ~/.config/Cursor/User/ 2>/dev/null && echo "✓ settings.json copied"
+cp ~/.config/Code/User/keybindings.json ~/.config/Cursor/User/ 2>/dev/null && echo "✓ keybindings.json copied"
+
+echo "✅ Full sync complete!"

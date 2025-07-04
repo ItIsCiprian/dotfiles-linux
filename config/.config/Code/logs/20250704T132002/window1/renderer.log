@@ -1,0 +1,80 @@
+2025-07-04 13:20:03.202 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 13:20:03.214 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 13:20:03.215 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 13:20:03.566 [info] Started local extension host with pid 35686.
+2025-07-04 13:20:03.684 [info] ComputeTargetPlatform: linux-x64
+2025-07-04 13:20:04.265 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-07-04 13:20:06.318 [info] [perf] Render performance baseline is 141ms
+2025-07-04 13:24:33.813 [error] [Extension Host] (node:35686) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-07-04 13:24:36.737 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-07-04 13:24:36.738 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-07-04 13:24:36.751 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-07-04 13:24:36.751 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-07-04 13:25:22.012 [info] Settings Sync: Updated current session b354324969baf441
+2025-07-04 13:25:22.018 [info] Settings Sync: Token updated for the account ItIsCiprian
+2025-07-04 13:25:22.020 [info] Settings Sync: Account status changed from unavailable to available
+2025-07-04 13:25:58.310 [error] Extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 13:25:58.321 [info] [google.geminicodeassist]: Command `geminicodeassist.sdlcagents.agentBoard` already registered by Gemini Code Assist (google.geminicodeassist)
+2025-07-04 13:25:58.345 [info] [googlecloudtools.cloudcode]: Menu item references the same command as default and alt-command
+2025-07-04 13:25:58.345 [info] [googlecloudtools.cloudcode]: Menu item references the same command as default and alt-command
+2025-07-04 13:25:58.356 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2025-07-04 13:25:58.588 [error] Attempting to register step with id googlecloudtools.cloudcode#apigee-create-specs-2#integrate-with-hub-provisioned twice. Second is dropped.: Error: Attempting to register step with id googlecloudtools.cloudcode#apigee-create-specs-2#integrate-with-hub-provisioned twice. Second is dropped.
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2767:23838
+    at Array.forEach (<anonymous>)
+    at upt._registerWalkthrough (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2767:23800)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2767:21694
+    at async Promise.all (index 3)
+    at async upt.Y (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2767:19569)
+2025-07-04 13:25:59.067 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 13:25:59.068 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 13:25:59.070 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 13:25:59.071 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 13:25:59.072 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 13:25:59.073 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 13:25:59.073 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 13:25:59.074 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 13:26:03.748 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-04 13:26:04.068 [error] [Extension Host] Unsuccessful http request to https://cloudcode-pa.googleapis.com/v1internal:listExperiments. Response: {"error":{"code":401,"message":"Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.","status":"UNAUTHENTICATED","details":[{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"CREDENTIALS_MISSING","domain":"googleapis.com","metadata":{"service":"cloudcode-pa.googleapis.com","method":"google.internal.cloud.code.v1internal.CloudCode.ListExperiments"}}]}}, headers: {"www-authenticate":["Bearer realm=\"https://accounts.google.com/\""],"vary":["Origin, X-Origin, Referer"],"content-type":["application/json; charset=UTF-8"],"content-encoding":["gzip"],"date":["Fri, 04 Jul 2025 10:26:04 GMT"],"server":["ESF"],"x-xss-protection":["0"],"x-frame-options":["SAMEORIGIN"],"x-content-type-options":["nosniff"],"server-timing":["gfet4t7; dur=47"],"alt-svc":["h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"],"connection":["close"],"transfer-encoding":["chunked"]}, error: [object Object]
+2025-07-04 13:26:42.956 [info] Settings Sync: Token updated for the account ItIsCiprian
+2025-07-04 13:26:43.967 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-04 13:27:11.652 [info] Settings Sync: Token updated for the account ItIsCiprian
+2025-07-04 13:27:11.656 [info] Settings Sync: Token updated for the account ItIsCiprian
+2025-07-04 13:37:56.032 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 13:37:56.032 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 13:37:56.033 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 13:37:56.294 [info] Started local extension host with pid 40554.
+2025-07-04 13:37:56.336 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-07-04 13:37:56.793 [info] ComputeTargetPlatform: linux-x64
+2025-07-04 13:37:56.797 [error] Extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 13:37:56.888 [warning] [redhat.vscode-yaml]: Cannot register 'redhat.telemetry.enabled'. This property is already registered.
+2025-07-04 13:37:57.660 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 13:37:57.661 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 13:37:57.661 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 13:37:57.662 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 13:37:57.662 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 13:37:57.663 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 13:37:57.663 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 13:37:57.664 [error] [Extension Host] Failed to load message bundle for file /home/ionutcipriananescu/.vscode/extensions/ms-edgedevtools.vscode-edge-devtools-2.1.9/out/extension
+2025-07-04 13:37:57.715 [info] Settings Sync: Token updated for the account ItIsCiprian
+2025-07-04 13:37:57.762 [info] Settings Sync: Account status changed from uninitialized to available
+2025-07-04 13:37:59.212 [info] [perf] Render performance baseline is 148ms
+2025-07-04 13:37:59.475 [info] Settings Sync: Token updated for the account ItIsCiprian
+2025-07-04 13:38:00.151 [error] An unknown error occurred. Please consult the log for more details.
+2025-07-04 13:38:01.121 [info] [google.geminicodeassist]: Command `geminicodeassist.sdlcagents.agentBoard` already registered by Gemini Code Assist (google.geminicodeassist)
+2025-07-04 13:38:01.138 [info] [googlecloudtools.cloudcode]: Menu item references the same command as default and alt-command
+2025-07-04 13:38:01.139 [info] [googlecloudtools.cloudcode]: Menu item references the same command as default and alt-command
+2025-07-04 13:38:01.340 [error] Attempting to register step with id googlecloudtools.cloudcode#apigee-create-specs-2#integrate-with-hub-provisioned twice. Second is dropped.: Error: Attempting to register step with id googlecloudtools.cloudcode#apigee-create-specs-2#integrate-with-hub-provisioned twice. Second is dropped.
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2767:23838
+    at Array.forEach (<anonymous>)
+    at upt._registerWalkthrough (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2767:23800)
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2767:21694
+    at async Promise.all (index 3)
+    at async upt.Y (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2767:19569)
+2025-07-04 13:38:03.350 [error] [Extension Host] (node:40554) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-07-04 13:38:08.950 [error] [Extension Host] Unsuccessful http request to https://cloudcode-pa.googleapis.com/v1internal:listExperiments. Response: {"error":{"code":401,"message":"Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.","status":"UNAUTHENTICATED","details":[{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"CREDENTIALS_MISSING","domain":"googleapis.com","metadata":{"service":"cloudcode-pa.googleapis.com","method":"google.internal.cloud.code.v1internal.CloudCode.ListExperiments"}}]}}, headers: {"www-authenticate":["Bearer realm=\"https://accounts.google.com/\""],"vary":["Origin, X-Origin, Referer"],"content-type":["application/json; charset=UTF-8"],"content-encoding":["gzip"],"date":["Fri, 04 Jul 2025 10:38:08 GMT"],"server":["ESF"],"x-xss-protection":["0"],"x-frame-options":["SAMEORIGIN"],"x-content-type-options":["nosniff"],"server-timing":["gfet4t7; dur=10"],"alt-svc":["h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"],"connection":["close"],"transfer-encoding":["chunked"]}, error: [object Object]
+2025-07-04 13:38:09.613 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-07-04 13:38:09.613 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-07-04 13:38:09.624 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-07-04 13:38:09.624 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess

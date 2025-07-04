@@ -1,0 +1,12 @@
+2025-07-04 14:52:20.270 [info] Added views:outline in workbench.view.explorer
+2025-07-04 14:52:20.270 [info] Added views:workbench.view.search in workbench.view.search
+2025-07-04 14:52:20.270 [info] Added views:workbench.scm in workbench.view.scm
+2025-07-04 14:52:20.270 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2025-07-04 14:52:20.270 [info] Added views:workbench.panel.output in workbench.panel.output
+2025-07-04 14:52:20.270 [info] Added views:terminal in terminal
+2025-07-04 14:52:20.270 [info] Added views:timeline in workbench.view.explorer
+2025-07-04 14:52:20.270 [info] Added views:workbench.panel.aichat.view.e1ca2cc6-f69a-4cc3-906a-b9f59c32c4bd in workbench.panel.aichat.fdfbaee5-06c3-470f-a07d-a23b07ff3126
+2025-07-04 14:52:20.270 [info] Added views:workbench.explorer.emptyView in workbench.view.explorer
+2025-07-04 14:52:20.614 [info] Added views:workbench.debug.welcome in workbench.view.debug
+2025-07-04 14:52:23.140 [info] Added views:~remote.forwardedPorts in ~remote.forwardedPortsContainer
+2025-07-04 14:52:24.892 [info] Added views:workbench.panel.repl.view in workbench.panel.repl

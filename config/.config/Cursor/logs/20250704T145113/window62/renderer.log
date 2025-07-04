@@ -1,0 +1,37 @@
+2025-07-04 14:52:19.363 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:19.364 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:19.365 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:19.370 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:19.371 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:19.377 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:19.378 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:19.379 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:19.382 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:19.460 [warning] Missing property "modes" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:19.461 [warning] Missing property "modes2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:19.461 [warning] Missing property "modes3" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:19.462 [warning] Missing property "explicitEnableOrDisable" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:19.463 [warning] Missing property "lastBackgroundBugbotAt" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:19.464 [warning] Missing property "repositoryIndexingError" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:19.464 [warning] Missing property "repositoryIndexingStatus" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:19.465 [warning] Missing property "repositoryLastSyncedTime" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:19.466 [warning] Missing property "repositoryIndexingJobs" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:19.466 [warning] Missing property "mainLocalRepositoryProgress" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:21.026 [info] Started local extension host with pid 80251.
+2025-07-04 14:52:40.027 [info] [perf] Render performance baseline is 28ms
+2025-07-04 14:53:29.713 [info] Extension host (LocalProcess pid: 80251) is unresponsive.
+2025-07-04 14:53:29.724 [info] Extension host (LocalProcess pid: 80251) is responsive.
+2025-07-04 14:54:03.398 [info] Extension host (LocalProcess pid: 80251) is unresponsive.
+2025-07-04 14:54:03.485 [info] Extension host (LocalProcess pid: 80251) is responsive.
+2025-07-04 14:54:03.485 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-04 14:54:03.882 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-04 14:55:20.145 [info] Extension host (LocalProcess pid: 80251) is unresponsive.
+2025-07-04 14:55:20.161 [info] Extension host (LocalProcess pid: 80251) is responsive.
+2025-07-04 14:55:20.161 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-04 14:55:20.248 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-04 14:57:04.338 [info] Extension host (LocalProcess pid: 80251) is unresponsive.
+2025-07-04 14:57:04.374 [info] Extension host (LocalProcess pid: 80251) is responsive.
+2025-07-04 14:57:04.379 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-04 14:57:04.494 [info] Extension host (LocalProcess pid: 80251) is unresponsive.
+2025-07-04 14:57:04.621 [info] Extension host (LocalProcess pid: 80251) is responsive.
+2025-07-04 14:57:04.622 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session

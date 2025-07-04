@@ -1,0 +1,51 @@
+2025-07-04 14:51:27.139 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:51:27.140 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:51:27.175 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:51:27.176 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:51:27.176 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:51:27.177 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:51:27.192 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:51:27.192 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:51:27.193 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:51:27.660 [warning] Missing property "modes" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.660 [warning] Missing property "modes2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.661 [warning] Missing property "modes3" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.662 [warning] Missing property "explicitEnableOrDisable" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.683 [warning] Missing property "lastBackgroundBugbotAt" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.685 [warning] Missing property "repositoryIndexingError" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.696 [warning] Missing property "repositoryIndexingStatus" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.696 [warning] Missing property "repositoryLastSyncedTime" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.697 [warning] Missing property "repositoryIndexingJobs" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.698 [warning] Missing property "mainLocalRepositoryProgress" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.707 [warning] Missing property "shouldHideWarning" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.708 [warning] Missing property "persistentChatMetadata" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.708 [warning] Missing property "aiPanePosition" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.717 [warning] Missing property "shouldRerankByDefault" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.718 [warning] Missing property "indexingData" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.719 [warning] Missing property "composerState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.720 [warning] Missing property "isCursorPredictionOutOfRangeIndicatorMinimized2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.720 [warning] Missing property "needsComposerInitialOpening" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.730 [warning] Missing property "approvedProjectMcpServers" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.733 [warning] Missing property "disabledMcpServers" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.733 [warning] Missing property "eligibleForSnippetLearning" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:27.734 [warning] Missing property "solidJSLeakRecords" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:51:28.208 [warning] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 34ms.
+2025-07-04 14:51:28.347 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 98ms.
+2025-07-04 14:51:28.412 [warning] Creation of workbench contribution 'workbench.contrib.remoteStatusIndicator' took 22ms.
+2025-07-04 14:51:28.438 [warning] Creation of workbench contribution 'workbench.contrib.partsSplash' took 21ms.
+2025-07-04 14:51:28.535 [warning] Creation of workbench contribution 'workbench.contrib.interactiveDocument' took 47ms.
+2025-07-04 14:51:28.562 [warning] Creation of workbench contribution 'workbench.contrib.userDataProfiles' took 25ms.
+2025-07-04 14:51:35.528 [info] Started local extension host with pid 76234.
+2025-07-04 14:51:50.732 [info] [perf] Render performance baseline is 36ms
+2025-07-04 14:54:03.354 [info] Extension host (LocalProcess pid: 76234) is unresponsive.
+2025-07-04 14:54:03.417 [info] Extension host (LocalProcess pid: 76234) is responsive.
+2025-07-04 14:54:11.678 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-04 14:54:15.702 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-04 14:55:45.262 [info] Extension host (LocalProcess pid: 76234) is unresponsive.
+2025-07-04 14:55:45.421 [info] Extension host (LocalProcess pid: 76234) is responsive.
+2025-07-04 14:55:45.422 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-04 14:56:04.544 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-04 14:56:13.991 [info] Extension host (LocalProcess pid: 76234) is unresponsive.
+2025-07-04 14:56:15.399 [info] Extension host (LocalProcess pid: 76234) is responsive.
+2025-07-04 14:56:15.400 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-04 14:57:04.258 [info] UNRESPONSIVE extension host: starting to profile NOW

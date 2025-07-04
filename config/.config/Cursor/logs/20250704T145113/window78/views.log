@@ -1,0 +1,12 @@
+2025-07-04 14:53:06.612 [info] Added views:outline in workbench.view.explorer
+2025-07-04 14:53:06.612 [info] Added views:workbench.view.search in workbench.view.search
+2025-07-04 14:53:06.612 [info] Added views:workbench.scm in workbench.view.scm
+2025-07-04 14:53:06.612 [info] Added views:workbench.panel.markers.view in workbench.panel.markers
+2025-07-04 14:53:06.612 [info] Added views:workbench.panel.output in workbench.panel.output
+2025-07-04 14:53:06.612 [info] Added views:terminal in terminal
+2025-07-04 14:53:06.612 [info] Added views:timeline in workbench.view.explorer
+2025-07-04 14:53:06.612 [info] Added views:workbench.panel.aichat.view.2044a78d-383c-4aca-967e-e72b5696194e in workbench.panel.aichat.f91d7334-04e2-4c68-8bb3-507334bcdab0
+2025-07-04 14:53:06.612 [info] Added views:workbench.explorer.emptyView in workbench.view.explorer
+2025-07-04 14:53:06.612 [info] Added views:workbench.debug.variablesView,workbench.debug.watchExpressionsView,workbench.debug.callStackView,workbench.debug.breakPointsView in workbench.view.debug
+2025-07-04 14:53:29.229 [info] Added views:workbench.panel.aichat.view.a436fe2a-eaab-45ca-baaf-502149d9aee2 in workbench.panel.aichat.f91d7334-04e2-4c68-8bb3-507334bcdab0
+2025-07-04 14:53:29.230 [info] Removed views:workbench.panel.aichat.view.2044a78d-383c-4aca-967e-e72b5696194e from workbench.panel.aichat.f91d7334-04e2-4c68-8bb3-507334bcdab0

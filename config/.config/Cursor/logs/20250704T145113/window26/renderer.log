@@ -1,0 +1,45 @@
+2025-07-04 14:52:08.755 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:08.756 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:08.757 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:08.758 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:08.759 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:08.760 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:08.761 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:08.762 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:08.763 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:08.782 [warning] Missing property "modes" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:08.783 [warning] Missing property "modes2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:08.785 [warning] Missing property "modes3" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:08.786 [warning] Missing property "explicitEnableOrDisable" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:08.786 [warning] Missing property "lastBackgroundBugbotAt" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:08.787 [warning] Missing property "repositoryIndexingError" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:08.788 [warning] Missing property "repositoryIndexingStatus" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:08.789 [warning] Missing property "repositoryLastSyncedTime" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:08.790 [warning] Missing property "repositoryIndexingJobs" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:08.792 [warning] Missing property "mainLocalRepositoryProgress" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:08.994 [warning] Creation of workbench contribution 'workbench.contrib.explorerViewletViews' took 22ms.
+2025-07-04 14:52:10.184 [info] Started local extension host with pid 79209.
+2025-07-04 14:52:30.420 [info] [perf] Render performance baseline is 57ms
+2025-07-04 14:54:03.382 [info] Extension host (LocalProcess pid: 79209) is unresponsive.
+2025-07-04 14:54:03.434 [info] Extension host (LocalProcess pid: 79209) is responsive.
+2025-07-04 14:54:11.693 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-04 14:54:15.810 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-04 14:55:09.115 [info] Extension host (LocalProcess pid: 79209) is unresponsive.
+2025-07-04 14:55:16.117 [info] Extension host (LocalProcess pid: 79209) is responsive.
+2025-07-04 14:55:16.118 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-04 14:55:20.142 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-04 14:56:12.652 [info] Extension host (LocalProcess pid: 79209) is unresponsive.
+2025-07-04 14:56:12.661 [info] Extension host (LocalProcess pid: 79209) is responsive.
+2025-07-04 14:56:12.662 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-04 14:56:12.815 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-07-04 14:57:04.335 [info] Extension host (LocalProcess pid: 79209) is unresponsive.
+2025-07-04 14:57:04.389 [info] Extension host (LocalProcess pid: 79209) is responsive.
+2025-07-04 14:57:04.390 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-07-04 14:57:04.459 [error] [unknown] Network disconnected: ConnectError: [unknown] Network disconnected
+    at t (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:4757:224502)
+    at async Object.getTeams (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:207939)
+    at async lVi.getTeams (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:491:67231)
+    at async lVi.refreshMembershipType (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:491:57669) [unknown] Network disconnected
+2025-07-04 14:57:04.484 [info] Extension host (LocalProcess pid: 79209) is unresponsive.
+2025-07-04 14:57:04.561 [info] Extension host (LocalProcess pid: 79209) is responsive.
+2025-07-04 14:57:04.562 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session

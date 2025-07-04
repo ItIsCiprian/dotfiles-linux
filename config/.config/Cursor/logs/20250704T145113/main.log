@@ -1,0 +1,425 @@
+2025-07-04 14:51:15.382 [info] updateURL https://api2.cursor.sh/updates/api/update/linux-x64/cursor/1.2.1/8ac364b819bbfb9633a829450228386eb96abc5abf1e96aee7235a31a1fdd736/stable
+2025-07-04 14:51:15.383 [info] update#setState idle
+2025-07-04 14:51:45.514 [info] update#setState checking for updates
+2025-07-04 14:51:47.625 [info] update#setState idle
+2025-07-04 14:53:03.449 [warning] No ptyHost heartbeat after 6 seconds
+2025-07-04 14:53:28.504 [warning] No ptyHost heartbeat after 6 seconds
+2025-07-04 14:53:28.550 [error] CodeWindow: detected unresponsive
+2025-07-04 14:53:29.513 [error] CodeWindow: recovered from unresponsive
+2025-07-04 14:53:57.196 [warning] No ptyHost heartbeat after 6 seconds
+2025-07-04 14:54:12.005 [warning] No ptyHost heartbeat after 6 seconds
+2025-07-04 14:54:15.290 [info] Extension host with pid 83012 exited with code: 0, signal: unknown.
+2025-07-04 14:54:15.397 [info] Extension host with pid 83014 exited with code: 0, signal: unknown.
+2025-07-04 14:55:08.944 [warning] No ptyHost heartbeat after 6 seconds
+2025-07-04 14:55:18.205 [warning] No ptyHost heartbeat after 6 seconds
+2025-07-04 15:01:43.815 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:43.822 [error] [UtilityProcess id: 41, type: fileWatcher, pid: 75347]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:43.830 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:43.830 [error] [UtilityProcess id: 52, type: fileWatcher, pid: 75327]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:43.834 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:43.834 [error] [UtilityProcess id: 74, type: fileWatcher, pid: 78562]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:43.874 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:43.938 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:43.938 [error] [UtilityProcess id: 70, type: fileWatcher, pid: 77005]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:43.939 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:43.940 [error] [UtilityProcess id: 53, type: fileWatcher, pid: 76423]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:43.941 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:43.942 [error] [UtilityProcess id: 30, type: fileWatcher, pid: 75913]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:43.946 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:43.956 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:44.055 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:44.095 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:44.105 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:44.116 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:44.219 [info] Extension host with pid 80947 exited with code: 15, signal: unknown.
+2025-07-04 15:01:44.219 [error] [UtilityProcess id: 62, type: extensionHost, pid: 80947]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.227 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:44.393 [info] Extension host with pid 78383 exited with code: 15, signal: unknown.
+2025-07-04 15:01:44.402 [error] [UtilityProcess id: 34, type: extensionHost, pid: 78383]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.407 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:44.408 [error] [UtilityProcess id: 65, type: fileWatcher, pid: 75607]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.410 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:44.410 [error] [UtilityProcess id: 26, type: fileWatcher, pid: 76097]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.412 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:44.413 [error] [UtilityProcess id: 8, type: fileWatcher, pid: 75606]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.416 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:44.465 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:44.465 [error] [UtilityProcess id: 37, type: fileWatcher, pid: 76274]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.471 [info] Extension host with pid 77088 exited with code: 15, signal: unknown.
+2025-07-04 15:01:44.471 [error] [UtilityProcess id: 16, type: extensionHost, pid: 77088]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.472 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:44.472 [error] [UtilityProcess id: 61, type: fileWatcher, pid: 75679]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.473 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:44.473 [error] [UtilityProcess id: 33, type: fileWatcher, pid: 75724]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.474 [info] Extension host with pid 77491 exited with code: 15, signal: unknown.
+2025-07-04 15:01:44.474 [error] [UtilityProcess id: 21, type: extensionHost, pid: 77491]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.475 [info] Extension host with pid 77150 exited with code: 15, signal: unknown.
+2025-07-04 15:01:44.476 [error] [UtilityProcess id: 17, type: extensionHost, pid: 77150]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.484 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:44.484 [error] [UtilityProcess id: 82, type: fileWatcher, pid: 82658]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.486 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:44.496 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:44.496 [error] [UtilityProcess id: 28, type: fileWatcher, pid: 75403]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.497 [info] Extension host with pid 78845 exited with code: 15, signal: unknown.
+2025-07-04 15:01:44.498 [error] [UtilityProcess id: 40, type: extensionHost, pid: 78845]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.499 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:44.499 [error] [UtilityProcess id: 40, type: fileWatcher, pid: 75431]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.504 [info] Extension host with pid 81408 exited with code: 15, signal: unknown.
+2025-07-04 15:01:44.505 [error] [UtilityProcess id: 68, type: extensionHost, pid: 81408]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.506 [info] Extension host with pid 76249 exited with code: 15, signal: unknown.
+2025-07-04 15:01:44.506 [error] [UtilityProcess id: 4, type: extensionHost, pid: 76249]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.555 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:44.555 [error] [UtilityProcess id: 46, type: fileWatcher, pid: 75534]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.568 [info] Extension host with pid 80810 exited with code: 15, signal: unknown.
+2025-07-04 15:01:44.568 [error] [UtilityProcess id: 60, type: extensionHost, pid: 80810]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.570 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:44.605 [info] Extension host with pid 76295 exited with code: 15, signal: unknown.
+2025-07-04 15:01:44.606 [error] [UtilityProcess id: 5, type: extensionHost, pid: 76295]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.684 [info] Extension host with pid 80335 exited with code: 15, signal: unknown.
+2025-07-04 15:01:44.685 [error] [UtilityProcess id: 54, type: extensionHost, pid: 80335]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.732 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:44.841 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:44.841 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 76225]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.843 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:44.843 [error] [UtilityProcess id: 12, type: fileWatcher, pid: 75688]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.848 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:44.849 [error] [UtilityProcess id: 75, type: fileWatcher, pid: 78874]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.852 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:44.853 [error] [UtilityProcess id: 22, type: fileWatcher, pid: 76168]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.858 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:44.859 [error] [UtilityProcess id: 20, type: fileWatcher, pid: 76416]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.866 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:44.866 [error] [UtilityProcess id: 48, type: fileWatcher, pid: 75579]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.871 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:44.871 [error] [UtilityProcess id: 3, type: fileWatcher, pid: 76146]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.873 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:44.883 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:44.929 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:44.939 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:44.951 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:44.964 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:44.976 [info] Extension host with pid 81039 exited with code: 15, signal: unknown.
+2025-07-04 15:01:44.977 [error] [UtilityProcess id: 63, type: extensionHost, pid: 81039]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:44.978 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:44.989 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:45.001 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:45.001 [error] [UtilityProcess id: 4, type: fileWatcher, pid: 76316]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.002 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:45.003 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 75932]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.151 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:45.152 [error] [UtilityProcess id: 31, type: fileWatcher, pid: 75599]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.153 [info] Extension host with pid 82388 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.154 [error] [UtilityProcess id: 76, type: extensionHost, pid: 82388]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.259 [info] Extension host with pid 80163 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.259 [error] [UtilityProcess id: 51, type: extensionHost, pid: 80163]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.288 [info] Extension host with pid 77855 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.289 [error] [UtilityProcess id: 26, type: extensionHost, pid: 77855]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.299 [info] Extension host with pid 82394 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.300 [error] [UtilityProcess id: 77, type: extensionHost, pid: 82394]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.306 [info] Extension host with pid 76234 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.307 [error] [UtilityProcess id: 3, type: extensionHost, pid: 76234]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.308 [info] Extension host with pid 78626 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.309 [error] [UtilityProcess id: 37, type: extensionHost, pid: 78626]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.310 [info] Extension host with pid 78639 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.310 [error] [UtilityProcess id: 38, type: extensionHost, pid: 78639]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.313 [info] Extension host with pid 82257 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.314 [error] [UtilityProcess id: 74, type: extensionHost, pid: 82257]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.322 [info] Extension host with pid 82513 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.323 [error] [UtilityProcess id: 78, type: extensionHost, pid: 82513]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.324 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:45.324 [error] [UtilityProcess id: 49, type: fileWatcher, pid: 75750]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.325 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:45.326 [error] [UtilityProcess id: 51, type: fileWatcher, pid: 76141]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.328 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:45.338 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:45.448 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:45.563 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:45.578 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:45.608 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:45.621 [info] Extension host with pid 81335 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.621 [error] [UtilityProcess id: 67, type: extensionHost, pid: 81335]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.624 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:45.624 [error] [UtilityProcess id: 79, type: fileWatcher, pid: 81140]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.625 [info] Extension host with pid 80526 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.625 [error] [UtilityProcess id: 56, type: extensionHost, pid: 80526]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.626 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:45.627 [error] [UtilityProcess id: 19, type: fileWatcher, pid: 76339]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.627 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:45.628 [error] [UtilityProcess id: 47, type: fileWatcher, pid: 76357]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.629 [info] Extension host with pid 78311 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.629 [error] [UtilityProcess id: 32, type: extensionHost, pid: 78311]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.630 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:45.630 [error] [UtilityProcess id: 13, type: fileWatcher, pid: 76203]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.631 [info] Extension host with pid 82252 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.632 [error] [UtilityProcess id: 75, type: extensionHost, pid: 82252]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.633 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:45.633 [error] [UtilityProcess id: 25, type: fileWatcher, pid: 75371]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.634 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:45.634 [error] [UtilityProcess id: 54, type: fileWatcher, pid: 75690]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.741 [info] Extension host with pid 79153 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.741 [error] [UtilityProcess id: 43, type: extensionHost, pid: 79153]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.759 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:45.759 [error] [UtilityProcess id: 73, type: fileWatcher, pid: 78161]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.760 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:45.760 [error] [UtilityProcess id: 10, type: fileWatcher, pid: 76085]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.762 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:45.762 [error] [UtilityProcess id: 78, type: fileWatcher, pid: 80681]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.763 [info] Extension host with pid 80251 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.763 [error] [UtilityProcess id: 52, type: extensionHost, pid: 80251]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.764 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:45.764 [error] [UtilityProcess id: 69, type: fileWatcher, pid: 75385]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.769 [info] Extension host with pid 81240 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.769 [error] [UtilityProcess id: 65, type: extensionHost, pid: 81240]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.770 [info] Extension host with pid 77626 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.770 [error] [UtilityProcess id: 23, type: extensionHost, pid: 77626]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.777 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:45.778 [error] [UtilityProcess id: 17, type: fileWatcher, pid: 75983]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.783 [error] ptyHost terminated unexpectedly with code 15
+2025-07-04 15:01:45.784 [warning] [UtilityProcess type: ptyHost, pid: 79624]: unable to kill the process
+2025-07-04 15:01:45.859 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:45.860 [error] [UtilityProcess id: 59, type: fileWatcher, pid: 75927]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.864 [info] Extension host with pid 76684 exited with code: 15, signal: unknown.
+2025-07-04 15:01:45.865 [error] [UtilityProcess id: 6, type: extensionHost, pid: 76684]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:45.867 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:45.884 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:45.923 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:45.943 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:46.055 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:46.158 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:46.221 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:46.253 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:46.284 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.284 [error] [UtilityProcess id: 62, type: fileWatcher, pid: 76187]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.294 [info] Extension host with pid 79400 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.295 [error] [UtilityProcess id: 46, type: extensionHost, pid: 79400]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.296 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.297 [error] [UtilityProcess id: 57, type: fileWatcher, pid: 75655]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.297 [info] Extension host with pid 79852 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.298 [error] [UtilityProcess id: 49, type: extensionHost, pid: 79852]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.299 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.299 [error] [UtilityProcess id: 76, type: fileWatcher, pid: 79569]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.300 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.300 [error] [UtilityProcess id: 18, type: fileWatcher, pid: 75540]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.301 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:46.310 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:46.325 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.325 [error] [UtilityProcess id: 23, type: fileWatcher, pid: 76444]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.326 [info] Extension host with pid 78493 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.326 [error] [UtilityProcess id: 35, type: extensionHost, pid: 78493]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.332 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.332 [error] [UtilityProcess id: 39, type: fileWatcher, pid: 75428]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.335 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.336 [error] [UtilityProcess id: 64, type: fileWatcher, pid: 75696]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.337 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.337 [error] [UtilityProcess id: 32, type: fileWatcher, pid: 76017]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.338 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:46.414 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.414 [error] [UtilityProcess id: 63, type: fileWatcher, pid: 75788]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.452 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.453 [error] [UtilityProcess id: 29, type: fileWatcher, pid: 75589]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.595 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.596 [error] [UtilityProcess id: 45, type: fileWatcher, pid: 76091]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.596 [info] Extension host with pid 77737 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.597 [error] [UtilityProcess id: 25, type: extensionHost, pid: 77737]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.598 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.598 [error] [UtilityProcess id: 81, type: fileWatcher, pid: 82119]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.600 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.600 [error] [UtilityProcess id: 34, type: fileWatcher, pid: 75365]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.601 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:46.644 [info] Extension host with pid 77398 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.645 [error] [UtilityProcess id: 20, type: extensionHost, pid: 77398]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.645 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.645 [error] [UtilityProcess id: 42, type: fileWatcher, pid: 76263]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.646 [info] Extension host with pid 76069 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.646 [error] [UtilityProcess id: 2, type: extensionHost, pid: 76069]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.647 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.647 [error] [UtilityProcess id: 24, type: fileWatcher, pid: 76153]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.650 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.650 [error] [UtilityProcess id: 68, type: fileWatcher, pid: 75993]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.651 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.651 [error] [UtilityProcess id: 66, type: fileWatcher, pid: 76494]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.654 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:46.698 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.698 [error] [UtilityProcess id: 58, type: fileWatcher, pid: 75908]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.699 [info] Extension host with pid 78193 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.699 [error] [UtilityProcess id: 31, type: extensionHost, pid: 78193]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.700 [info] Extension host with pid 79209 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.700 [error] [UtilityProcess id: 44, type: extensionHost, pid: 79209]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.700 [info] Extension host with pid 79568 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.700 [error] [UtilityProcess id: 47, type: extensionHost, pid: 79568]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.701 [info] Extension host with pid 83408 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.701 [error] [UtilityProcess id: 82, type: extensionHost, pid: 83408]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.702 [info] Extension host with pid 78760 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.702 [error] [UtilityProcess id: 39, type: extensionHost, pid: 78760]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.704 [info] Extension host with pid 80294 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.704 [error] [UtilityProcess id: 53, type: extensionHost, pid: 80294]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.706 [info] Extension host with pid 78065 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.706 [error] [UtilityProcess id: 30, type: extensionHost, pid: 78065]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.706 [info] Extension host with pid 82657 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.706 [error] [UtilityProcess id: 79, type: extensionHost, pid: 82657]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.707 [info] Extension host with pid 79095 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.707 [error] [UtilityProcess id: 42, type: extensionHost, pid: 79095]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.720 [info] Extension host with pid 78058 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.720 [error] [UtilityProcess id: 29, type: extensionHost, pid: 78058]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.721 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.721 [error] [UtilityProcess id: 38, type: fileWatcher, pid: 76076]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.722 [info] Extension host with pid 77958 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.722 [error] [UtilityProcess id: 28, type: extensionHost, pid: 77958]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.723 [info] Extension host with pid 79356 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.723 [error] [UtilityProcess id: 45, type: extensionHost, pid: 79356]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.725 [error] [UtilityProcess type: shared-process, pid: 74949]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.728 [info] Extension host with pid 76814 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.728 [error] [UtilityProcess id: 11, type: extensionHost, pid: 76814]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.730 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:46.801 [info] Extension host with pid 77930 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.801 [error] [UtilityProcess id: 27, type: extensionHost, pid: 77930]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.802 [info] Extension host with pid 82135 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.803 [error] [UtilityProcess id: 72, type: extensionHost, pid: 82135]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.817 [info] Extension host with pid 76762 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.817 [error] [UtilityProcess id: 9, type: extensionHost, pid: 76762]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.819 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.819 [error] [UtilityProcess id: 15, type: fileWatcher, pid: 76429]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.830 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.830 [error] [UtilityProcess id: 71, type: fileWatcher, pid: 77056]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.839 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.839 [error] [UtilityProcess id: 77, type: fileWatcher, pid: 80362]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.840 [info] Extension host with pid 82006 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.841 [error] [UtilityProcess id: 71, type: extensionHost, pid: 82006]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.842 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.842 [error] [UtilityProcess id: 27, type: fileWatcher, pid: 76548]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.846 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.847 [error] [UtilityProcess id: 72, type: fileWatcher, pid: 77530]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.849 [info] Extension host with pid 80623 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.849 [error] [UtilityProcess id: 58, type: extensionHost, pid: 80623]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.855 [info] Extension host with pid 80727 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.856 [error] [UtilityProcess id: 59, type: extensionHost, pid: 80727]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.858 [info] Extension host with pid 77193 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.858 [error] [UtilityProcess id: 18, type: extensionHost, pid: 77193]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.859 [info] Extension host with pid 80413 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.859 [error] [UtilityProcess id: 55, type: extensionHost, pid: 80413]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.860 [info] Extension host with pid 76967 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.860 [error] [UtilityProcess id: 14, type: extensionHost, pid: 76967]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.861 [info] Extension host with pid 75552 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.861 [error] [UtilityProcess id: 1, type: extensionHost, pid: 75552]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.864 [info] Extension host with pid 79654 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.864 [error] [UtilityProcess id: 48, type: extensionHost, pid: 79654]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.867 [info] Extension host with pid 78355 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.868 [error] [UtilityProcess id: 33, type: extensionHost, pid: 78355]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.869 [info] Extension host with pid 81073 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.870 [error] [UtilityProcess id: 64, type: extensionHost, pid: 81073]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.871 [info] Extension host with pid 77279 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.871 [error] [UtilityProcess id: 19, type: extensionHost, pid: 77279]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.873 [info] Extension host with pid 80927 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.873 [error] [UtilityProcess id: 61, type: extensionHost, pid: 80927]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.875 [info] Extension host with pid 77536 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.875 [error] [UtilityProcess id: 22, type: extensionHost, pid: 77536]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.876 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:46.914 [info] Extension host with pid 82202 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.915 [error] [UtilityProcess id: 73, type: extensionHost, pid: 82202]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.915 [info] Extension host with pid 77006 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.915 [error] [UtilityProcess id: 15, type: extensionHost, pid: 77006]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.916 [info] Extension host with pid 77698 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.916 [error] [UtilityProcess id: 24, type: extensionHost, pid: 77698]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.917 [info] Extension host with pid 78609 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.917 [error] [UtilityProcess id: 36, type: extensionHost, pid: 78609]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.920 [info] Extension host with pid 76686 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.920 [error] [UtilityProcess id: 8, type: extensionHost, pid: 76686]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.921 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.921 [error] [UtilityProcess id: 60, type: fileWatcher, pid: 75717]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.922 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.922 [error] [UtilityProcess id: 67, type: fileWatcher, pid: 75390]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.924 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.924 [error] [UtilityProcess id: 35, type: fileWatcher, pid: 75280]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.926 [info] Extension host with pid 76848 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.927 [error] [UtilityProcess id: 12, type: extensionHost, pid: 76848]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.928 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.928 [error] [UtilityProcess id: 36, type: fileWatcher, pid: 76130]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.929 [info] Extension host with pid 81467 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.929 [error] [UtilityProcess id: 69, type: extensionHost, pid: 81467]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.930 [info] Extension host with pid 80069 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.930 [error] [UtilityProcess id: 50, type: extensionHost, pid: 80069]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.931 [info] Extension host with pid 76685 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.931 [error] [UtilityProcess id: 7, type: extensionHost, pid: 76685]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.932 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:46.941 [info] Extension host with pid 80564 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.941 [error] [UtilityProcess id: 57, type: extensionHost, pid: 80564]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.977 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.977 [error] [UtilityProcess id: 16, type: fileWatcher, pid: 75382]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.978 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.978 [error] [UtilityProcess id: 11, type: fileWatcher, pid: 75664]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.979 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.979 [error] [UtilityProcess id: 21, type: fileWatcher, pid: 75524]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.987 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.987 [error] [UtilityProcess id: 9, type: fileWatcher, pid: 76112]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.988 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.988 [error] [UtilityProcess id: 80, type: fileWatcher, pid: 81602]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.989 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.989 [error] [UtilityProcess id: 43, type: fileWatcher, pid: 76197]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.990 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.990 [error] [UtilityProcess id: 6, type: fileWatcher, pid: 75460]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.991 [info] Extension host with pid 81866 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.991 [error] [UtilityProcess id: 70, type: extensionHost, pid: 81866]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.991 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.992 [error] [UtilityProcess id: 56, type: fileWatcher, pid: 75916]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.992 [info] Extension host with pid 81257 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.993 [error] [UtilityProcess id: 66, type: extensionHost, pid: 81257]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.993 [info] Extension host with pid 76935 exited with code: 15, signal: unknown.
+2025-07-04 15:01:46.994 [error] [UtilityProcess id: 13, type: extensionHost, pid: 76935]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.997 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.998 [error] [UtilityProcess id: 5, type: fileWatcher, pid: 76124]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.998 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.998 [error] [UtilityProcess id: 14, type: fileWatcher, pid: 75556]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:46.999 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:46.999 [error] [UtilityProcess id: 55, type: fileWatcher, pid: 76395]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:47.000 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:47.000 [error] [UtilityProcess id: 44, type: fileWatcher, pid: 76083]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:47.001 [info] Extension host with pid 78974 exited with code: 15, signal: unknown.
+2025-07-04 15:01:47.001 [error] [UtilityProcess id: 41, type: extensionHost, pid: 78974]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:47.001 [info] Extension host with pid 76783 exited with code: 15, signal: unknown.
+2025-07-04 15:01:47.002 [error] [UtilityProcess id: 10, type: extensionHost, pid: 76783]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:47.002 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:47.002 [error] [UtilityProcess id: 7, type: fileWatcher, pid: 76513]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:47.004 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2025-07-04 15:01:47.004 [error] [UtilityProcess id: 50, type: fileWatcher, pid: 76379]: crashed with code 15 and reason 'killed'
+2025-07-04 15:01:47.013 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:47.022 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:47.134 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:47.285 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:47.325 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:47.482 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:47.573 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:47.638 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:47.726 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:47.826 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:47.889 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:47.914 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:47.930 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:47.942 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:47.958 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:47.972 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:47.986 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:48.130 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:48.331 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:48.429 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:48.468 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:48.520 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:48.603 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:48.714 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:48.735 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:48.796 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:48.862 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:48.946 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:49.014 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:49.087 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:49.106 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:49.171 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:49.234 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:49.305 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:49.329 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:49.444 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:49.578 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:49.597 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:49.693 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:49.761 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:49.797 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)
+2025-07-04 15:01:49.936 [error] CodeWindow: renderer process gone (reason: clean-exit, code: <unknown>)

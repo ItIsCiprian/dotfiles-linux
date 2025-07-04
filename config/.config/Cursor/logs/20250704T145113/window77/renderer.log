@@ -1,0 +1,55 @@
+2025-07-04 14:52:53.932 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-toolsai.datawrangler' wants API proposal 'debugFocus' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:53.933 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-copilot-data-analysis' wants API proposal 'chatVariableResolver' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:53.934 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:53.935 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:53.936 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:53.940 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-azuretools.vscode-azure-github-copilot' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:53.942 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'vscjava.vscode-java-pack' wants API proposal 'lmTools' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:53.943 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'chatParticipant' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:53.944 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'apidev.azure-api-center' wants API proposal 'languageModels' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-07-04 14:52:55.064 [warning] Missing property "modes" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.130 [warning] Missing property "modes2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.131 [warning] Missing property "modes3" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.132 [warning] Missing property "explicitEnableOrDisable" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.132 [warning] Missing property "lastBackgroundBugbotAt" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.133 [warning] Missing property "repositoryIndexingError" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.134 [warning] Missing property "repositoryIndexingStatus" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.134 [warning] Missing property "repositoryLastSyncedTime" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.135 [warning] Missing property "repositoryIndexingJobs" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.136 [warning] Missing property "mainLocalRepositoryProgress" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.136 [warning] Missing property "shouldHideWarning" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.137 [warning] Missing property "persistentChatMetadata" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.137 [warning] Missing property "aiPanePosition" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.138 [warning] Missing property "shouldRerankByDefault" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.138 [warning] Missing property "indexingData" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.139 [warning] Missing property "composerState" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.140 [warning] Missing property "isCursorPredictionOutOfRangeIndicatorMinimized2" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.141 [warning] Missing property "needsComposerInitialOpening" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.141 [warning] Missing property "approvedProjectMcpServers" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.142 [warning] Missing property "disabledMcpServers" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.143 [warning] Missing property "eligibleForSnippetLearning" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:55.143 [warning] Missing property "solidJSLeakRecords" in oldValue. Filling with value from initValue. Please add a migration if necessary.
+2025-07-04 14:52:59.362 [info] Started local extension host with pid 82394.
+2025-07-04 14:54:03.512 [error] Error received from starting extension host (kind: LocalProcess)
+2025-07-04 14:54:03.514 [error] The local extension host took longer than 60s to send its ready message.
+2025-07-04 14:56:12.892 [error] Error fetching user privacy mode: No Connect transport provider registered.
+2025-07-04 14:56:12.927 [error] No Connect transport provider registered.: Error: No Connect transport provider registered.
+    at oWo.transport (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:214786)
+    at async iC.createSingleServer (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:215490) No Connect transport provider registered.
+2025-07-04 14:56:13.064 [error] No Connect transport provider registered.: Error: No Connect transport provider registered.
+    at oWo.transport (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:214786)
+    at async iC.createSingleServer (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:215490) No Connect transport provider registered.
+2025-07-04 14:56:13.127 [error] No Connect transport provider registered.: Error: No Connect transport provider registered.
+    at oWo.transport (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:214786)
+    at async iC.createSingleServer (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:215490)
+    at async iC.get (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:215304)
+    at async DZs._refreshConfig (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7039:9338) No Connect transport provider registered.
+2025-07-04 14:56:13.128 [error] No Connect transport provider registered.: Error: No Connect transport provider registered.
+    at oWo.transport (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:214786)
+    at async iC.createSingleServer (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:215490) No Connect transport provider registered.
+2025-07-04 14:56:13.129 [error] No Connect transport provider registered.: Error: No Connect transport provider registered.
+    at oWo.transport (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:214786)
+    at async iC.createSingleServer (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:215490)
+    at async iC.get (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:489:215304)
+    at async EZs.keepCppModelStateUpdated (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7017:11968)
+    at async EZs.loadCppConfigIncludingHandlingProAccess (vscode-file://vscode-app/tmp/.mount_cursor00ElZE/usr/share/cursor/resources/app/out/vs/workbench/workbench.desktop.main.js:7034:17224) No Connect transport provider registered.

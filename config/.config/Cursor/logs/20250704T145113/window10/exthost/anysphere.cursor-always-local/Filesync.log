@@ -1,0 +1,22 @@
+2025-07-04 14:52:18.079 [error] Failed to check if file sync is enabled for user {}
+2025-07-04 14:52:18.079 [error] Failed to fetch fsConfig File sync is disabled
+2025-07-04 14:52:18.079 [error] Failed to fetch fsConfig File sync is disabled
+2025-07-04 14:52:18.218 [info] [registerEventListeners] Registering event listeners
+2025-07-04 14:52:19.389 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-04 14:52:19.543 [info] Fetched fsConfig in 153.60866199999964ms
+2025-07-04 14:52:19.543 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-04 14:52:25.516 [info] Starting sync of visible tabs
+2025-07-04 14:52:25.516 [info] Synced all visible tabs in 0.21685699999943608ms
+2025-07-04 14:52:25.999 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-04 14:52:26.144 [info] Fetched fsConfig in 144.6694060000009ms
+2025-07-04 14:52:26.144 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-04 14:52:34.281 [info] Starting sync of visible tabs
+2025-07-04 14:52:34.281 [info] Synced all visible tabs in 0.21617600000172388ms
+2025-07-04 14:52:34.781 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-04 14:52:34.928 [info] Fetched fsConfig in 147.33346800000072ms
+2025-07-04 14:52:34.928 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}
+2025-07-04 14:52:58.528 [info] Starting sync of visible tabs
+2025-07-04 14:52:58.529 [info] Synced all visible tabs in 0.8754540000009001ms
+2025-07-04 14:52:59.062 [info] [ENABLED STATUS] Filesync enabled from server.
+2025-07-04 14:52:59.206 [info] Fetched fsConfig in 144.13291700000264ms
+2025-07-04 14:52:59.206 [info] FSConfig response: {"checkFilesyncHashPercent":0.004999999888241291,"rateLimiterBreakerResetTimeMs":300000,"rateLimiterRps":10,"rateLimiterBurstCapacity":50,"maxRecentUpdatesStored":100,"maxModelVersionCacheSize":100,"maxFileSizeToSyncBytes":500000,"syncRetryMaxAttempts":3,"syncRetryInitialDelayMs":20,"syncRetryTimeMultiplier":2,"fileSyncStatusMaxCacheSize":5,"successiveSyncsRequiredForReliance":5,"extraSuccessfulSyncsNeededAfterErrors":0,"bigChangeStrippingThresholdBytes":10000,"lastNUpdatesToSend":15,"fileSyncStatusTtlMs":300000,"syncDebounceMs":250,"syncUpdateThreshold":10}

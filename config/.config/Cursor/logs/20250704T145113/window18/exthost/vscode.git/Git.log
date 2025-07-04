@@ -1,0 +1,8 @@
+2025-07-04 14:51:44.734 [info] [main] Log level: Info
+2025-07-04 14:51:44.734 [info] [main] Validating found git in: "git"
+2025-07-04 14:51:44.734 [info] [main] Using git "2.50.0" from "git"
+2025-07-04 14:51:44.734 [info] [Model][doInitialScan] Initial repository scan started
+2025-07-04 14:51:44.734 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-07-04 14:51:54.781 [info] > git config --global user.name [14ms]
+2025-07-04 14:51:54.838 [info] > git config --global user.email [14ms]
+2025-07-04 14:51:54.838 [info] [main] Stored git author name in global state:  <>

@@ -1,6 +1,9 @@
-<<<<<<< HEAD
-# Ignore all VSCode extensions
+# VS Code user extensions
 .vscode/extensions/
-=======
+
+# VS Code internal caches
 config/.config/Code/CachedExtensionVSIXs/
->>>>>>> b2525b9 (Ignore VS Code extension caches)
+config/.config/Code/CachedData/
+config/.config/Code/Cache/
+config/.config/Code/Service Worker/
+

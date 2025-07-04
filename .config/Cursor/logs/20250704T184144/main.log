@@ -3,3 +3,7 @@
 2025-07-04 18:41:47.306 [error] vscode-file: Refused to load resource /tmp/.mount_cursorbchY9e/usr/share/cursor/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/tmp/.mount_cursorbchY9e/usr/share/cursor/resources/app/extensions/theme-seti/icons/seti.woff)
 2025-07-04 18:42:15.225 [info] update#setState checking for updates
 2025-07-04 18:42:15.384 [info] update#setState idle
+2025-07-04 19:42:15.227 [info] update#setState checking for updates
+2025-07-04 19:42:15.718 [info] update#setState idle
+2025-07-04 19:49:00.904 [info] Extension host with pid 191065 exited with code: 0, signal: unknown.
+2025-07-04 19:49:01.063 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 191072]: crashed with code 15 and reason 'killed'

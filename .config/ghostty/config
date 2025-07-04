@@ -1,19 +1,45 @@
+# Ghostty theme
+theme = catppuccin-macchiato
 
-theme = "catppuccin-macchiato"
-font-family = "JetBrainsMono Nerd Font"
-font-size = 10
+# Shell integrations
+shell-integration = fish
+quit-after-last-window-closed = true
 
-#background = "#000000"
-#background-opacity = 0.85  # slightly more opaque = less glassy
+# Font family
+font-family = MonoLisa
+font-style = Regular
+font-style-italic = Regular Italic
+font-style-bold = Bold
+font-style-bold-italic = Bold Italic
 
-window-decoration = true
-mouse-hide-while-typing = true
-mouse-scroll-multiplier = 0.5
-cursor-style = "block"
-shell-integration-features = "no-cursor"
+# Font size
+font-size = 12
 
-window-padding-x = 5
-window-padding-y = 5
+# Opacity of split windows
+unfocused-split-opacity = 0.97  
 
-# Optional: blur hinting (might need compositor support)
-blur = false
+# Set the background-opacity to be fully opaque
+background-opacity = 1.0
+
+# Cursor style
+cursor-style-blink = true
+
+# Clipboard settings
+clipboard-read = allow
+clipboard-write = allow
+
+# macos options
+macos-option-as-alt = true
+macos-titlebar-proxy-icon = hidden
+
+# Always show ghostty as the title
+title = ghostty 
+
+# Window settings
+window-width = 90
+window-height = 30
+window-colorspace = display-p3
+window-padding-color = background
+window-padding-balance = true
+window-padding-x = 0
+window-padding-y = 0

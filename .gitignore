@@ -1,20 +1,5 @@
-# VS Code cache
-.config/Code/CachedExtensionVSIXs/
-.config/Code/CachedData/
-.config/Code/Cache/
-.config/Code/Service Worker/
-.vscode/extensions/
 
-# Cursor cache
-.config/Cursor/Cache/
-.config.Cursor/CachedData/
-.config/Cursor/CachedProfilesData/
-.config/Cursor/DawnGraphiteCache/
-.config/Cursor/DawnWebGPUCache/
-.config/Cursor/GPUCache/
-.config/Cursor/Local Storage/
-.config/Cursor/Service Worker/
-.config/Cursor/Session Storage/
-.config/Cursor/logs/
-.config/Cursor/sentry/
-.config/Cursor/code.lock
+# vscode cache files
+.config/Code/
+.config/Cursor/
+config-main.zip:Zone.Identifier

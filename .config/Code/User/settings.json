@@ -2,7 +2,7 @@
     "editor.accessibilitySupport": "off",
     "workbench.colorTheme": "Catppuccin Mocha",
     "editor.inlineSuggest.enabled": true,
-    "terminal.integrated.fontFamily": "monospace",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
     "[python]": {
         "editor.formatOnType": true
     },
@@ -32,7 +32,5 @@
                 "-l"
             ]
         }
-    },
-    "editor.fontFamily": "FiraCode Nerd Font, monospace",
-    "editor.fontSize": 12
+    }
 }

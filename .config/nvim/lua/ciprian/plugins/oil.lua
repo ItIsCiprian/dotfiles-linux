@@ -2,7 +2,8 @@ return {
 	"stevearc/oil.nvim",
 	---@module 'oil'
 	---@type oil.SetupOpts
-	opts = {},
+	lazy = true,
+	cmd = "Oil", -- Lazy load with the Oil command
 	-- Optional dependencies
 	dependencies = { { "echasnovski/mini.icons", opts = {} } },
 	-- dependencies = { "nvim-tree/nvim-web-devicons" }, -- use if prefer nvim-web-devicons
@@ -10,6 +11,6 @@ return {
 		require("oil").setup()
 
 		local keymap = vim.keymap -- for conciseness
-		keymap.set("n", "-", "<cmd>Oil --float<CR>", { desc = "Open Paren Directory in Oil -float" })
+		keymap.set("n", "-", "<cmd>Oil --float<CR>", { desc = "Open Parent Directory in Oil -float" })
 	end,
 }

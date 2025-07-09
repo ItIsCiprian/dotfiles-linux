@@ -10,8 +10,6 @@ return {
 		-- configurations go here
 	},
 	config = function()
-		vim.opt.updatetime = 200
-
 		require("barbecue").setup({
 			create_autocmd = false, -- prevent barbecue from updating itself automatically
 		})

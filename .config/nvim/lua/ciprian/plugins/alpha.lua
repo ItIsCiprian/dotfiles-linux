@@ -4,30 +4,21 @@ return {
 	config = function()
 		local alpha = require("alpha")
 		local dashboard = require("alpha.themes.dashboard")
-		local snacks = require("snacks") -- only if you want to hook in later
 
 		dashboard.section.header.val = {
 			" ",
-			" ███╗   ██╗███████╗ ██████╗ ██╗   ██╗██╗███╗   ███╗ ",
-			" ████╗  ██║██╔════╝██╔═══██╗██║   ██║██║████╗ ████║ ",
-			" ██╔██╗ ██║█████╗  ██║   ██║██║   ██║██║██╔████╔██║ ",
-			" ██║╚██╗██║██╔══╝  ██║   ██║╚██╗ ██╔╝██║██║╚██╔╝██║ ",
-			" ██║ ╚████║███████╗╚██████╔╝ ╚████╔╝ ██║██║ ╚═╝ ██║ ",
-			" ╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═══╝  ╚═╝╚═╝     ╚═╝ ",
+			"  ███╗   ██╗███████╗ ██████╗ ██╗   ██╗██╗███╗   ███╗ ",
+			"  ████╗  ██║██╔════╝██╔═══██╗██║   ██║██║████╗ ████║ ",
+			"  ██╔██╗ ██║█████╗  ██║   ██║██║   ██║██║██╔████╔██║ ",
+			"  ██║╚██╗██║██╔══╝  ██║   ██║╚██╗ ██╔╝██║██║╚██╔╝██║ ",
+			"  ██║ ╚████║███████╗╚██████╔╝ ╚████╔╝ ██║██║ ╚═╝ ██║ ",
+			"  ╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═══╝  ╚═╝╚═╝     ╚═╝ ",
 			" ",
 		}
 
 		dashboard.section.buttons.val = {
-			-- Snacks / Telescope-style buttons
-			dashboard.button("<leader><leader>", "  Buffers", "<cmd>lua Snacks.picker.buffers()<CR>"),
-			dashboard.button("<leader>sf", "  Find Files", "<cmd>lua Snacks.picker.files()<CR>"),
-			dashboard.button("<leader>sr", "  Recent Files", "<cmd>lua Snacks.picker.recent()<CR>"),
-			dashboard.button("<leader>sg", "󰱽  Grep Word", "<cmd>lua Snacks.picker.grep()<CR>"),
-			dashboard.button("<leader>fg", "  Git Files", "<cmd>lua Snacks.picker.git_files()<CR>"),
-			dashboard.button("<leader>gs", "󰊢  Git Status", "<cmd>lua Snacks.picker.git_status()<CR>"),
-			dashboard.button("<leader>lg", "  LazyGit", "<cmd>lua Snacks.lazygit()<CR>"),
-			dashboard.button("e", "  New File", "<cmd>ene <BAR> startinsert<CR>"),
-			dashboard.button("q", "  Quit Neovim", "<cmd>qa<CR>"),
+			dashboard.button("e", "  New File", ":ene <BAR> startinsert<CR>"),
+			dashboard.button("q", "  Quit Neovim", ":qa<CR>"),
 		}
 
 		-- Footer with stats
@@ -35,7 +26,7 @@ return {
 		dashboard.section.footer.val = {
 			"",
 			"⚡ Loaded " .. stats.count .. " plugins in " .. math.floor(stats.startuptime * 100) / 100 .. "ms",
-			"🧠 Welcome, Ciprian — powered by Snacks & Lazy",
+			"🧠 Welcome, Ciprian — powered by Lazy.nvim",
 			"",
 			"",
 		}

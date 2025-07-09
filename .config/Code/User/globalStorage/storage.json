@@ -9,14 +9,20 @@
                 "folderUri": "file:///home/ionutcipriananescu/Developer"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1751623253808"
+            }
+        ]
     },
     "windowControlHeight": 35,
     "profileAssociations": {
         "workspaces": {
             "file:///home/ionutcipriananescu/Developer": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1751623253808": "__default__profile__"
+        }
     },
     "theme": "vs-dark",
     "themeBackground": "#1e1e2e",
@@ -43,7 +49,7 @@
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 457,
+            "sideBarWidth": 300,
             "auxiliarySideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
@@ -55,17 +61,17 @@
             "backupPath": "/home/ionutcipriananescu/.config/Code/Backups/8da3580fb30495cbc957f612b0b1a9a2",
             "uiState": {
                 "mode": 0,
-                "x": 1920,
-                "y": 32,
-                "width": 2560,
-                "height": 1408
+                "x": 360,
+                "y": 140,
+                "width": 1200,
+                "height": 800
             }
         },
         "openedWindows": []
     },
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
-            "sideBarWidth": 457,
+            "sideBarWidth": 300,
             "auxiliaryBarWidth": 300,
             "workspaces": {
                 "304dfdc46cfb1a233db7e99a1ce18124": {

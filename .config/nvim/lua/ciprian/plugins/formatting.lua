@@ -22,16 +22,18 @@ return {
 				lua = { "stylua" },
 				python = { "isort", "black" },
 			},
-			-- format_on_save = {
+			-- Format on save (uncomment to enable)
+			format_on_save = {
+				lsp_fallback = true,
+				async = true,
+				timeout_ms = 5000,
+			},
+			-- Format after save (uncomment to enable)
+			-- format_after_save = {
 			-- 	lsp_fallback = true,
 			-- 	async = true,
 			-- 	timeout_ms = 5000,
 			-- },
-			format_after_save = {
-				lsp_fallback = true,
-				-- async = true,
-				timeout_ms = 5000,
-			},
 		})
 
 		vim.keymap.set({ "n", "v" }, "<leader>mp", function()

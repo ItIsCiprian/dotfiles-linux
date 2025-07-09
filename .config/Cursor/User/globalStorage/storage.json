@@ -10,59 +10,1233 @@
                 "folderUri": "file:///home/ionutcipriananescu/Developer"
             }
         ],
-        "emptyWindows": []
+        "emptyWindows": [
+            {
+                "backupFolder": "1751626645507"
+            },
+            {
+                "backupFolder": "1751626648890"
+            },
+            {
+                "backupFolder": "1751626652217"
+            },
+            {
+                "backupFolder": "1751626654722"
+            },
+            {
+                "backupFolder": "1751626658326"
+            },
+            {
+                "backupFolder": "1751626661380"
+            },
+            {
+                "backupFolder": "1751626664623"
+            },
+            {
+                "backupFolder": "1751626667732"
+            },
+            {
+                "backupFolder": "1751626670741"
+            },
+            {
+                "backupFolder": "1751626674696"
+            },
+            {
+                "backupFolder": "1751626677671"
+            },
+            {
+                "backupFolder": "1751626680858"
+            },
+            {
+                "backupFolder": "1751626684385"
+            },
+            {
+                "backupFolder": "1751626687402"
+            },
+            {
+                "backupFolder": "1751626690879"
+            },
+            {
+                "backupFolder": "1751626693536"
+            },
+            {
+                "backupFolder": "1751626697526"
+            },
+            {
+                "backupFolder": "1751626699859"
+            },
+            {
+                "backupFolder": "1751626703502"
+            },
+            {
+                "backupFolder": "1751626706299"
+            },
+            {
+                "backupFolder": "1751626709903"
+            },
+            {
+                "backupFolder": "1751626713795"
+            },
+            {
+                "backupFolder": "1751626716763"
+            },
+            {
+                "backupFolder": "1751626719680"
+            },
+            {
+                "backupFolder": "1751626723411"
+            },
+            {
+                "backupFolder": "1751626726770"
+            },
+            {
+                "backupFolder": "1751626729462"
+            },
+            {
+                "backupFolder": "1751626733132"
+            },
+            {
+                "backupFolder": "1751626736949"
+            },
+            {
+                "backupFolder": "1751626739552"
+            },
+            {
+                "backupFolder": "1751626742845"
+            },
+            {
+                "backupFolder": "1751626746648"
+            },
+            {
+                "backupFolder": "1751626749202"
+            },
+            {
+                "backupFolder": "1751626752580"
+            },
+            {
+                "backupFolder": "1751626755976"
+            },
+            {
+                "backupFolder": "1751626759827"
+            },
+            {
+                "backupFolder": "1751626763416"
+            },
+            {
+                "backupFolder": "1751626766723"
+            },
+            {
+                "backupFolder": "1751626770422"
+            },
+            {
+                "backupFolder": "1751626772809"
+            },
+            {
+                "backupFolder": "1751626776690"
+            },
+            {
+                "backupFolder": "1751626779962"
+            },
+            {
+                "backupFolder": "1751626783410"
+            },
+            {
+                "backupFolder": "1751626786584"
+            },
+            {
+                "backupFolder": "1751626790236"
+            },
+            {
+                "backupFolder": "1751626793755"
+            },
+            {
+                "backupFolder": "1751626797192"
+            },
+            {
+                "backupFolder": "1751626800877"
+            },
+            {
+                "backupFolder": "1751626803700"
+            },
+            {
+                "backupFolder": "1751626807162"
+            },
+            {
+                "backupFolder": "1751626810608"
+            },
+            {
+                "backupFolder": "1751626813887"
+            },
+            {
+                "backupFolder": "1751626816945"
+            },
+            {
+                "backupFolder": "1751626820742"
+            },
+            {
+                "backupFolder": "1751626824614"
+            },
+            {
+                "backupFolder": "1751626827696"
+            },
+            {
+                "backupFolder": "1751626830790"
+            },
+            {
+                "backupFolder": "1751626835388"
+            },
+            {
+                "backupFolder": "1751626838584"
+            },
+            {
+                "backupFolder": "1751626842312"
+            },
+            {
+                "backupFolder": "1751626845051"
+            },
+            {
+                "backupFolder": "1751626848377"
+            },
+            {
+                "backupFolder": "1751626852544"
+            },
+            {
+                "backupFolder": "1751626855980"
+            },
+            {
+                "backupFolder": "1751626862123"
+            },
+            {
+                "backupFolder": "1751626869282"
+            },
+            {
+                "backupFolder": "1751626876720"
+            },
+            {
+                "backupFolder": "1751626886836"
+            },
+            {
+                "backupFolder": "1751629890382"
+            },
+            {
+                "backupFolder": "1751629896073"
+            },
+            {
+                "backupFolder": "1751629901223"
+            },
+            {
+                "backupFolder": "1751629906483"
+            },
+            {
+                "backupFolder": "1751629912928"
+            },
+            {
+                "backupFolder": "1751629918190"
+            },
+            {
+                "backupFolder": "1751629924583"
+            },
+            {
+                "backupFolder": "1751629931850"
+            },
+            {
+                "backupFolder": "1751629938057"
+            },
+            {
+                "backupFolder": "1751629944867"
+            },
+            {
+                "backupFolder": "1751629952292"
+            },
+            {
+                "backupFolder": "1751629959342"
+            },
+            {
+                "backupFolder": "1751629965650"
+            },
+            {
+                "backupFolder": "1751629988571"
+            },
+            {
+                "backupFolder": "1751630023773"
+            }
+        ]
     },
     "windowControlHeight": 30,
     "profileAssociations": {
         "workspaces": {
             "file:///home/ionutcipriananescu/Developer": "__default__profile__"
         },
-        "emptyWindows": {}
+        "emptyWindows": {
+            "1751626645507": "__default__profile__",
+            "1751626648890": "__default__profile__",
+            "1751626652217": "__default__profile__",
+            "1751626654722": "__default__profile__",
+            "1751626658326": "__default__profile__",
+            "1751626661380": "__default__profile__",
+            "1751626664623": "__default__profile__",
+            "1751626667732": "__default__profile__",
+            "1751626670741": "__default__profile__",
+            "1751626674696": "__default__profile__",
+            "1751626677671": "__default__profile__",
+            "1751626680858": "__default__profile__",
+            "1751626684385": "__default__profile__",
+            "1751626687402": "__default__profile__",
+            "1751626690879": "__default__profile__",
+            "1751626693536": "__default__profile__",
+            "1751626697526": "__default__profile__",
+            "1751626699859": "__default__profile__",
+            "1751626703502": "__default__profile__",
+            "1751626706299": "__default__profile__",
+            "1751626709903": "__default__profile__",
+            "1751626713795": "__default__profile__",
+            "1751626716763": "__default__profile__",
+            "1751626719680": "__default__profile__",
+            "1751626723411": "__default__profile__",
+            "1751626726770": "__default__profile__",
+            "1751626729462": "__default__profile__",
+            "1751626733132": "__default__profile__",
+            "1751626736949": "__default__profile__",
+            "1751626739552": "__default__profile__",
+            "1751626742845": "__default__profile__",
+            "1751626746648": "__default__profile__",
+            "1751626749202": "__default__profile__",
+            "1751626752580": "__default__profile__",
+            "1751626755976": "__default__profile__",
+            "1751626759827": "__default__profile__",
+            "1751626763416": "__default__profile__",
+            "1751626766723": "__default__profile__",
+            "1751626770422": "__default__profile__",
+            "1751626772809": "__default__profile__",
+            "1751626776690": "__default__profile__",
+            "1751626779962": "__default__profile__",
+            "1751626783410": "__default__profile__",
+            "1751626786584": "__default__profile__",
+            "1751626790236": "__default__profile__",
+            "1751626793755": "__default__profile__",
+            "1751626797192": "__default__profile__",
+            "1751626800877": "__default__profile__",
+            "1751626803700": "__default__profile__",
+            "1751626807162": "__default__profile__",
+            "1751626810608": "__default__profile__",
+            "1751626813887": "__default__profile__",
+            "1751626816945": "__default__profile__",
+            "1751626820742": "__default__profile__",
+            "1751626824614": "__default__profile__",
+            "1751626827696": "__default__profile__",
+            "1751626830790": "__default__profile__",
+            "1751626835388": "__default__profile__",
+            "1751626838584": "__default__profile__",
+            "1751626842312": "__default__profile__",
+            "1751626845051": "__default__profile__",
+            "1751626848377": "__default__profile__",
+            "1751626852544": "__default__profile__",
+            "1751626855980": "__default__profile__",
+            "1751626862123": "__default__profile__",
+            "1751626869282": "__default__profile__",
+            "1751626876720": "__default__profile__",
+            "1751626886836": "__default__profile__",
+            "1751629890382": "__default__profile__",
+            "1751629896073": "__default__profile__",
+            "1751629901223": "__default__profile__",
+            "1751629906483": "__default__profile__",
+            "1751629912928": "__default__profile__",
+            "1751629918190": "__default__profile__",
+            "1751629924583": "__default__profile__",
+            "1751629931850": "__default__profile__",
+            "1751629938057": "__default__profile__",
+            "1751629944867": "__default__profile__",
+            "1751629952292": "__default__profile__",
+            "1751629959342": "__default__profile__",
+            "1751629965650": "__default__profile__",
+            "1751629979442": "__default__profile__",
+            "1751629988571": "__default__profile__",
+            "1751630023773": "__default__profile__"
+        }
     },
     "theme": "vs-dark",
-    "themeBackground": "#24273a",
+    "themeBackground": "#1a1a1a",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#cad3f5",
-            "background": "#24273a",
-            "editorBackground": "#24273a",
-            "titleBarBackground": "#181926",
-            "titleBarBorder": "rgba(0, 0, 0, 0)",
-            "activityBarBackground": "#181926",
-            "activityBarBorder": "rgba(0, 0, 0, 0)",
-            "sideBarBackground": "#1e2030",
-            "sideBarBorder": "rgba(0, 0, 0, 0)",
-            "statusBarBackground": "#181926",
-            "statusBarBorder": "rgba(0, 0, 0, 0)",
-            "statusBarNoFolderBackground": "#181926",
-            "windowBorder": "rgba(0, 0, 0, 0)"
+            "foreground": "rgba(204, 204, 204, 0.87)",
+            "background": "#1a1a1a",
+            "editorBackground": "#1a1a1a",
+            "titleBarBackground": "#141414",
+            "titleBarBorder": "rgba(255, 255, 255, 0.05)",
+            "activityBarBackground": "#141414",
+            "sideBarBackground": "#141414",
+            "sideBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarBackground": "#141414",
+            "statusBarBorder": "rgba(255, 255, 255, 0.05)",
+            "statusBarNoFolderBackground": "#141414"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 30,
             "activityBarWidth": 0,
-            "sideBarWidth": 500,
-            "auxiliarySideBarWidth": 400,
+            "sideBarWidth": 0,
+            "auxiliarySideBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/ionutcipriananescu/Developer",
-            "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/8da3580fb30495cbc957f612b0b1a9a2",
+            "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751629988571",
             "uiState": {
-                "mode": 0,
-                "x": 2314,
-                "y": 361,
+                "mode": 1,
+                "x": 720,
+                "y": 280,
                 "width": 1200,
                 "height": 800
             }
         },
-        "openedWindows": []
+        "openedWindows": [
+            {
+                "folder": "file:///home/ionutcipriananescu/Developer",
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/8da3580fb30495cbc957f612b0b1a9a2",
+                "uiState": {
+                    "mode": 0,
+                    "x": 1120,
+                    "y": 460,
+                    "width": 800,
+                    "height": 520
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626645507",
+                "uiState": {
+                    "mode": 1,
+                    "x": 360,
+                    "y": 140,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626648890",
+                "uiState": {
+                    "mode": 1,
+                    "x": 390,
+                    "y": 170,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626652217",
+                "uiState": {
+                    "mode": 1,
+                    "x": 420,
+                    "y": 200,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626654722",
+                "uiState": {
+                    "mode": 1,
+                    "x": 450,
+                    "y": 230,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626658326",
+                "uiState": {
+                    "mode": 1,
+                    "x": 480,
+                    "y": 260,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626661380",
+                "uiState": {
+                    "mode": 1,
+                    "x": 510,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626664623",
+                "uiState": {
+                    "mode": 1,
+                    "x": 540,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626667732",
+                "uiState": {
+                    "mode": 1,
+                    "x": 570,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626670741",
+                "uiState": {
+                    "mode": 1,
+                    "x": 600,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626674696",
+                "uiState": {
+                    "mode": 1,
+                    "x": 630,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626677671",
+                "uiState": {
+                    "mode": 1,
+                    "x": 660,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626680858",
+                "uiState": {
+                    "mode": 1,
+                    "x": 690,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626684385",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626687402",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626690879",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626693536",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626697526",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626699859",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626703502",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626706299",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626709903",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626713795",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626716763",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626719680",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626723411",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626726770",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626729462",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626733132",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626736949",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626739552",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626742845",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626746648",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626749202",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626752580",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626755976",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626759827",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626763416",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626766723",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626770422",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626772809",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626776690",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626779962",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626783410",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626786584",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626790236",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626793755",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626797192",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626800877",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626803700",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626807162",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626810608",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626813887",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626816945",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626820742",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626824614",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626827696",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626830790",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626835388",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626838584",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626842312",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626845051",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626848377",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626852544",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626855980",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626862123",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626869282",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626876720",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751626886836",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751629890382",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751629896073",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751629901223",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751629906483",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751629912928",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751629918190",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751629924583",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751629931850",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751629938057",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751629944867",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751629952292",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751629959342",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751629965650",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751629988571",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            },
+            {
+                "backupPath": "/home/ionutcipriananescu/.config/Cursor/Backups/1751630023773",
+                "uiState": {
+                    "mode": 1,
+                    "x": 720,
+                    "y": 280,
+                    "width": 1200,
+                    "height": 800
+                }
+            }
+        ]
     },
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {

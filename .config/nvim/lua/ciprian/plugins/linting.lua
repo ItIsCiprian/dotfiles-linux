@@ -1,10 +1,13 @@
 return {
 	"mfussenegger/nvim-lint",
-	event = { "BufReadPre", "BufNewFile" },
+	lazy = true,
+	event = "VeryLazy",
 	config = function()
 		local lint = require("lint")
 
+		-- Configure linters for different filetypes
 		lint.linters_by_ft = {
+			-- Example configurations (uncomment and adjust as needed):
 			-- javascript = { "eslint" },
 			-- typescript = { "eslint" },
 			-- javascriptreact = { "eslint" },

@@ -1,6 +1,6 @@
 {
     "editor.accessibilitySupport": "off",
-    "workbench.colorTheme": "Catppuccin Macchiato",
+    "workbench.colorTheme": "Catppuccin Mocha",
     "editor.inlineSuggest.enabled": true,
     "terminal.integrated.fontFamily": "MesloLGS NF",
     "[python]": {
@@ -32,7 +32,5 @@
                 "-l"
             ]
         }
-    },
-    "editor.fontSize": 12,
-    "editor.fontFamily": "FiraCode Nerd Font, monospace"
+    }
 }

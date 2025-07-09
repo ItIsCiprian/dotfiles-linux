@@ -3,7 +3,8 @@ return {
 		"saghen/blink.cmp",
 		dependencies = "rafamadriz/friendly-snippets",
 		version = "*",
-
+		lazy = true,
+		event = "InsertEnter", -- Load when entering insert mode
 		opts = {
 			-- 'default' for mappings similar to built-in completion
 			-- 'super-tab' for mappings similar to vscode (tab to accept, arrow keys to navigate)

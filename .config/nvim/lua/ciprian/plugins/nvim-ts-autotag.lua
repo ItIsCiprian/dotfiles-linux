@@ -1,10 +1,10 @@
 return {
 	"windwp/nvim-ts-autotag",
-	opts = {},
+	lazy = true,
+	ft = { "html", "javascript", "typescript", "javascriptreact", "typescriptreact", "vue", "svelte", "tsx", "jsx" }, -- Load only for relevant filetypes
 	config = function()
 		require("nvim-ts-autotag").setup({
 			opts = {
-				-- Defaults
 				enable_close = true, -- Auto close tags
 				enable_rename = true, -- Auto rename pairs of tags
 				enable_close_on_slash = false, -- Auto close on trailing </

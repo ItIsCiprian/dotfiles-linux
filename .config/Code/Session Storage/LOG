@@ -1,3 +1,2 @@
-2025/07/04-18:39:50.060 2db3f Reusing MANIFEST /home/ionutcipriananescu/.config/Code/Session Storage/MANIFEST-000001
-2025/07/04-18:39:50.061 2db3f Recovering log #3
-2025/07/04-18:39:50.061 2db3f Reusing old log /home/ionutcipriananescu/.config/Code/Session Storage/000003.log 
+2025/07/04-13:19:43.001 5b6d Creating DB /home/ionutcipriananescu/.config/Code/Session Storage since it was missing.
+2025/07/04-13:19:43.005 5b6d Reusing MANIFEST /home/ionutcipriananescu/.config/Code/Session Storage/MANIFEST-000001

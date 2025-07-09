@@ -1,8 +1,0 @@
-2025-07-04 13:20:02.909 [info] update#setState idle
-2025-07-04 13:20:32.891 [info] update#setState checking for updates
-2025-07-04 13:20:32.940 [info] update#setState idle
-2025-07-04 13:24:05.121 [error] Blocked vscode-webview request vscode-webview://0tp856ms4r432n28rq8kfr06356iutqfgtl0st47kn4fk539kb01/index.html?id=ea17f62b-84c3-4eab-ac93-2e84d6c3010f&parentId=1&origin=ea17f62b-84c3-4eab-ac93-2e84d6c3010f&swVersion=4&extensionId=&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app&disableServiceWorker=true
-2025-07-04 13:37:55.683 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 35659]: crashed with code 15 and reason 'killed'
-2025-07-04 13:37:55.702 [info] Extension host with pid 35686 exited with code: 0, signal: unknown.
-2025-07-04 14:03:30.335 [warning] No ptyHost heartbeat after 6 seconds
-2025-07-04 14:05:51.740 [warning] No ptyHost heartbeat after 6 seconds

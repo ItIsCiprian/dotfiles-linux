@@ -81,7 +81,7 @@ return {
 				term_colors = false, -- sets terminal colors (e.g. `g:terminal_color_0`)
 			})
 			-- setup must be called before loading
-			-- vim.cmd.colorscheme("catppuccin")
+			vim.cmd.colorscheme("catppuccin")
 		end,
 	},
 	{
@@ -100,7 +100,7 @@ return {
 				},
 			})
 
-			vim.cmd.colorscheme("rose-pine")
+			--vim.cmd.colorscheme("rose-pine")
 		end,
 	},
 	{

@@ -183,3 +183,4 @@ rest() {
   notify-send -i "$HOME/Pictures/tomato.png" "Pomodoro 🍅" "⏰ Break is over! Get back to work 😬"
   paplay /usr/share/sounds/freedesktop/stereo/complete.oga
 }
+export NVIM_THEME=catppuccin

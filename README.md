@@ -1,179 +1,230 @@
-My Dev Environment Files (Linux) with GNU Stow 🚀
+# 🧰 My Dev Environment Files (Linux) with GNU Stow 🚀
 
-Opinionated dotfiles for Linux, managed via symlinks using GNU Stow.
+Opinionated **dotfiles** for Linux — organized, modular, and symlinked using [GNU Stow](https://www.gnu.org/software/stow/).
 
-⚠️ These are primarily for inspiration. Review before using and proceed at your own risk.
+> ⚠️ **Disclaimer:** These configurations are primarily for inspiration. Review them carefully and use at your own risk.
 
-📦 Quick Start
-# 1) Clone the repo anywhere (~/dotfiles-linux is common)
-git clone https://github.com/ItIsCiprian/dotfiles-linux.git
-cd dotfiles-linux
+---
 
-# 2) Preview what stow will do (dry run)
+## 📦 Quick Start
+
+```bash
+# 1️⃣ Clone the repo
+git clone https://github.com/ItIsCiprian/dotfiles-linux.git ~/dotfiles-linux
+cd ~/dotfiles-linux
+
+# 2️⃣ Preview what Stow will do (dry run)
 stow -nv */
 
-# 3) Apply symlinks into $HOME (from each top-level folder, e.g. zsh, nvim, tmux, etc.)
+# 3️⃣ Apply symlinks into $HOME
 stow .
-# or cherry-pick:
+# or apply specific modules
 stow zsh nvim tmux alacritty ghostty
+💡 If you encounter conflicts, back up or remove existing files first.
+To remove links: stow -D <package>.
 
+🧩 Base CLI Tooling
+Install these core command-line tools first:
 
-If you get “conflict: existing target files”: back up or remove the conflicting files first, or run:
-stow -D <pkg> to unstow, then stow <pkg> again.
+Category	Tools
+Shell & Utilities	zsh, git, curl, wget
+Navigation	fzf, fd, ripgrep
+Pretty Output	bat, eza, delta, tldr
+Helpers	jq, thefuck, lazygit, zoxide (optional)
 
-🧰 Base CLI Tooling
-
-Install these first (pick your distro section below):
-
-zsh, git, curl, wget
-
-fzf, fd, ripgrep
-
-eza, bat, delta, tldr, thefuck
-
-(optional) lazygit, zoxide, jq
-
-Ubuntu / Debian
+🐧 Ubuntu / Debian
+bash
+Copy code
 sudo apt update
-sudo apt install -y zsh git curl wget fzf fd-find ripgrep bat \
-  tldr jq
-# aliases for Debian/Ubuntu package names
-# fd is "fdfind" → map it in your shell if needed: alias fd=fdfind
-# bat is "batcat" → alias bat=batcat
-# thefuck via pipx (recommended)
-sudo apt install -y pipx
-pipx install thefuck
-# eza & delta (via Debian bookworm backports or install from releases)
-sudo apt install -y cargo
-cargo install eza git-delta
-# optional
-sudo apt install -y lazygit
+sudo apt install -y zsh git curl wget fzf fd-find ripgrep bat tldr jq
 
-Fedora
-sudo dnf install -y zsh git curl wget fzf fd-find ripgrep bat eza \
-  git-delta tldr jq thefuck lazygit
-
-Arch / Manjaro
-sudo pacman -S --needed zsh git curl wget fzf fd ripgrep bat eza \
-  git-delta tldr jq thefuck lazygit
-
-
-tldr needs its pages: run tldr --update.
-
-🖥️ Terminal & Fonts
-
-You can use any true-color terminal. Two solid options:
-
-Ghostty (Wayland/X11)
-
-Config path (Linux): ~/.config/ghostty/config
-
-Put your theme, font, keybinds here.
-
-Alacritty
-
-Config path: ~/.config/alacritty/alacritty.yml (e.g., coolnight.toml as a colors include)
-
-Nerd Font
-
-Install a Nerd Font (I use Meslo LG Nerd Font), then set it in your terminal:
-
-Ubuntu/Debian: sudo apt install fonts-noto-color-emoji (extra symbols)
-
-Otherwise download from: nerdfonts.com (or your distro’s package)
-
-🧩 Shell (Zsh)
-
-Relevant Files
-
-~/.zshrc — main shell config (aliases, exports, keybinds)
-
-Optional: ~/.zsh folder for plugins & extra sourcing
-
-Tips
-
-Set zsh as default: chsh -s "$(which zsh)"
-
-If using thefuck, append eval "$(thefuck --alias)" in .zshrc
-
-For fd/bat Debian names, add:
-
+# Debian naming quirks
 alias fd='fdfind'
 alias bat='batcat'
 
-🟩 Neovim
+# thefuck (via pipx)
+sudo apt install -y pipx
+pipx install thefuck
 
-Modern setup using lazy.nvim + Mason + nvim-treesitter.
+# eza & delta (via cargo if missing)
+sudo apt install -y cargo
+cargo install eza git-delta
+
+# optional
+sudo apt install -y lazygit
+🦊 Fedora
+bash
+Copy code
+sudo dnf install -y zsh git curl wget fzf fd-find ripgrep bat eza \
+  git-delta tldr jq thefuck lazygit
+🐉 Arch / Manjaro
+bash
+Copy code
+sudo pacman -S --needed zsh git curl wget fzf fd ripgrep bat eza \
+  git-delta tldr jq thefuck lazygit
+⚙️ Run tldr --update after installation.
+
+🖥️ Terminal & Fonts
+🪄 Ghostty (Wayland/X11)
+Config file:
+~/.config/ghostty/config
+
+Customize fonts, colors, and keybinds here.
+
+🦋 Alacritty
+Config file:
+~/.config/alacritty/alacritty.yml
+
+Supports .toml color themes like coolnight.toml.
+
+🔡 Nerd Font
+Install a Nerd Font (e.g., Meslo LG Nerd Font) for icons and glyphs.
+
+bash
+Copy code
+# Example for Debian / Ubuntu
+sudo apt install fonts-noto-color-emoji
+# or download manually from https://www.nerdfonts.com/
+Set it in your terminal preferences.
+
+🐚 Zsh Setup
+Relevant Files
+
+~/.zshrc — main shell configuration
+
+~/.zsh/ — extra sourced scripts and plugins
+
+Tips
+
+bash
+Copy code
+chsh -s "$(which zsh)"   # make zsh the default shell
+Add helpful aliases:
+
+zsh
+Copy code
+alias fd='fdfind'
+alias bat='batcat'
+eval "$(thefuck --alias)"
+🟩 Neovim Setup
+Modern Neovim powered by lazy.nvim, Mason, and Treesitter.
 
 Requirements
-
 Neovim ≥ 0.9
 
 ripgrep (for Telescope)
 
 Nerd Font
 
-Node.js (for TS/JS LSPs) — recommended via nvm
+Node.js (for TypeScript / JavaScript LSPs)
 
-Install Node via nvm (portable)
+Install Node via nvm:
 
+bash
+Copy code
 curl -fsSL https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
-# reload shell or source nvm
 nvm install --lts
-
-
-Relevant Files
-
-~/.config/nvim (entire folder)
-
+Config Location
+arduino
+Copy code
+~/.config/nvim/
 First Run
+Open Neovim.
 
-Open Neovim; lazy.nvim will sync plugins.
+Let lazy.nvim sync plugins.
 
-Mason will auto-install LSPs/formatters on demand.
+Wait for Mason to install LSPs.
 
-If you briefly see “server failed to start”, press Enter — Mason will handle it.
+If you see “server failed to start”, press Enter — Mason will finish setup.
 
-Plugins (highlights)
+🧠 Plugin Highlights
+Category	Plugins
+Plugin Manager	folke/lazy.nvim
+Core Utils	nvim-lua/plenary.nvim, kylechui/nvim-surround, gbprod/substitute.nvim
+UI / UX	nvim-lualine/lualine.nvim, akinsho/bufferline.nvim, goolord/alpha-nvim, folke/which-key.nvim, stevearc/dressing.nvim
+Files & Icons	nvim-tree/nvim-tree.lua, nvim-tree/nvim-web-devicons
+Fuzzy Finder	nvim-telescope/telescope.nvim, nvim-telescope/telescope-fzf-native.nvim
+LSP / Autocomplete	williamboman/mason.nvim, mason-lspconfig.nvim, neovim/nvim-lspconfig, hrsh7th/cmp-nvim-lsp
+Completion Sources	hrsh7th/nvim-cmp, cmp-buffer, cmp-path, onsails/lspkind.nvim
+Snippets	L3MON4D3/LuaSnip, saadparwaiz1/cmp_luasnip, rafamadriz/friendly-snippets
+Syntax & Tags	nvim-treesitter/nvim-treesitter, nvim-treesitter-textobjects, windwp/nvim-autopairs, windwp/nvim-ts-autotag
+Git Integration	lewis6991/gitsigns.nvim, kdheepak/lazygit.nvim
+Diagnostics	folke/trouble.nvim
+Comments	numToStr/Comment.nvim, JoosepAlviste/nvim-ts-context-commentstring
+Indent & Formatting	lukas-reineke/indent-blankline.nvim, stevearc/conform.nvim, mfussenegger/nvim-lint, WhoIsSethDaniel/mason-tool-installer.nvim
+Colorscheme	folke/tokyonight.nvim (custom-tweaked)
 
-Manager: folke/lazy.nvim
-
-Essentials: nvim-lua/plenary.nvim, kylechui/nvim-surround, gbprod/substitute.nvim
-
-UI: nvim-lualine/lualine.nvim, akinsho/bufferline.nvim, goolord/alpha-nvim, folke/which-key.nvim, stevearc/dressing.nvim
-
-Files: nvim-tree/nvim-tree.lua, nvim-tree/nvim-web-devicons
-
-FZF/Telescope: nvim-telescope/telescope.nvim, telescope-fzf-native.nvim
-
-LSP: williamboman/mason.nvim, mason-lspconfig.nvim, neovim/nvim-lspconfig, hrsh7th/cmp-nvim-lsp
-
-Completion: hrsh7th/nvim-cmp, cmp-buffer, cmp-path, onsails/lspkind.nvim
-
-Snippets: L3MON4D3/LuaSnip, saadparwaiz1/cmp_luasnip, rafamadriz/friendly-snippets
-
-Treesitter: nvim-treesitter/nvim-treesitter, nvim-treesitter-textobjects, windwp/nvim-autopairs, windwp/nvim-ts-autotag
-
-Git: lewis6991/gitsigns.nvim, kdheepak/lazygit.nvim
-
-Diagnostics: folke/trouble.nvim
-
-Comments: numToStr/Comment.nvim, JoosepAlviste/nvim-ts-context-commentstring
-
-Indent: lukas-reineke/indent-blankline.nvim
-
-Format/Lint: stevearc/conform.nvim, mfussenegger/nvim-lint, WhoIsSethDaniel/mason-tool-installer.nvim
-
-Colorscheme: folke/tokyonight.nvim (with small tweaks)
-
-⌨️ Tmux
-
+⌨️ Tmux Setup
 Relevant Files
 
 ~/.tmux.conf
 
 Notes
 
-Works great with christoomey/vim-tmux-navigator to move between tmux panes and Neovim splits with <C-h/j/k/l>.
+Navigate between tmux panes + Neovim splits using
+christoomey/vim-tmux-navigator.
 
-Consider tmux-plugins/tpm if you like plugin management in tmux.
+Optionally manage tmux plugins with tmux-plugins/tpm.
+
+🪟 Window Managers for Linux
+macOS-only tools (Yabai, skhd, Aerospace, SketchyBar) are replaced with Linux equivalents:
+
+Platform	Window Manager	Bar	Hotkeys
+Wayland	sway or hyprland	waybar	built-in / config-based
+X11	i3 or bspwm	polybar	sxhkd
+
+Typical Config Paths
+
+arduino
+Copy code
+~/.config/sway/
+~/.config/hypr/
+~/.config/i3/
+~/.config/bspwm/
+~/.config/waybar/
+~/.config/polybar/
+~/.config/sxhkd/
+🧩 Stow only the folders for the WM you actually use.
+
+🧱 Repo Structure & Stow Packages
+perl
+Copy code
+dotfiles-linux/
+├─ alacritty/            → ~/.config/alacritty/
+├─ ghostty/              → ~/.config/ghostty/
+├─ nvim/                 → ~/.config/nvim/
+├─ tmux/                 → ~/.tmux.conf
+├─ zsh/                  → ~/.zshrc / ~/.zsh/*
+├─ sway/ | hypr/ | i3/   → ~/.config/<wm>/
+├─ waybar/ | polybar/    → ~/.config/<bar>/
+└─ README.md
+Each folder represents a Stow package that mirrors $HOME structure.
+
+💡 Extras
+Tool	Purpose
+fzf-git	Git-aware fuzzy search
+zoxide	Smarter cd replacement
+bat + delta	Prettier cat and diff
+tldr	Concise command examples
+thefuck	Corrects mistyped commands
+lazygit	Terminal Git UI
+
+🧪 Troubleshooting
+Issue	Fix
+Stow creates links in wrong place	Run stow from repo root; ensure folder structure mirrors $HOME.
+LSP “server failed”	Press Enter — Mason will auto-install the server.
+Fonts appear broken	Ensure terminal and bar use a Nerd Font.
+Wayland/X11 mismatch	Use matching WM + bar (e.g., Sway + Waybar, i3 + Polybar).
+
+🔗 Reference
+This setup is maintained at:<br>
+👉 github.com/ItIsCiprian/dotfiles-linux
+
+🧡 Made with Coffee & Code by ItIsCiprian
+yaml
+Copy code
+
+---
+
+Would you like me to **add a ready-to-use `install.sh` script** (detects distro, installs required packages, then runs `stow` automatically)?  
+It would make setup on a fresh Linux system a single command.

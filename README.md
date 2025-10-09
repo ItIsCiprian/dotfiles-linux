@@ -1,245 +1,179 @@
-# My Dev Environment Files for Linux using .stow 🚀
+My Dev Environment Files (Linux) with GNU Stow 🚀
 
-# Dotfiles symlinked on my machine
+Opinionated dotfiles for Linux, managed via symlinks using GNU Stow.
 
-### Install with stow:
-```bash
+⚠️ These are primarily for inspiration. Review before using and proceed at your own risk.
+
+📦 Quick Start
+# 1) Clone the repo anywhere (~/dotfiles-linux is common)
+git clone https://github.com/ItIsCiprian/dotfiles-linux.git
+cd dotfiles-linux
+
+# 2) Preview what stow will do (dry run)
+stow -nv */
+
+# 3) Apply symlinks into $HOME (from each top-level folder, e.g. zsh, nvim, tmux, etc.)
 stow .
-```
+# or cherry-pick:
+stow zsh nvim tmux alacritty ghostty
 
-**IMPORTANT:** These are primarily meant for inspiration. I wouldn't just blindly use them. Proceed at your own risk!
 
-# Terminal Setup
+If you get “conflict: existing target files”: back up or remove the conflicting files first, or run:
+stow -D <pkg> to unstow, then stow <pkg> again.
 
-After recommendations, I've swapped out Wezterm for [Ghostty]([)](https://ghostty.org/)!
-Everything is the same except the Ghostty config file, you can swap it out with this [~/.ghostty.lua](.ghostty.lua) file and everything should look and work very similar to Wezterm!
+🧰 Base CLI Tooling
 
-You'll also need to install extra cli tools as described in this file
+Install these first (pick your distro section below):
 
+zsh, git, curl, wget
 
-- [fzf](https://github.com/junegunn/fzf.git)
-- [fd](https://github.com/sharkdp/fd)
-- [fzf-git](https://github.com/junegunn/fzf-git.sh)
-- [bat](https://github.com/sharkdp/bat)
-- [delta](https://github.com/dandavison/delta)
-- [eza](https://github.com/eza-community/eza.git)
-- [tldr](https://github.com/tldr-pages/tldr)
-- [thefuck](https://github.com/nvbn/thefuck)
+fzf, fd, ripgrep
 
-### Relevant Files
+eza, bat, delta, tldr, thefuck
 
-- [.zshrc](.zshrc) - Zsh Shell Configuration
-- [coolnight.toml](.config/alacritty/themes/themes/coolnight.toml) - Alacritty Color Scheme
+(optional) lazygit, zoxide, jq
 
-# Tmux Setup
+Ubuntu / Debian
+sudo apt update
+sudo apt install -y zsh git curl wget fzf fd-find ripgrep bat \
+  tldr jq
+# aliases for Debian/Ubuntu package names
+# fd is "fdfind" → map it in your shell if needed: alias fd=fdfind
+# bat is "batcat" → alias bat=batcat
+# thefuck via pipx (recommended)
+sudo apt install -y pipx
+pipx install thefuck
+# eza & delta (via Debian bookworm backports or install from releases)
+sudo apt install -y cargo
+cargo install eza git-delta
+# optional
+sudo apt install -y lazygit
 
-### Relevant Files
+Fedora
+sudo dnf install -y zsh git curl wget fzf fd-find ripgrep bat eza \
+  git-delta tldr jq thefuck lazygit
 
-- [.tmux.conf](.tmux.conf) - Tmux Configuration File
+Arch / Manjaro
+sudo pacman -S --needed zsh git curl wget fzf fd ripgrep bat eza \
+  git-delta tldr jq thefuck lazygit
 
-# Yabai Tiling Window Manager Setup
 
+tldr needs its pages: run tldr --update.
 
-### Relevant Files
+🖥️ Terminal & Fonts
 
-- [.config/yabai/yabairc](.config/yabai/yabairc)
-- [.config/skhd/skhdrc](.config/skhd/skhdrc)
+You can use any true-color terminal. Two solid options:
 
-# Aerospace Tiling Window Manager Setup
+Ghostty (Wayland/X11)
 
+Config path (Linux): ~/.config/ghostty/config
 
-### Relevant Files
+Put your theme, font, keybinds here.
 
-- [.config/aerospace/aerospace.toml](.config/aerospace/aerospace.toml)
+Alacritty
 
-# Sketchybar Custom Menu Bar Setup
+Config path: ~/.config/alacritty/alacritty.yml (e.g., coolnight.toml as a colors include)
 
+Nerd Font
 
-### Setup Requires
+Install a Nerd Font (I use Meslo LG Nerd Font), then set it in your terminal:
 
-- sketchybar: `brew tap FelixKratz/formulae` and `brew install sketchybar`
-- jq (json command line processor): `brew install jq`
-- SF Pro Font: `brew tap homebrew/cask-fonts` and `brew install font-sf-pro`
-- SF Symbols: `brew install --cask sf-symbols`:
-- Sketchybar App Font:
+Ubuntu/Debian: sudo apt install fonts-noto-color-emoji (extra symbols)
 
-```bash
-`curl -L https://github.com/kvndrsslr/sketchybar-app-font/releases/download/v1.0.16/sketchybar-app-font.ttf -o $HOME/Library/Fonts/sketchybar-app-font.ttf`
-```
+Otherwise download from: nerdfonts.com (or your distro’s package)
 
-### Relevant Files
+🧩 Shell (Zsh)
 
-- [.config/sketchybar](.config/sketchybar/)
+Relevant Files
 
-# Neovim Setup
+~/.zshrc — main shell config (aliases, exports, keybinds)
 
-**Important**: This is my latest config with lazy.nvim. It is similar, but not the same as my original packer setup.
+Optional: ~/.zsh folder for plugins & extra sourcing
 
+Tips
 
+Set zsh as default: chsh -s "$(which zsh)"
 
-_If you clone the repo into your machine and use the config by copying .config/nvim to your home folder, wait for the plugins, language servers and parsers to install with lazy.nvim, Mason and nvim-treesitter.
-If you are opening a lua file or another file I have language servers configured for, like html, css or javascript/typescript, you might also get an error saying that the server failed to start. This is because Mason hasn't installed it yet. Press enter to continue, Mason will automatically install it._
+If using thefuck, append eval "$(thefuck --alias)" in .zshrc
 
-### Relevant Files
+For fd/bat Debian names, add:
 
-- [.config/nvim](.config/nvim)
+alias fd='fdfind'
+alias bat='batcat'
 
-### Setup Requires
+🟩 Neovim
 
-- True Color Terminal Like: [iTerm2](https://iterm2.com/)
-- [Neovim](https://neovim.io/) (Version 0.9 or Later)
-- [Nerd Font](https://www.nerdfonts.com/) - I use Meslo Nerd Font
-- [Ripgrep](https://github.com/BurntSushi/ripgrep) - For Telescope Fuzzy Finder
-- XCode Command Line Tools
-- If working with typescript/javascript and the typescript language server like me. You might need to install node/npm.
+Modern setup using lazy.nvim + Mason + nvim-treesitter.
 
-If you're on mac, like me, you can install iTerm2, Neovim, Meslo Nerd Font, Ripgrep and Node with homebrew.
+Requirements
 
-iTerm2:
+Neovim ≥ 0.9
 
-```bash
-brew install --cask iterm2
-```
+ripgrep (for Telescope)
 
-Nerd font:
+Nerd Font
 
-```bash
-brew tap homebrew/cask-fonts
-brew install font-meslo-lg-nerd-font
-```
+Node.js (for TS/JS LSPs) — recommended via nvm
 
-Neovim:
+Install Node via nvm (portable)
 
-```bash
-brew install neovim
-```
+curl -fsSL https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+# reload shell or source nvm
+nvm install --lts
 
-Ripgrep:
 
-```bash
-brew install ripgrep
-```
+Relevant Files
 
-Node/Npm:
+~/.config/nvim (entire folder)
 
-```bash
-brew install node
-```
+First Run
 
-For XCode Command Line Tools do:
+Open Neovim; lazy.nvim will sync plugins.
 
-```bash
-xcode-select --install
-```
+Mason will auto-install LSPs/formatters on demand.
 
-## Plugins
+If you briefly see “server failed to start”, press Enter — Mason will handle it.
 
-#### Plugin Manager
+Plugins (highlights)
 
-- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - Amazing plugin manager
+Manager: folke/lazy.nvim
 
-#### Dependency For Other Plugins
+Essentials: nvim-lua/plenary.nvim, kylechui/nvim-surround, gbprod/substitute.nvim
 
-- [nvim-lua/plenary](https://github.com/nvim-lua/plenary.nvim) - Useful lua functions other plugins use
+UI: nvim-lualine/lualine.nvim, akinsho/bufferline.nvim, goolord/alpha-nvim, folke/which-key.nvim, stevearc/dressing.nvim
 
-#### Preferred Colorscheme
+Files: nvim-tree/nvim-tree.lua, nvim-tree/nvim-web-devicons
 
-- [folke/tokyonight.nvim](https://github.com/folke/tokyonight.nvim) - tokyonight colorscheme (I modified some colors it in config)
+FZF/Telescope: nvim-telescope/telescope.nvim, telescope-fzf-native.nvim
 
-#### Navigating Between Neovim Windows and Tmux
+LSP: williamboman/mason.nvim, mason-lspconfig.nvim, neovim/nvim-lspconfig, hrsh7th/cmp-nvim-lsp
 
-- [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - navigate b/w nvim splits & tmux panes with CTRL+h,j,k,l
+Completion: hrsh7th/nvim-cmp, cmp-buffer, cmp-path, onsails/lspkind.nvim
 
-#### Essentials
+Snippets: L3MON4D3/LuaSnip, saadparwaiz1/cmp_luasnip, rafamadriz/friendly-snippets
 
-- [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) - manipulate surroundings with "ys", "ds", and "cs"
-- [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - replace things with register with "s" and "S"
+Treesitter: nvim-treesitter/nvim-treesitter, nvim-treesitter-textobjects, windwp/nvim-autopairs, windwp/nvim-ts-autotag
 
-#### File Explorer
+Git: lewis6991/gitsigns.nvim, kdheepak/lazygit.nvim
 
-- [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua)
+Diagnostics: folke/trouble.nvim
 
-#### VS Code Like Icons
+Comments: numToStr/Comment.nvim, JoosepAlviste/nvim-ts-context-commentstring
 
-- [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons)
+Indent: lukas-reineke/indent-blankline.nvim
 
-#### Neovim Greeter
+Format/Lint: stevearc/conform.nvim, mfussenegger/nvim-lint, WhoIsSethDaniel/mason-tool-installer.nvim
 
-- [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) -- neovim greeter on startup
+Colorscheme: folke/tokyonight.nvim (with small tweaks)
 
-#### Auto Sessions
+⌨️ Tmux
 
-- [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - auto save neovim sessions/restore with keymap
+Relevant Files
 
-#### Statusline
+~/.tmux.conf
 
-- [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - Better statusline
+Notes
 
-#### Bufferline
+Works great with christoomey/vim-tmux-navigator to move between tmux panes and Neovim splits with <C-h/j/k/l>.
 
-- [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - Better looking tabs
-
-#### Keymap Suggestions
-
-- [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - Get suggested keymaps as you type
-
-#### Fuzzy Finder
-
-- [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) - Dependency for better performance
-- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Fuzzy Finder
-- [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - select/input ui improvement
-
-#### Autocompletion
-
-- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - Completion plugin
-- [hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer) - Completion source for text in current buffer
-- [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) - Completion source for file system paths
-- [onsails/lspkind.nvim](https://github.com/onsails/lspkind.nvim) - Vs Code Like Icons for autocompletion
-
-#### Snippets
-
-- [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet engine
-- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Useful snippets for different languages
-- [saadparwaiz1/cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip) - Completion source for snippet autocomplete
-
-#### Managing & Installing Language Servers, Linters & Formatters
-
-- [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) - Install language servers, formatters and linters
-
-#### LSP Configuration
-
-- [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) - Bridges gap b/w mason & lspconfig
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Easy way to configure lsp servers
-- [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) - Smart code autocompletion with lsp
-
-#### Trouble.nvim
-
-- [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - nice way to see diagnostics and other stuff
-
-#### Formatting & Linting
-
-- [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Easy way to configure formatters
-- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - Easy way to configure linters
-- [WhoIsSethDaniel/mason-tool-installer.nvim](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim) - Auto install linters & formatters on startup
-
-#### Comments
-
-- [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - toggle comments with "gc"
-- [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Requires treesitter
-- [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) - highlight/search for comments like todo/hack/bug
-
-#### Treesitter Syntax Highlighting, Autoclosing & Text Objects
-
-- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Treesitter configuration
-- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) - Treesitter configuration
-- [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - Autoclose brackets, parens, quotes, etc...
-- [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) - Autoclose tags
-
-#### Indent Guides
-
-- [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides with treesitter integration
-
-#### Git
-
-- [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Show modifications on left hand side and interact with git hunks
-- [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) - Use lazygit within Neovim
+Consider tmux-plugins/tpm if you like plugin management in tmux.

@@ -1,14 +1,68 @@
-theme = catppuccin-macchiato 
-#theme = rose-pine
+###############################################################################
+# 🧙‍♂️ Ghostty Terminal Configuration — Linux Optimized
+# Author: ItIsCiprian
+# Path: ~/.config/ghostty/config
+#
+# Notes:
+# - Fonts: install “JetBrainsMono Nerd Font”
+# - Themes: Catppuccin Macchiato, Rose Pine, or GruvboxDarkHard
+# - Compatible with Wayland & X11
+###############################################################################
+
+############################
+# 🎨 Theme & Appearance
+############################
+
+theme = catppuccin-macchiato
+# theme = rose-pine
 # theme = GruvboxDarkHard
+
+# Font settings
 font-family = JetBrainsMono Nerd Font
-font-size = 10
-mouse-hide-while-typing = true
-#background-opacity = 0.8
-#background = "#000000"
-window-decoration = true
-mouse-scroll-multiplier = 0.5
-shell-integration-features = no-cursor
+font-size = 11
+
+# Cursor and opacity
 cursor-style = block
-window-padding-x = 5
-window-padding-y = 5
+# background-opacity = 0.9      # Enable for subtle transparency
+# background = "#1e1e2e"        # Override background if needed (Catppuccin base)
+
+# Window decorations
+window-decoration = true
+window-padding-x = 8
+window-padding-y = 8
+
+############################
+# 🖱️ Mouse & Scrolling
+############################
+
+mouse-hide-while-typing = true
+mouse-scroll-multiplier = 0.5   # Slower scrolling for precision
+
+############################
+# 💻 Shell & Integration
+############################
+
+# If using zsh as your default shell (typical for your setup)
+# You can uncomment this to force it explicitly:
+# shell = /usr/bin/zsh
+
+# Shell integration options
+# no-cursor = disables shell cursor control (for custom themes)
+shell-integration-features = no-cursor
+
+############################
+# ✨ Optional (Uncomment if desired)
+############################
+
+# blur-radius = 8                # Enable background blur (if compositor supports it)
+# underline-style = curly        # Fancy underline rendering
+# term = xterm-256color          # Explicit terminal type
+# keybind-copy = Ctrl+Shift+C
+# keybind-paste = Ctrl+Shift+V
+
+###############################################################################
+# 🧠 Tips:
+# - On Hyprland/Sway: enable `wl-clipboard` for OSC52 clipboard sync.
+# - For transparency and blur, ensure your compositor supports it.
+# - Font tweaks: Try "CaskaydiaCove Nerd Font" or "FiraCode Nerd Font" if JetBrainsMono feels narrow.
+###############################################################################

@@ -1,9 +1,0 @@
-2025-07-04 18:40:05.765 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
-2025-07-04 18:40:05.765 [info] Creating repo client with backend url: https://repo42.cursor.sh
-2025-07-04 18:40:06.156 [warning] No repository found: /home/ionutcipriananescu/Developer (candidates: /home/ionutcipriananescu/Developer/Web-Development-Bootcamp)
-2025-07-04 18:40:06.476 [error] Git indexing job failed: Error: Error creating embedding client: "/home/ionutcipriananescu/Developer" does not appear to be a git repository
-
-Caused by:
-    Missing HEAD at '.git/HEAD'
-2025-07-04 18:41:39.967 [info] MultiBranchIndexJob dispose
-2025-07-04 18:41:39.967 [info] Aborting multi-branch indexing job.

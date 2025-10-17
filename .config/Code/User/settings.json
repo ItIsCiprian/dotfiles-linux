@@ -1,36 +1,72 @@
 {
     "editor.accessibilitySupport": "off",
-    "workbench.colorTheme": "Catppuccin Mocha",
-    "editor.inlineSuggest.enabled": true,
-    "terminal.integrated.fontFamily": "MesloLGS NF",
-    "[python]": {
-        "editor.formatOnType": true
-    },
-    "editor.guides.bracketPairs": true,
-    "vs-kubernetes": {
-        "vscode-kubernetes.helm-path.mac": "/Users/ciprian/.vs-kubernetes/tools/helm/darwin-amd64/helm"
-    },
-    "totalTypeScript.hideAllTips": false,
-    "totalTypeScript.hideBasicTips": false,
+
+    // 🧠 Theme & Icons
+    "workbench.colorTheme": "Catppuccin Macchiato",
     "workbench.iconTheme": "vscode-icons",
-    "files.autoSave": "afterDelay",
-    "terminal.integrated.sendKeybindingsToShell": true,
-    "git.openRepositoryInParentFolders": "always",
+
+    // ✍️ Editor Look & Feel
+    "editor.fontFamily": "JetBrainsMono Nerd Font, FiraCode Nerd Font, monospace",
+    "editor.fontLigatures": true,
+    "editor.guides.bracketPairs": true,
+    "editor.inlineSuggest.enabled": true,
     "editor.inlineSuggest.suppressSuggestions": true,
+
+    // 💾 Files & Git
+    "files.autoSave": "afterDelay",
+    "git.openRepositoryInParentFolders": "always",
     "git.autofetch": true,
     "git.confirmSync": false,
-    "workbench.editor.empty.hint": "hidden",
-    "security.allowedUNCHosts": [
-        "wsl.localhost"
-    ],
-    "terminal.explorerKind": "both",
+
+    // 🧱 Terminal — identical to Ghostty
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font, FiraCode Nerd Font, monospace",
+    "terminal.integrated.customGlyphs": true,
+    "terminal.integrated.drawBoldTextInBrightColors": false,
+    "terminal.integrated.minimumContrastRatio": 1,
+    "terminal.integrated.inheritEnv": true,
+    "terminal.integrated.gpuAcceleration": "on",
+    "terminal.integrated.sendKeybindingsToShell": true,
+
+    // 🐚 Default shell profile (Zsh + login mode)
     "terminal.integrated.defaultProfile.linux": "zsh",
     "terminal.integrated.profiles.linux": {
         "zsh": {
             "path": "/usr/bin/zsh",
-            "args": [
-                "-l"
-            ]
+            "args": ["-l"]
         }
-    }
+    },
+
+    // 🧩 Terminal Explorer integration
+    "terminal.explorerKind": "both",
+
+    // 🧠 Language-specific rules
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [80],
+        "editor.selectionHighlight": false,
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": "off"
+    },
+
+    // ⚙️ Environment
+    "remote.autoForwardPortsSource": "hybrid",
+    "python.defaultInterpreterPath": "/bin/python",
+
+    // Chat instruction cache (safe to keep)
+    "chat.instructionsFilesLocations": {
+        ".github/instructions": true,
+        "/tmp/postman-collections-post-response.instructions.md": true,
+        "/tmp/postman-collections-pre-request.instructions.md": true,
+        "/tmp/postman-folder-post-response.instructions.md": true,
+        "/tmp/postman-folder-pre-request.instructions.md": true,
+        "/tmp/postman-http-request-post-response.instructions.md": true,
+        "/tmp/postman-http-request-pre-request.instructions.md": true
+    },
+    "dart.flutterSdkPath": "/home/ionutcipriananescu/flutter",
+    "totalTypeScript.hideAllTips": false,
+    "totalTypeScript.hideBasicTips": false
 }

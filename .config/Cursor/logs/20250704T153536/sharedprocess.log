@@ -1,6 +1,0 @@
-2025-07-04 15:37:57.012 [info] Getting Manifest... catppuccin.catppuccin-vsc
-2025-07-04 15:37:57.919 [info] Installing extension: catppuccin.catppuccin-vsc {"isMachineScoped":false,"installPreReleaseVersion":false,"donotVerifySignature":true,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json","path":"/home/ionutcipriananescu/.cursor/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.2.1","date":"2025-07-03T06:13:13.763Z","vscodeVersion":"1.99.3"}}
-2025-07-04 15:37:57.949 [info] Started downloading extension: catppuccin.catppuccin-vsc 3.17.0 file:///home/ionutcipriananescu/.config/Cursor/CachedExtensionVSIXs/catppuccin.catppuccin-vsc-3.17.0-universal
-2025-07-04 15:37:58.550 [info] Extracted extension to file:///home/ionutcipriananescu/.cursor/extensions/catppuccin.catppuccin-vsc-3.17.0-universal: catppuccin.catppuccin-vsc
-2025-07-04 15:37:58.554 [info] Renamed to /home/ionutcipriananescu/.cursor/extensions/catppuccin.catppuccin-vsc-3.17.0-universal
-2025-07-04 15:37:58.567 [info] Extension installed successfully: catppuccin.catppuccin-vsc vscode-userdata:/home/ionutcipriananescu/.cursor/extensions/extensions.json

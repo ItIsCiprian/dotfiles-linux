@@ -1,7 +1,7 @@
 {
     "telemetry.sqmId": "",
-    "telemetry.machineId": "407e1b122f66afb64bcc262acbb752e1c99767c67b212a9d1dd90ed2477cf939",
-    "telemetry.devDeviceId": "d7ae520d-b04b-4478-bf8a-e0ef85afcd34",
+    "telemetry.machineId": "a70febafaeddfcf280bb967fde89285fa6ca44e2e2f1e828c6b6ea2a9a4c82c0",
+    "telemetry.devDeviceId": "ea14be34-a999-406c-92fa-fbb8842eb63b",
     "backupWorkspaces": {
         "workspaces": [],
         "folders": [
@@ -9,48 +9,41 @@
                 "folderUri": "file:///home/ionutcipriananescu/Developer"
             }
         ],
-        "emptyWindows": [
-            {
-                "backupFolder": "1751623253808"
-            }
-        ]
+        "emptyWindows": []
     },
     "windowControlHeight": 35,
     "profileAssociations": {
         "workspaces": {
             "file:///home/ionutcipriananescu/Developer": "__default__profile__"
         },
-        "emptyWindows": {
-            "1751623253808": "__default__profile__"
-        }
+        "emptyWindows": {}
     },
     "theme": "vs-dark",
-    "themeBackground": "#1e1e2e",
+    "themeBackground": "#24273a",
     "windowSplash": {
         "zoomLevel": 0,
         "baseTheme": "vs-dark",
         "colorInfo": {
-            "foreground": "#cdd6f4",
-            "background": "#1e1e2e",
-            "editorBackground": "#1e1e2e",
-            "titleBarBackground": "#11111b",
+            "foreground": "#cad3f5",
+            "background": "#24273a",
+            "editorBackground": "#24273a",
+            "titleBarBackground": "#181926",
             "titleBarBorder": "rgba(0, 0, 0, 0)",
-            "activityBarBackground": "#11111b",
+            "activityBarBackground": "#181926",
             "activityBarBorder": "rgba(0, 0, 0, 0)",
-            "sideBarBackground": "#181825",
+            "sideBarBackground": "#1e2030",
             "sideBarBorder": "rgba(0, 0, 0, 0)",
-            "statusBarBackground": "#11111b",
+            "statusBarBackground": "#181926",
             "statusBarBorder": "rgba(0, 0, 0, 0)",
-            "statusBarNoFolderBackground": "#11111b",
-            "windowBorder": "rgba(0, 0, 0, 0)"
+            "statusBarNoFolderBackground": "#181926"
         },
         "layoutInfo": {
             "sideBarSide": "left",
             "editorPartMinWidth": 220,
             "titleBarHeight": 35,
             "activityBarWidth": 48,
-            "sideBarWidth": 300,
-            "auxiliarySideBarWidth": 0,
+            "sideBarWidth": 540,
+            "auxiliaryBarWidth": 300,
             "statusBarHeight": 22,
             "windowBorder": false
         }
@@ -61,22 +54,22 @@
             "backupPath": "/home/ionutcipriananescu/.config/Code/Backups/8da3580fb30495cbc957f612b0b1a9a2",
             "uiState": {
                 "mode": 0,
-                "x": 360,
-                "y": 140,
-                "width": 1200,
-                "height": 800
+                "x": 0,
+                "y": 32,
+                "width": 2560,
+                "height": 1408
             }
         },
         "openedWindows": []
     },
     "windowSplashWorkspaceOverride": {
         "layoutInfo": {
-            "sideBarWidth": 300,
+            "sideBarWidth": 540,
             "auxiliaryBarWidth": 300,
             "workspaces": {
-                "304dfdc46cfb1a233db7e99a1ce18124": {
+                "3f0b438a117824f5aaa1cb9d9814a040": {
                     "sideBarVisible": true,
-                    "auxiliaryBarVisible": false
+                    "auxiliaryBarVisible": true
                 }
             }
         }

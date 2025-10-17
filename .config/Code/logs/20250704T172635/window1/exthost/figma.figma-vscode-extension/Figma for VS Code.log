@@ -1,3 +1,0 @@
-2025-07-04 17:26:47.793 [info] Figma for VS Code started activation
-2025-07-04 17:26:50.260 [info] Unable to read plugin config file plugin_dev_settings.json A system error occurred (ENOENT: no such file or directory, open '/home/ionutcipriananescu/.config/Code/User/globalStorage/figma.figma-vscode-extension/plugin_dev_settings.json')
-2025-07-04 17:26:50.260 [info] Figma for VS Code active

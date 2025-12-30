@@ -51,3 +51,9 @@ keymap.set("n", "<leader>sx", "<cmd>close<CR>", { desc = "Close current split" }
 -- keymap.set("n", "<leader>ff", ":Telescope find_files<CR>", { desc = "Find files" })
 -- keymap.set("n", "<leader>fg", ":Telescope live_grep<CR>", { desc = "Live grep" })
 
+-- Code Companion
+keymap.set("n", "<leader>ac", "<cmd>CodeCompanionChat<cr>", { desc = "Code Companion Chat" })
+keymap.set("n", "<leader>ai", "<cmd>CodeCompanionInline<cr>", { desc = "Code Companion Inline" })
+keymap.set("n", "<leader>aa", "<cmd>CodeCompanionActions<cr>", { desc = "Code Companion Actions" })
+
+

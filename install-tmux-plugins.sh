@@ -1,49 +1,46 @@
 #!/usr/bin/env bash
-#
-# Install tmux plugins via TPM (Tmux Plugin Manager)
-#
+# install-plugins.sh — Bootstrap TPM and install all tmux plugins
+set -euo pipefail
 
-set -e
+# ─── Paths (XDG-aligned, matches tmux.conf) ───────────────────────────────────
+TPM_DIR="${TMUX_PLUGIN_MANAGER_PATH:-$HOME/.config/tmux/plugins}/tpm"
+TMUX_CONF="${XDG_CONFIG_HOME:-$HOME/.config}/tmux/tmux.conf"
+TPM_INSTALL="$TPM_DIR/bin/install_plugins"
 
-echo "🔧 Installing tmux plugins..."
+# ─── Helpers ──────────────────────────────────────────────────────────────────
+info()  { echo "  $*"; }
+ok()    { echo "✔  $*"; }
+fail()  { echo "✘  $*" >&2; exit 1; }
 
-# Check if tmux is installed
-if ! command -v tmux &> /dev/null; then
-    echo "❌ Error: tmux is not installed"
-    exit 1
-fi
+# ─── Preflight checks ─────────────────────────────────────────────────────────
+echo "── tmux plugin installer ─────────────────────────────────"
 
-# Check if TPM is installed
-if [ ! -d ~/.tmux/plugins/tpm ]; then
-    echo "❌ Error: TPM is not installed at ~/.tmux/plugins/tpm"
-    echo "Install it with: git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm"
-    exit 1
-fi
+command -v tmux &>/dev/null       || fail "tmux is not installed"
+[[ -f "$TMUX_CONF"   ]]           || fail "config not found: $TMUX_CONF"
+[[ -x "$TPM_INSTALL" ]]           || fail "TPM not found at $TPM_DIR
+       Install it with:
+         git clone --depth=1 https://github.com/tmux-plugins/tpm \"$TPM_DIR\""
 
-# Check if config file exists
-if [ ! -f ~/.tmux.conf ]; then
-    echo "❌ Error: ~/.tmux.conf not found"
-    exit 1
-fi
+ok "tmux $(tmux -V | cut -d' ' -f2)"
+ok "config  $TMUX_CONF"
+ok "TPM     $TPM_DIR"
+echo
 
-echo "✓ TPM found"
-echo "✓ Config found"
+# ─── Install ──────────────────────────────────────────────────────────────────
 
-# Kill any existing tmux server to start fresh
-echo "Stopping any running tmux sessions..."
-tmux kill-server 2>/dev/null || true
+# TPM's install_plugins requires a running server with the config loaded.
+# We start a throwaway detached session, run the installer, then clean up.
 
-# Start a detached tmux session
-echo "Starting tmux session..."
-tmux new-session -d -s plugin_install
+SESSION="__tpm_install_$$"
 
-# Install plugins using TPM
-echo "Installing plugins..."
-~/.tmux/plugins/tpm/bin/install_plugins
+info "Starting temporary tmux session ($SESSION)..."
+tmux -f "$TMUX_CONF" new-session -d -s "$SESSION"
 
-# Kill the temporary session
-tmux kill-session -t plugin_install 2>/dev/null || true
+info "Running TPM install..."
+"$TPM_INSTALL"
 
-echo "✅ Done! Plugins installed successfully."
-echo ""
-echo "Start tmux and your plugins should be loaded."
+info "Cleaning up..."
+tmux kill-session -t "$SESSION" 2>/dev/null || true
+
+echo
+echo "✔  All plugins installed. Start tmux normally to use them."

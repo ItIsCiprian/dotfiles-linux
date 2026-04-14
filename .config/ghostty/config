@@ -5,7 +5,7 @@ theme = Catppuccin Macchiato
 auto-update-channel = tip
 
 # Shell integrations
-shell-integration = fish
+shell-integration = zsh
 quit-after-last-window-closed = true
 
 # Font family
